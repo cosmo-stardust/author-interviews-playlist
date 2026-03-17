@@ -41,6 +41,9 @@
   <main>
     <div id="count" class="sub" style="margin:6px 0 16px 0;"></div>
     <div id="grid" class="grid"></div>
+
+    <h2 style="margin-top:28px;">Collections & Sources</h2>
+    <div id="collections" class="grid"></div>
   </main>
   <div class="footer">Best-effort archive. If you find missing interviews, send them and I’ll add.</div>
 
@@ -82,6 +85,22 @@ fetch('data.json')
         grid.appendChild(card);
       }
     };
+
+    const collections = data.collections || [];
+    const colGrid = document.getElementById('collections');
+    colGrid.innerHTML = '';
+    for (const c of collections) {
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.innerHTML = `
+        <div class="content">
+          <div class="title">${c.title}</div>
+          <div class="summary">${c.summary || ''}</div>
+          <div><a href="${c.url}" target="_blank" rel="noopener">Open</a></div>
+        </div>
+      `;
+      colGrid.appendChild(card);
+    }
 
     document.getElementById('authorFilter').addEventListener('change', render);
     document.getElementById('search').addEventListener('input', render);

@@ -1,5 +1,11 @@
 {
   "updated": "2026-03-17",
+  "collections": [
+    {"title":"George R.R. Martin Interviews (YouTube playlist)","url":"https://www.youtube.com/playlist?list=PLDkk4b0gM5Kgy3FDkd8_GRBmsnzn7XBkU","summary":"Community playlist of GRRM interviews."},
+    {"title":"J.K. Rowling Interviews (YouTube playlist)","url":"https://www.youtube.com/playlist?list=PLzyBVfRrmOwZtWxv2is_LtxVM2QGupN_V","summary":"Community playlist of Rowling interviews."},
+    {"title":"The Rowling Library (YouTube channel)","url":"https://www.youtube.com/c/TheRowlingLibrary","summary":"Archive channel with many Rowling appearances."},
+    {"title":"George R.R. Martin — Interviews index (official site)","url":"https://georgerrmartin.com/for-fans/interviews/","summary":"Official list of GRRM interviews (mixed media)."}
+  ],
   "items": [
     {"author":"George R. R. Martin","title":"Oldest George R.R. Martin Interview","date":"1991","source":"YouTube","url":"https://www.youtube.com/watch?v=M1uYQLEPkjw"},
     {"author":"George R. R. Martin","title":"NUTV Flashback Friday Interview","date":"1991","source":"YouTube","url":"https://www.youtube.com/watch?v=ZO1EHuSnJWo"},
