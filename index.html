@@ -39,7 +39,8 @@
     </div>
   </header>
   <main>
-    <div id="count" class="sub" style="margin:6px 0 16px 0;"></div>
+    <div id="count" class="sub" style="margin:6px 0 10px 0;"></div>
+    <div id="stats" class="sub" style="margin:0 0 16px 0;"></div>
     <div id="grid" class="grid"></div>
 
     <h2 style="margin-top:28px;">Collections & Sources</h2>
@@ -53,6 +54,11 @@ const YT_THUMB = (url) => {
   return m ? `https://img.youtube.com/vi/${m[1]}/hqdefault.jpg` : "";
 };
 
+const getId = (url) => {
+  const m = url.match(/v=([^&]+)/);
+  return m ? m[1] : url;
+};
+
 fetch('data.json')
   .then(r => r.json())
   .then(data => {
@@ -64,21 +70,38 @@ fetch('data.json')
       const q = document.getElementById('search').value.toLowerCase();
       let filtered = items.filter(i => (author === 'all' || i.author === author));
       if (q) filtered = filtered.filter(i => (i.title + ' ' + i.author).toLowerCase().includes(q));
+
+      // de-dupe by author + video id
+      const seen = new Set();
+      filtered = filtered.filter(i => {
+        const key = i.author + '|' + getId(i.url);
+        if (seen.has(key)) return false;
+        seen.add(key);
+        return true;
+      });
+
       // sort by date (year or full date)
       filtered.sort((a,b) => (a.date > b.date ? 1 : -1));
-      document.getElementById('count').textContent = `${filtered.length} interviews`;
+
+      const total = items.length;
+      const byAuthor = items.reduce((acc,i)=>{acc[i.author]=(acc[i.author]||0)+1;return acc;},{});
+      document.getElementById('count').textContent = `${filtered.length} interviews shown`;
+      document.getElementById('stats').textContent = `Total in archive: ${total} · GRRM: ${byAuthor['George R. R. Martin']||0} · Rowling: ${byAuthor['J.K. Rowling']||0}`;
+
       const grid = document.getElementById('grid');
       grid.innerHTML = '';
       for (const i of filtered) {
         const card = document.createElement('div');
         card.className = 'card';
         const thumb = YT_THUMB(i.url);
+        const tags = (i.tags || []).map(t=>`#${t}`).join(' ');
         card.innerHTML = `
           <div class="thumb">${thumb ? `<img src="${thumb}" alt="${i.title}" />` : ''}</div>
           <div class="content">
             <div class="meta">${i.author} · ${i.date} · ${i.source}</div>
             <div class="title">${i.title}</div>
             <div class="summary">${i.summary}</div>
+            ${tags ? `<div class="meta">${tags}</div>` : ''}
             <div><a href="${i.url}" target="_blank" rel="noopener">Watch</a></div>
           </div>
         `;
