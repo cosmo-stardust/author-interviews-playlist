@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Author Interview Playlist — GRRM & J.K. Rowling</title>
+  <title>Author Interview Archive — GRRM & J.K. Rowling</title>
   <style>
     :root{--bg:#0b0d12;--card:#151925;--text:#e8edf5;--muted:#9aa5b1;--accent:#6ea8fe;}
     body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,"Helvetica Neue",Arial,sans-serif;background:var(--bg);color:var(--text);} 
@@ -23,12 +23,13 @@
     .title{font-weight:600;font-size:15px;line-height:1.3;}
     .summary{font-size:13px;color:#c7d0dd;}
     .footer{padding:24px 20px;color:var(--muted);font-size:12px;text-align:center;}
+    h2{margin-top:28px;}
   </style>
 </head>
 <body>
   <header>
-    <h1>Author Interview Playlist</h1>
-    <div class="sub">George R. R. Martin & J.K. Rowling · Chronological · Updated: <span id="updated"></span></div>
+    <h1>Author Interview Archive</h1>
+    <div class="sub">George R. R. Martin & J.K. Rowling · Canonical events · Updated: <span id="updated"></span></div>
     <div class="controls">
       <select id="authorFilter">
         <option value="all">All authors</option>
@@ -43,10 +44,13 @@
     <div id="stats" class="sub" style="margin:0 0 16px 0;"></div>
     <div id="grid" class="grid"></div>
 
-    <h2 style="margin-top:28px;">Collections & Sources</h2>
+    <h2>Best Of (curated)</h2>
+    <div id="bestof" class="grid"></div>
+
+    <h2>Collections & Sources</h2>
     <div id="collections" class="grid"></div>
   </main>
-  <div class="footer">Best-effort archive. If you find missing interviews, send them and I’ll add.</div>
+  <div class="footer">Canonical archive. One record per interview event. Clips are attached as links under each event.</div>
 
 <script>
 const YT_THUMB = (url) => {
@@ -63,51 +67,60 @@ fetch('data.json')
   .then(r => r.json())
   .then(data => {
     document.getElementById('updated').textContent = data.updated;
-    const items = data.items.map(i => ({...i, summary: i.summary || i.title}));
+    const events = data.events || [];
 
     const render = () => {
       const author = document.getElementById('authorFilter').value;
       const q = document.getElementById('search').value.toLowerCase();
-      let filtered = items.filter(i => (author === 'all' || i.author === author));
-      if (q) filtered = filtered.filter(i => (i.title + ' ' + i.author).toLowerCase().includes(q));
-
-      // de-dupe by author + video id
-      const seen = new Set();
-      filtered = filtered.filter(i => {
-        const key = i.author + '|' + getId(i.url);
-        if (seen.has(key)) return false;
-        seen.add(key);
-        return true;
-      });
+      let filtered = events.filter(e => (author === 'all' || e.author === author));
+      if (q) filtered = filtered.filter(e => (e.title + ' ' + e.author + ' ' + (e.outlet||'') + ' ' + (e.summary||'')).toLowerCase().includes(q));
 
       // sort by date (year or full date)
       filtered.sort((a,b) => (a.date > b.date ? 1 : -1));
 
-      const total = items.length;
-      const byAuthor = items.reduce((acc,i)=>{acc[i.author]=(acc[i.author]||0)+1;return acc;},{});
+      const total = events.length;
+      const byAuthor = events.reduce((acc,e)=>{acc[e.author]=(acc[e.author]||0)+1;return acc;},{});
       document.getElementById('count').textContent = `${filtered.length} interviews shown`;
       document.getElementById('stats').textContent = `Total in archive: ${total} · GRRM: ${byAuthor['George R. R. Martin']||0} · Rowling: ${byAuthor['J.K. Rowling']||0}`;
 
       const grid = document.getElementById('grid');
       grid.innerHTML = '';
-      for (const i of filtered) {
+      for (const e of filtered) {
         const card = document.createElement('div');
         card.className = 'card';
-        const thumb = YT_THUMB(i.url);
-        const tags = (i.tags || []).map(t=>`#${t}`).join(' ');
+        const firstLink = (e.links && e.links[0]) ? e.links[0].url : '';
+        const thumb = firstLink ? YT_THUMB(firstLink) : '';
+        const tags = (e.tags || []).map(t=>`#${t}`).join(' ');
+        const linkList = (e.links||[]).slice(0,3).map(l=>`<a href="${l.url}" target="_blank" rel="noopener">${l.source}</a>`).join(' · ');
         card.innerHTML = `
-          <div class="thumb">${thumb ? `<img src="${thumb}" alt="${i.title}" />` : ''}</div>
+          <div class="thumb">${thumb ? `<img src="${thumb}" alt="${e.title}" />` : ''}</div>
           <div class="content">
-            <div class="meta">${i.author} · ${i.date} · ${i.source}</div>
-            <div class="title">${i.title}</div>
-            <div class="summary">${i.summary}</div>
+            <div class="meta">${e.author} · ${e.date || 'Unknown date'} ${e.outlet ? '· '+e.outlet : ''}</div>
+            <div class="title">${e.title}</div>
+            <div class="summary">${e.summary || ''}</div>
             ${tags ? `<div class="meta">${tags}</div>` : ''}
-            <div><a href="${i.url}" target="_blank" rel="noopener">Watch</a></div>
+            <div class="meta">${linkList || ''}</div>
           </div>
         `;
         grid.appendChild(card);
       }
     };
+
+    const best = data.bestOf || [];
+    const bestGrid = document.getElementById('bestof');
+    bestGrid.innerHTML = '';
+    for (const b of best) {
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.innerHTML = `
+        <div class="content">
+          <div class="title">${b.title}</div>
+          <div class="summary">${b.summary || ''}</div>
+          ${b.url ? `<div><a href="${b.url}" target="_blank" rel="noopener">Watch</a></div>` : ''}
+        </div>
+      `;
+      bestGrid.appendChild(card);
+    }
 
     const collections = data.collections || [];
     const colGrid = document.getElementById('collections');

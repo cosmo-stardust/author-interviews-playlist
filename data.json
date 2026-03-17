@@ -22,526 +22,1119 @@
       "summary": "Official list of GRRM interviews (mixed media)."
     }
   ],
-  "items": [
+  "bestOf": [],
+  "events": [
     {
+      "id": "evt-0001",
       "author": "George R. R. Martin",
       "title": "Oldest George R.R. Martin Interview",
       "date": "1991",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=M1uYQLEPkjw"
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
+      "summary": "Oldest George R.R. Martin Interview",
+      "tags": [],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=M1uYQLEPkjw",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
     },
     {
+      "id": "evt-0002",
       "author": "George R. R. Martin",
       "title": "NUTV Flashback Friday Interview",
       "date": "1991",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=ZO1EHuSnJWo"
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
+      "summary": "NUTV Flashback Friday Interview",
+      "tags": [],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=ZO1EHuSnJWo",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
     },
     {
+      "id": "evt-0003",
       "author": "George R. R. Martin",
       "title": "A Dance with Dragons (Talks at Google)",
       "date": "2011-08-07",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=QTTW8M_etko"
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
+      "summary": "A Dance with Dragons (Talks at Google)",
+      "tags": [],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=QTTW8M_etko",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
     },
     {
+      "id": "evt-0004",
       "author": "George R. R. Martin",
       "title": "FULL INTERVIEW (George Stroumboulopoulos)",
       "date": "2012-03-14",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=b3Guf-T3U1U"
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
+      "summary": "FULL INTERVIEW (George Stroumboulopoulos)",
+      "tags": [],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=b3Guf-T3U1U",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
     },
     {
+      "id": "evt-0005",
       "author": "George R. R. Martin",
       "title": "In Conversation with John Hodgman (Fire & Blood)",
       "date": "2018-11-21",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=fjreiP50DG8"
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
+      "summary": "In Conversation with John Hodgman (Fire & Blood)",
+      "tags": [],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=fjreiP50DG8",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
     },
     {
+      "id": "evt-0006",
       "author": "George R. R. Martin",
       "title": "Earliest Inspiration Of All (Late Show clip)",
       "date": "2018-11-22",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=4RaehHesOTE"
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
+      "summary": "Earliest Inspiration Of All (Late Show clip)",
+      "tags": [],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=4RaehHesOTE",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
     },
     {
+      "id": "evt-0007",
       "author": "George R. R. Martin",
       "title": "Chicago Tonight Interview (Part 2)",
       "date": "2021-06-17",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=noAXc4VABS0"
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
+      "summary": "Chicago Tonight Interview (Part 2)",
+      "tags": [],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=noAXc4VABS0",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
     },
     {
+      "id": "evt-0008",
       "author": "George R. R. Martin",
       "title": "Colbert Extended Interview",
       "date": "2022-10-26",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=QgCxVdsQH_k"
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
+      "summary": "Colbert Extended Interview",
+      "tags": [],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=QgCxVdsQH_k",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
     },
     {
+      "id": "evt-0009",
       "author": "George R. R. Martin",
       "title": "A Celebration of the Targaryen Dynasty (Conversation)",
       "date": "2022-10-28",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=EXZE_KQnat4"
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
+      "summary": "A Celebration of the Targaryen Dynasty (Conversation)",
+      "tags": [],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=EXZE_KQnat4",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
     },
     {
+      "id": "evt-0010",
       "author": "George R. R. Martin",
       "title": "Game of Thrones: The Mad King (RSC / Play Interview)",
       "date": "2025-02",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=xwBDEryzk8I"
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
+      "summary": "Game of Thrones: The Mad King (RSC / Play Interview)",
+      "tags": [],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=xwBDEryzk8I",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
     },
     {
+      "id": "evt-0011",
       "author": "George R. R. Martin",
       "title": "Hollywood Reporter Interview Commentary (Clip)",
       "date": "2026-01-16",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=jke1KaPAxVo"
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
+      "summary": "Hollywood Reporter Interview Commentary (Clip)",
+      "tags": [],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=jke1KaPAxVo",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
     },
     {
+      "id": "evt-0012",
       "author": "J.K. Rowling",
       "title": "ITN raw footage interview (Edinburgh)",
       "date": "1998-10-08",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=Mg3oCq_E8Os"
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
+      "summary": "ITN raw footage interview (Edinburgh)",
+      "tags": [],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=Mg3oCq_E8Os",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
     },
     {
+      "id": "evt-0013",
       "author": "J.K. Rowling",
       "title": "Elephant House interview (STV)",
       "date": "1998",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=cmZLl6EeJMg"
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
+      "summary": "Elephant House interview (STV)",
+      "tags": [],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=cmZLl6EeJMg",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
     },
     {
+      "id": "evt-0014",
       "author": "J.K. Rowling",
       "title": "60 Minutes interview (archive upload)",
       "date": "1999",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=gjWABn5imBw"
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
+      "summary": "60 Minutes interview (archive upload)",
+      "tags": [],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=gjWABn5imBw",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
     },
     {
+      "id": "evt-0015",
       "author": "J.K. Rowling",
       "title": "Donny & Marie Osmond Talk Show",
       "date": "1999-11-09",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=F1I6CR5NGa8"
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
+      "summary": "Donny & Marie Osmond Talk Show",
+      "tags": [],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=F1I6CR5NGa8",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
     },
     {
+      "id": "evt-0016",
       "author": "J.K. Rowling",
       "title": "Origins of Harry Potter (1999 TV segment)",
       "date": "1999",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=AWTwd511S6I"
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
+      "summary": "Origins of Harry Potter (1999 TV segment)",
+      "tags": [],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=AWTwd511S6I",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
     },
     {
+      "id": "evt-0017",
       "author": "J.K. Rowling",
       "title": "Donny & Marie clip (1999)",
       "date": "1999",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=7FDDtRjsZ5Q"
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
+      "summary": "Donny & Marie clip (1999)",
+      "tags": [],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=7FDDtRjsZ5Q",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
     },
     {
+      "id": "evt-0018",
       "author": "J.K. Rowling",
       "title": "Harry Potter and Me (BBC)",
       "date": "2001-12-28",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=SrJiAG8GmnQ"
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
+      "summary": "Harry Potter and Me (BBC)",
+      "tags": [],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=SrJiAG8GmnQ",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
     },
     {
+      "id": "evt-0019",
       "author": "J.K. Rowling",
       "title": "Newsnight interview with Jeremy Paxman",
       "date": "2003-06",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=G2tcbFF99Yg"
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
+      "summary": "Newsnight interview with Jeremy Paxman",
+      "tags": [],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=G2tcbFF99Yg",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
     },
     {
+      "id": "evt-0020",
       "author": "J.K. Rowling",
       "title": "Jonathan Ross interview",
       "date": "2007-07-06",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=RtWjYIUuzQQ"
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
+      "summary": "Jonathan Ross interview",
+      "tags": [],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=RtWjYIUuzQQ",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
     },
     {
+      "id": "evt-0021",
       "author": "J.K. Rowling",
       "title": "Conversation with Daniel Radcliffe",
       "date": "2013-09-22",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=7BdVHWz1DPU"
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
+      "summary": "Conversation with Daniel Radcliffe",
+      "tags": [],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=7BdVHWz1DPU",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
     },
     {
+      "id": "evt-0022",
       "author": "George R. R. Martin",
       "title": "George RR Martin asks Stephen King: \"How do you write so Fast?!\"",
       "date": "2018-03-03",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=xR7XMkjDGw0",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "George RR Martin asks Stephen King: \"How do you write so Fast?!\"",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=xR7XMkjDGw0",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0023",
       "author": "George R. R. Martin",
       "title": "George RR Martin on the Lands of Ice and Fire",
       "date": "2018-03-04",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=zZVocW12twg",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "George RR Martin on the Lands of Ice and Fire",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=zZVocW12twg",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0024",
       "author": "George R. R. Martin",
       "title": "George R. R. Martin on Sothoryos",
       "date": "2018-03-05",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=DcfeygptQ2M",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "George R. R. Martin on Sothoryos",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=DcfeygptQ2M",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0025",
       "author": "George R. R. Martin",
       "title": "George RR Martin vs Fan who thinks he found a Plot Hole",
       "date": "2018-03-08",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=3eS98D-pJiA",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "George RR Martin vs Fan who thinks he found a Plot Hole",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=3eS98D-pJiA",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0026",
       "author": "George R. R. Martin",
       "title": "George RR Martin Says he will Kill Many More Important Characters",
       "date": "2018-03-10",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=ZWnw5wqqEfE",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "George RR Martin Says he will Kill Many More Important Characters",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=ZWnw5wqqEfE",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0027",
       "author": "George R. R. Martin",
       "title": "George RR Martin on People Who hate his Books",
       "date": "2018-03-12",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=H_8kNvFcvEA",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "George RR Martin on People Who hate his Books",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=H_8kNvFcvEA",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0028",
       "author": "George R. R. Martin",
       "title": "George R.R. Martin on J.R.R. Tolkien and Cliché Fantasy",
       "date": "2018-03-13",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=u18fCuUDLiI",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "George R.R. Martin on J.R.R. Tolkien and Cliché Fantasy",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=u18fCuUDLiI",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0029",
       "author": "George R. R. Martin",
       "title": "George RR Martin on the Lord of Light",
       "date": "2018-03-15",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=amArH3ucEYU",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "George RR Martin on the Lord of Light",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=amArH3ucEYU",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0030",
       "author": "George R. R. Martin",
       "title": "George R. R. Martin on Cyvasse",
       "date": "2018-03-17",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=rtr7LbrXTUA",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "George R. R. Martin on Cyvasse",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=rtr7LbrXTUA",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0031",
       "author": "George R. R. Martin",
       "title": "George R. R. Martin on the Inspiration for the Wall",
       "date": "2018-03-20",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=bhpQwiz0Gq0",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "George R. R. Martin on the Inspiration for the Wall",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=bhpQwiz0Gq0",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0032",
       "author": "George R. R. Martin",
       "title": "George RR Martin: \"The Red Wedding was the Hardest Thing I ever Wrote\"",
       "date": "2018-03-24",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=M6LzFbS0ioI",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "George RR Martin: \"The Red Wedding was the Hardest Thing I ever Wrote\"",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=M6LzFbS0ioI",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0033",
       "author": "George R. R. Martin",
       "title": "George R. R. Martin on Valyria",
       "date": "2018-03-26",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=pS_l9XMURj4",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "George R. R. Martin on Valyria",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=pS_l9XMURj4",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0034",
       "author": "George R. R. Martin",
       "title": "George RR Martin on the George Bush Head in Game of Thrones",
       "date": "2018-03-28",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=qd9btOXKX3M",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "George RR Martin on the George Bush Head in Game of Thrones",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=qd9btOXKX3M",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0035",
       "author": "George R. R. Martin",
       "title": "George R. R Martin on Drogon vs Smaug",
       "date": "2018-03-30",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=kAR8H7x8wac",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "George R. R Martin on Drogon vs Smaug",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=kAR8H7x8wac",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0036",
       "author": "George R. R. Martin",
       "title": "George R.R. Martin on How to Control Dragons",
       "date": "2018-03-31",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=rfTMP8tsFLw",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "George R.R. Martin on How to Control Dragons",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=rfTMP8tsFLw",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0037",
       "author": "J.K. Rowling",
       "title": "J. K. Rowling - Webcast (2012)",
       "date": "2014-08-15",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=tK4e0nNh5n8",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "J. K. Rowling - Webcast (2012)",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=tK4e0nNh5n8",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0038",
       "author": "J.K. Rowling",
       "title": "J. K. Rowling - Personal Interests & Writing 'The Causal Vacancy' (2012)",
       "date": "2014-08-15",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=fwmZIZHKJGI",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "J. K. Rowling - Personal Interests & Writing 'The Causal Vacancy' (2012)",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=fwmZIZHKJGI",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0039",
       "author": "J.K. Rowling",
       "title": "A Conversation with J. K. Rowling & Daniel Radcliffe (2000)",
       "date": "2014-08-15",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=JKYZoLw1EYs",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "A Conversation with J. K. Rowling & Daniel Radcliffe (2000)",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=JKYZoLw1EYs",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0040",
       "author": "J.K. Rowling",
       "title": "J. K. Rowling - At 'The Bath Literature Festival' (2012)",
       "date": "2014-08-15",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=lS_xALKP5QE",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "J. K. Rowling - At 'The Bath Literature Festival' (2012)",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=lS_xALKP5QE",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0041",
       "author": "J.K. Rowling",
       "title": "J. K. Rowling - 'The Casual Vacancy' Interview/ Reads Excerpt on 'GMA'",
       "date": "2014-08-15",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=Jh9d-CTqnsY",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "J. K. Rowling - 'The Casual Vacancy' Interview/ Reads Excerpt on 'GMA'",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=Jh9d-CTqnsY",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0042",
       "author": "J.K. Rowling",
       "title": "J. K. Rowling - Announces Pottermore (2011)",
       "date": "2014-08-15",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=H3MkVla-VwI",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "J. K. Rowling - Announces Pottermore (2011)",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=H3MkVla-VwI",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0043",
       "author": "J.K. Rowling",
       "title": "J. K. Rowling - On 'The Charlie Rose Show' (2012)",
       "date": "2014-08-30",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=w9DOp6mhLFo",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "J. K. Rowling - On 'The Charlie Rose Show' (2012)",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=w9DOp6mhLFo",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0044",
       "author": "J.K. Rowling",
       "title": "J. K. Rowling - Friday Night With Jonathan Ross (2007)",
       "date": "2014-08-15",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=bdMe4wGRElE",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "J. K. Rowling - Friday Night With Jonathan Ross (2007)",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=bdMe4wGRElE",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0045",
       "author": "J.K. Rowling",
       "title": "J. K. Rowling - Writing For Adults (2012)",
       "date": "2014-08-15",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=zl5rMBt4uig",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "J. K. Rowling - Writing For Adults (2012)",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=zl5rMBt4uig",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0046",
       "author": "J.K. Rowling",
       "title": "The Women of 'Harry Potter' (2011)",
       "date": "2014-08-15",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=_KzMA1SitnA",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "The Women of 'Harry Potter' (2011)",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=_KzMA1SitnA",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0047",
       "author": "J.K. Rowling",
       "title": "Oprah Interviews J.K. Rowling (2010)",
       "date": "2014-08-30",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=51s9WTix4XM",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "Oprah Interviews J.K. Rowling (2010)",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=51s9WTix4XM",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0048",
       "author": "J.K. Rowling",
       "title": "J.K. Rowling - Why I Started 'Lumos' Charity (2012)",
       "date": "2014-08-15",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=gHMSD-P_vfI",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "J.K. Rowling - Why I Started 'Lumos' Charity (2012)",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=gHMSD-P_vfI",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0049",
       "author": "J.K. Rowling",
       "title": "J. K. Rowling -  A Year In The Life ( 2007)",
       "date": "2014-08-14",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=0nCCsT30A8A",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "J. K. Rowling -  A Year In The Life ( 2007)",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=0nCCsT30A8A",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0050",
       "author": "J.K. Rowling",
       "title": "J. K. Rowling Announces eBook Version of 'The Tales of Beedle The Bard' to Benefit Lumos (2008)",
       "date": "2014-08-25",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=XnPacfW3JF0",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "J. K. Rowling Announces eBook Version of 'The Tales of Beedle The Bard' to Benefit Lumos (2008)",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=XnPacfW3JF0",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0051",
       "author": "J.K. Rowling",
       "title": "J.K. Rowling Speech at Harvard (2008)",
       "date": "",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=mQpL5E0KrHw",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "J.K. Rowling Speech at Harvard (2008)",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=mQpL5E0KrHw",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0052",
       "author": "J.K. Rowling",
       "title": "J. K. Rowling Reads 'Harry Potter & The Prisoner of Azkaban' Live - *Rare* (1999)",
       "date": "",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=upNKopjJdQ8",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "J. K. Rowling Reads 'Harry Potter & The Prisoner of Azkaban' Live - *Rare* (1999)",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=upNKopjJdQ8",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0053",
       "author": "J.K. Rowling",
       "title": "Wizarding World of Harry Potter Grand Opening (2010)",
       "date": "",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=7tj_j292-qw",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "Wizarding World of Harry Potter Grand Opening (2010)",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=7tj_j292-qw",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0054",
       "author": "J.K. Rowling",
       "title": "J.K. Rowling Reading 'Harry Potter & The Sorcerer's Stone' At The White House Easter Party (2010)",
       "date": "",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=53XzByjz3DA",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "J.K. Rowling Reading 'Harry Potter & The Sorcerer's Stone' At The White House Easter Party (2010)",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=53XzByjz3DA",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     },
     {
+      "id": "evt-0055",
       "author": "J.K. Rowling",
       "title": "BAFTA Awards 2011",
       "date": "",
-      "source": "YouTube",
-      "url": "https://www.youtube.com/watch?v=zBubLFJ1Ru8",
+      "outlet": "",
+      "host": "",
+      "location": "",
+      "format": "",
       "summary": "BAFTA Awards 2011",
       "tags": [
         "playlist"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=zBubLFJ1Ru8",
+          "source": "YouTube",
+          "type": "video"
+        }
       ]
     }
   ]
