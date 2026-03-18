@@ -1461,6 +1461,139 @@
                "type" : "video"
             }
          ]
+      },
+      {
+         "date" : "2016-02-23",
+         "format" : "TV interview",
+         "id" : "evt-0069",
+         "summary" : "Talk To Al Jazeera interview covering writing, imagination, and Game of Thrones.",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "location" : "",
+         "outlet" : "Al Jazeera America",
+         "tags" : [
+            "TV",
+            "interview"
+         ],
+         "title" : "Talk To Al Jazeera (Al Jazeera America)",
+         "links" : [
+            {
+               "url" : "https://www.youtube.com/watch?v=GaPZGDlm2F4",
+               "type" : "video",
+               "source" : "YouTube"
+            }
+         ]
+      },
+      {
+         "date" : "2014-08-15",
+         "format" : "TV news interview",
+         "id" : "evt-0070",
+         "summary" : "Channel 4 News interview about Game of Thrones and the series ending.",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "location" : "",
+         "outlet" : "Channel 4 News",
+         "tags" : [
+            "TV",
+            "news"
+         ],
+         "title" : "Game of Thrones to have a bittersweet ending (Channel 4 News)",
+         "links" : [
+            {
+               "url" : "https://www.youtube.com/watch?v=HaFViB8mZ9I",
+               "type" : "video",
+               "source" : "YouTube"
+            }
+         ]
+      },
+      {
+         "date" : "2014-10-27",
+         "format" : "Festival talk",
+         "id" : "evt-0071",
+         "summary" : "92Y conversation focused on The World of Ice & Fire and the craft behind the series.",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "location" : "",
+         "outlet" : "92nd Street Y",
+         "tags" : [
+            "festival",
+            "talk"
+         ],
+         "title" : "The World of Ice & Fire (92nd Street Y)",
+         "links" : [
+            {
+               "url" : "https://www.youtube.com/watch?v=Vcy-EhkHXnE",
+               "type" : "video",
+               "source" : "YouTube"
+            }
+         ]
+      },
+      {
+         "date" : "1998-07-23",
+         "format" : "TV interview",
+         "id" : "evt-0072",
+         "summary" : "ITN Archive interview at Nicolsons Cafe about early Harry Potter success.",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "location" : "Edinburgh",
+         "outlet" : "ITN Archive",
+         "tags" : [
+            "TV",
+            "archive"
+         ],
+         "title" : "Unedited interview on the birth of Harry Potter (ITN Archive)",
+         "links" : [
+            {
+               "url" : "https://www.youtube.com/watch?v=uTO9TUa797E",
+               "type" : "video",
+               "source" : "YouTube"
+            }
+         ]
+      },
+      {
+         "date" : "2014",
+         "format" : "Festival interview",
+         "id" : "evt-0073",
+         "summary" : "Val McDermid in conversation as Rowling discusses writing as Robert Galbraith.",
+         "author" : "J.K. Rowling",
+         "host" : "Val McDermid",
+         "location" : "Harrogate",
+         "outlet" : "Harrogate International Festival",
+         "tags" : [
+            "festival",
+            "audio"
+         ],
+         "title" : "Harrogate International Festival interview (Robert Galbraith)",
+         "links" : [
+            {
+               "url" : "https://www.youtube.com/watch?v=TbvJbbgFhrQ",
+               "type" : "video",
+               "source" : "YouTube"
+            }
+         ]
+      },
+      {
+         "date" : "1997",
+         "format" : "TV news clip",
+         "id" : "evt-0074",
+         "summary" : "BBC News clip from 1997 about seeing the first Harry Potter book in shops.",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "location" : "",
+         "outlet" : "BBC News",
+         "tags" : [
+            "TV",
+            "news",
+            "archive"
+         ],
+         "title" : "What JK Rowling said about the first Harry Potter book (BBC News)",
+         "links" : [
+            {
+               "url" : "https://www.youtube.com/watch?v=zHb-CyXy4Sw",
+               "type" : "video",
+               "source" : "YouTube"
+            }
+         ]
       }
    ],
    "updated" : "2026-03-18",
