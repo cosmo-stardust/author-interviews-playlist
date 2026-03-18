@@ -104,6 +104,21 @@
          "title" : "r/FantasticBeasts: J.K. Rowling Speaks on the Fantastic Beasts Red Carpet",
          "summary" : "\"My favorite is probably the scariest one, which is a manticore\" — fans highlight the red-carpet interview clip.",
          "url" : "https://www.reddit.com/r/FantasticBeasts/comments/trfez5/j_k_rowling_speaks_on_the_fantastic_beasts_red/"
+      },
+      {
+         "title" : "r/asoiaf: Author George R.R. Martin Interview at the Oxford Union",
+         "summary" : "\"Just watched it and this is exactly what I thought\" — thread flags the Oxford Union interview as a standout longform watch.",
+         "url" : "https://www.reddit.com/r/asoiaf/comments/1qigcxo/spoilers_extendedauthor_george_rr_martin/"
+      },
+      {
+         "title" : "r/books: In interview, George R.R. Martin says he doesn't want to abandon Winds of Winter",
+         "summary" : "\"I would hate that\" — commenters highlight the candid tone and recommend the interview clip.",
+         "url" : "https://www.reddit.com/r/books/comments/1qdx50c/in_interview_george_rr_martin_says_that_he_doesnt/"
+      },
+      {
+         "title" : "r/asoiaf: George R.R. Martin at WorldCon panel officially up on YouTube",
+         "summary" : "\"Official WorldCon panel\" — fans point to the YouTube upload as a must-watch discussion.",
+         "url" : "https://www.reddit.com/r/asoiaf/comments/1nijyuz/george_rr_martin_at_worldcon_panel_officially_up/"
       }
 
    ],
@@ -1991,6 +2006,119 @@
             {
                "type" : "video",
                "url" : "https://www.youtube.com/watch?v=HIcQrUXwxO0",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0090",
+         "author" : "George R. R. Martin",
+         "host" : "John Hodgman",
+         "summary" : "Full event conversation hosted by Books Are Magic; Martin discusses Fire & Blood, craft, and fandom.",
+         "date" : "2025-10-18",
+         "format" : "Conversation",
+         "outlet" : "Books Are Magic",
+         "title" : "George R. R. Martin in Conversation with John Hodgman (Books Are Magic)",
+         "tags" : [
+            "longform",
+            "book-event"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=PzA0Iun1Vcc",
+               "source" : "Books Are Magic (YouTube)"
+            }
+         ],
+         "location" : "Brooklyn, NY"
+      },
+      {
+         "id" : "evt-0091",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Longform author chat about storytelling, genre, and writing habits.",
+         "date" : "2025-08-22",
+         "format" : "Conversation",
+         "outlet" : "",
+         "title" : "Stephen King and George R. R. Martin in Conversation",
+         "tags" : [
+            "longform",
+            "authors"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=EEsBtdl9Y7Y",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0092",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Rowling launches her official On Writing series, discussing origins and writing process.",
+         "date" : "2024-05-06",
+         "format" : "Video interview",
+         "outlet" : "J.K. Rowling (official)",
+         "title" : "On Writing — Part One",
+         "tags" : [
+            "official",
+            "writing",
+            "series"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=3uLa3WKXwLg",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0093",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Second episode of the official On Writing series, continuing her craft discussion.",
+         "date" : "2024-05-07",
+         "format" : "Video interview",
+         "outlet" : "J.K. Rowling (official)",
+         "title" : "On Writing — Part Two",
+         "tags" : [
+            "official",
+            "writing",
+            "series"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=vFntT7G4e_g",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0094",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Third On Writing installment with more detail on process, planning, and research.",
+         "date" : "2024-05-08",
+         "format" : "Video interview",
+         "outlet" : "J.K. Rowling (official)",
+         "title" : "On Writing — Part Three",
+         "tags" : [
+            "official",
+            "writing",
+            "series"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=-2eZ6gmHgf8",
                "source" : "YouTube"
             }
          ],
