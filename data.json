@@ -315,6 +315,21 @@
          "title" : "r/asoiaf: George R. R. Martin addresses Winds delay controversy",
          "summary" : "\"I love these other things, too\" — thread flags the interview clip for its candid framing of his priorities.",
          "url" : "https://www.reddit.com/r/asoiaf/comments/1o5r9ux/spoilers_main_george_r_r_martin_addresses/"
+      },
+      {
+         "title" : "r/harrypotter: JK Rowling's writing process",
+         "summary" : "\"Here’s a really great interview with her and Steve Kloves... they go deep into both of their writing processes\" — commenters pointing to the craft-focused interview.",
+         "url" : "https://www.reddit.com/r/harrypotter/comments/uff5nn/jk_rowlings_writing_process/"
+      },
+      {
+         "title" : "r/harrypotter: J.K. Rowling on writing Harry Potter (Goblet of Fire, Chapter 9)",
+         "summary" : "\"Chapter 9 [of] ‘Goblet of Fire’ nearly finished me\" — thread highlights a candid writing-process interview quote.",
+         "url" : "https://www.reddit.com/r/harrypotter/comments/8m44p8/jk_rowling_on_writing_harry_potter_chapter_9_of/"
+      },
+      {
+         "title" : "r/asoiaf: (Spoilers Extended) GRRM’s writing process",
+         "summary" : "\"I do get distracted by other stories. I'm prone to fall in love with ideas and fall in love with characters\" — fans point to the interview clip about his drafting style.",
+         "url" : "https://www.reddit.com/r/asoiaf/comments/8jl4n2/spoilers_extended_grrms_writing_process/"
       }
 
    ],
@@ -3251,6 +3266,52 @@
                "type" : "video",
                "url" : "https://www.cbs.com/shows/video/_poDhiiSD_nc5lS2zGrACwLrgSI7ItGG/",
                "source" : "CBS.com"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0136",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "The Hollywood Reporter sit-down about the Dunk & Egg inspiration for A Knight of the Seven Kingdoms, filmed at his Santa Fe bar.",
+         "date" : "2026-01-15",
+         "format" : "Interview (clip)",
+         "outlet" : "The Hollywood Reporter",
+         "title" : "George R. R. Martin on What Inspired Dunk & Egg",
+         "tags" : [
+            "interview",
+            "clip",
+            "TV"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=bihKduhSOIc",
+               "source" : "The Hollywood Reporter (YouTube)"
+            }
+         ],
+         "location" : "Santa Fe, NM"
+      },
+      {
+         "id" : "evt-0137",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "NPR interview (as Robert Galbraith) about Career of Evil and the Strike series.",
+         "date" : "2015-11-02",
+         "format" : "Radio interview",
+         "outlet" : "NPR",
+         "title" : "Robert Galbraith interview on Career of Evil (NPR)",
+         "tags" : [
+            "radio",
+            "interview",
+            "Cormoran Strike"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=gHPVrmWtoRY",
+               "source" : "NPR (YouTube)"
             }
          ],
          "location" : ""
