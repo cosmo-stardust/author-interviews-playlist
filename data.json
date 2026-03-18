@@ -240,7 +240,23 @@
          "title" : "r/gaming: 3 years on.. what exactly was George R. R. Martin's role in Elden Ring..?",
          "summary" : "\"what exactly was his role\" — thread points to interview clips while weighing his lore contributions.",
          "url" : "https://www.reddit.com/r/gaming/comments/1l3noc4/3_years_on_what_exactly_was_george_r_r_martins/"
+      },
+      {
+         "title" : "r/asoiaf: (Spoilers All) Best GRRM video interview?",
+         "summary" : "\"for length I would suggest these two: GEORGE R.R. MARTIN | Master Class | Higher Learning\" — thread highlights longer-form picks.",
+         "url" : "https://www.reddit.com/r/asoiaf/comments/2rh7p3/spoilers_all_best_grrm_video_interview/"
+      },
+      {
+         "title" : "books.arts.narkive.com: Where I can find really good J.K Rowling Interviews?",
+         "summary" : "\"there's clips of that all over youtube...\" — fans trade pointers to interview clips and tours.",
+         "url" : "https://books.arts.narkive.com/yArfUkSK/where-i-can-find-really-good-j-k-rowling-interviews"
+      },
+      {
+         "title" : "r/harrypotter: Oprah interviews J.K. Rowling (Full Video) HD",
+         "summary" : "\"full video\" — thread shares the Oprah sit-down and reactions to the longform interview.",
+         "url" : "https://www.reddit.com/r/harrypotter/comments/1ley83/oprah_interviews_jk_rowling_full_video_hd/"
       }
+
    ],
    "events" : [
       {
@@ -2905,7 +2921,75 @@
             }
          ],
          "location" : ""
+      },
+      {
+         "id" : "evt-0124",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "TIFF Higher Learning master class on adapting A Song of Ice and Fire for television.",
+         "date" : "2012-12-13",
+         "format" : "Master class",
+         "outlet" : "TIFF Higher Learning",
+         "title" : "George R.R. Martin | Master Class | Higher Learning",
+         "tags" : [
+            "university",
+            "masterclass"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=DDIZnKujSa4",
+               "source" : "TIFF (YouTube)"
+            }
+         ],
+         "location" : "Toronto, Canada"
+      },
+      {
+         "id" : "evt-0125",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "First part of raw CNN train-tour interview footage from the Goblet of Fire promotion.",
+         "date" : "2000-07-08",
+         "format" : "TV interview",
+         "outlet" : "CNN",
+         "title" : "CNN raw footage interview (train tour) — Part 1",
+         "tags" : [
+            "archive",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=dwKFxxMFMJ8",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "UK (train tour)"
+      },
+      {
+         "id" : "evt-0126",
+         "author" : "J.K. Rowling",
+         "host" : "Hoda Kotb",
+         "summary" : "TODAY show interview with Rowling and the Fantastic Beasts cast about the film and her roots.",
+         "date" : "2018-09-25",
+         "format" : "TV interview",
+         "outlet" : "TODAY",
+         "title" : "J.K. Rowling Opens Up About Her Roots and Fantastic Beasts (TODAY)",
+         "tags" : [
+            "TV",
+            "interview",
+            "film"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=IsJ94uP44lM",
+               "source" : "TODAY (YouTube)"
+            }
+         ],
+         "location" : ""
       }
+
    ],
    "updated" : "2026-03-18",
    "collections" : [
