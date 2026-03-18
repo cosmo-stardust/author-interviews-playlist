@@ -119,6 +119,21 @@
          "title" : "r/asoiaf: George R.R. Martin at WorldCon panel officially up on YouTube",
          "summary" : "\"Official WorldCon panel\" — fans point to the YouTube upload as a must-watch discussion.",
          "url" : "https://www.reddit.com/r/asoiaf/comments/1nijyuz/george_rr_martin_at_worldcon_panel_officially_up/"
+      },
+      {
+         "title" : "A Forum of Ice and Fire: New Interview with George R.R. Martin",
+         "summary" : "\"fun and interesting discussion of George’s history in fandom\" — forum thread pointing to the Worldcon interview.",
+         "url" : "https://asoiaf.westeros.org/index.php?/topic/164465-new-interview-with-george-rr-martin/"
+      },
+      {
+         "title" : "r/harrypotter: New J.K. Rowling interview material from 2005 (Lev Grossman records)",
+         "summary" : "\"New interview material ... dated to 2005\" — fans share the resurfaced Q&A and why it’s worth rereading.",
+         "url" : "https://www.reddit.com/r/harrypotter/comments/8zqdwm/new_jk_rowling_interview_material_on_the_harry/"
+      },
+      {
+         "title" : "r/cormoran_strike: New short Rowling interview clip on THM",
+         "summary" : "\"a very short Rowling interview clip\" — readers react to a fresh snippet and discuss hints for Strike/Robin.",
+         "url" : "https://www.reddit.com/r/cormoran_strike/comments/1mjuizt/spoiler_the_new_and_very_short_rowling_interview/"
       }
 
    ],
@@ -2120,6 +2135,52 @@
                "type" : "video",
                "url" : "https://www.youtube.com/watch?v=-2eZ6gmHgf8",
                "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0095",
+         "author" : "George R. R. Martin",
+         "host" : "Dominic Noble",
+         "summary" : "Sit-down at Beastly Books where Martin talks about Roger Zelazny and Nine Princes in Amber.",
+         "date" : "2023-07-07",
+         "format" : "Interview",
+         "outlet" : "Dominic Noble (YouTube)",
+         "title" : "Talking to George R.R. Martin About His Favorite Book",
+         "tags" : [
+            "interview",
+            "fan",
+            "bookstore"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=V56WRApNUzM",
+               "source" : "Dominic Noble (YouTube)"
+            }
+         ],
+         "location" : "Santa Fe, NM"
+      },
+      {
+         "id" : "evt-0096",
+         "author" : "J.K. Rowling",
+         "host" : "60 Minutes Australia",
+         "summary" : "Archive TV interview from 2000, released by 60 Minutes Australia during the Harry Potter boom.",
+         "date" : "2000",
+         "format" : "TV interview",
+         "outlet" : "60 Minutes Australia",
+         "title" : "The Secret to Harry Potter (60 Minutes Australia, 2000)",
+         "tags" : [
+            "TV",
+            "archive",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=g46_o2gH7gE",
+               "source" : "60 Minutes Australia (YouTube)"
             }
          ],
          "location" : ""
