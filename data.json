@@ -285,6 +285,36 @@
          "title" : "r/cormoran_strike: SPOILER the new and very short Rowling interview clip on THM",
          "summary" : "Readers share a short new Rowling clip and discuss the Strike/Robin answer.",
          "url" : "https://www.reddit.com/r/cormoran_strike/comments/1mjuizt/spoiler_the_new_and_very_short_rowling_interview/"
+      },
+      {
+         "title" : "Fantasy-Faction: Interview & Writing Tips from G.R.R. Martin",
+         "summary" : "Fantasy-Faction has collected the very best of what Martin has said, revealed and commented upon — roundup pointing to multiple interviews.",
+         "url" : "https://fantasy-faction.com/2013/grr-martin-interview-and-writing-tips"
+      },
+      {
+         "title" : "Feather Factor: Interview with George R. R. Martin",
+         "summary" : "I am so excited to share with you today an interview with one of my favorite writers, George R.R. Martin — blogger spotlight on a full Q&A.",
+         "url" : "https://www.featherfactor.com/2012/02/interview-with-george-r-r-martin.html"
+      },
+      {
+         "title" : "r/cormoran_strike: Rowling, Megan Phelps-Roper and The Running Grave",
+         "summary" : "Towards the end of the podcast Megan asked Rowling why she agreed to do the interviews — thread highlighting a recommended longform discussion.",
+         "url" : "https://www.reddit.com/r/cormoran_strike/comments/19cfp87/rowling_megan_phelpsroper_and_the_running_grave/"
+      },
+      {
+         "title" : "MuggleNet: Exclusive 2005 Interview (MuggleNet & Leaky Cauldron)",
+         "summary" : "\"source of the famous anvil-sized hints conversation about Ron/Hermione\" — fan highlight pointing to a must-read interview.",
+         "url" : "https://mugglenet.com/muggle-world-j-k-rowling/jkr-interview-mugglenet-leaky-cauldron/"
+      },
+      {
+         "title" : "The Leaky Cauldron: J.K. Rowling Interview (Part I)",
+         "summary" : "\"here’s one [from our forums] that I’ve really got to ask you\" — fan‑community sourced questions featured in the interview.",
+         "url" : "http://www.the-leaky-cauldron.org/2007/09/10/jkr1/"
+      },
+      {
+         "title" : "r/asoiaf: George R. R. Martin addresses Winds delay controversy",
+         "summary" : "\"I love these other things, too\" — thread flags the interview clip for its candid framing of his priorities.",
+         "url" : "https://www.reddit.com/r/asoiaf/comments/1o5r9ux/spoilers_main_george_r_r_martin_addresses/"
       }
 
    ],
@@ -3133,6 +3163,97 @@
             }
          ],
          "location" : "London, UK"
+      },
+      {
+         "id" : "evt-0132",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Library of Congress webcast from the 2005 National Book Festival.",
+         "date" : "2005-09-24",
+         "format" : "Festival talk",
+         "outlet" : "Library of Congress / U.S. National Book Festival",
+         "title" : "George R.R. Martin: Book Fest 05",
+         "tags" : [
+            "festival",
+            "library",
+            "talk"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://loc.gov/item/webcast-3749",
+               "source" : "Library of Congress"
+            }
+         ],
+         "location" : "Washington, DC"
+      },
+      {
+         "id" : "evt-0133",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Official Robert Galbraith interview video for The Running Grave.",
+         "date" : "2023-10-19",
+         "format" : "Video interview",
+         "outlet" : "Robert Galbraith",
+         "title" : "Robert Galbraith Interview | The Running Grave",
+         "tags" : [
+            "interview",
+            "Cormoran Strike",
+            "writing"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=SmqQvRIjDBw",
+               "source" : "Robert Galbraith (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0134",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "BBC archive clip from 1997 with Rowling discussing the first Harry Potter book.",
+         "date" : "1997",
+         "format" : "TV archive clip",
+         "outlet" : "BBC Archive",
+         "title" : "BBC Archive 1997: J.K. Rowling talks Harry Potter",
+         "tags" : [
+            "BBC",
+            "archive",
+            "TV"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.bbc.co.uk/videos/crgg732e7l8o",
+               "source" : "BBC"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0135",
+         "author" : "George R. R. Martin",
+         "host" : "Stephen Colbert",
+         "summary" : "CBS-hosted extended Colbert interview about The Rise of the Dragon and Martin's writing process.",
+         "date" : "2022-10-26",
+         "format" : "TV interview",
+         "outlet" : "CBS / The Late Show with Stephen Colbert",
+         "title" : "Extended Interview with George R.R. Martin (CBS.com)",
+         "tags" : [
+            "TV",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.cbs.com/shows/video/_poDhiiSD_nc5lS2zGrACwLrgSI7ItGG/",
+               "source" : "CBS.com"
+            }
+         ],
+         "location" : ""
       }
 
    ],
