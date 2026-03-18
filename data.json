@@ -134,6 +134,21 @@
          "title" : "r/cormoran_strike: New short Rowling interview clip on THM",
          "summary" : "\"a very short Rowling interview clip\" — readers react to a fresh snippet and discuss hints for Strike/Robin.",
          "url" : "https://www.reddit.com/r/cormoran_strike/comments/1mjuizt/spoiler_the_new_and_very_short_rowling_interview/"
+      },
+      {
+         "title" : "r/videos: A young, nervous and humble George RR Martin talks about his then‑upcoming book, ‘A Clash of Kings’ (1998)",
+         "summary" : "\"Good lord, he comes off so well in this interview.\" — commenters recommend the rare 1998 clip as a must‑watch early interview.",
+         "url" : "https://www.reddit.com/r/videos/comments/bo8qin/a_young_nervous_and_humble_george_rr_martin_talks/"
+      },
+      {
+         "title" : "r/harrypotter: J.K. Rowling answers a question during a 2007 interview",
+         "summary" : "\"It would’ve been a great reveal in the books but instead we just got a throwaway comment in an interview.\" — fans point to the clip for canon tidbits.",
+         "url" : "https://www.reddit.com/r/harrypotter/comments/b35bc1/jk_rowling_answers_a_question_during_a_2007/"
+      },
+      {
+         "title" : "r/TheFirstLaw: George R.R. Martin + Joe Abercrombie interview at the Kimo Theatre (May 2025)",
+         "summary" : "\"Someone posted this on YouTube…it is not the full thing but it is most of it.\" — readers recommend the longform stage interview.",
+         "url" : "https://www.reddit.com/r/TheFirstLaw/comments/1l5vzc8/george_rr_martin_joe_abercrombie_interview_at_the/"
       }
 
    ],
@@ -2181,6 +2196,97 @@
                "type" : "video",
                "url" : "https://www.youtube.com/watch?v=g46_o2gH7gE",
                "source" : "60 Minutes Australia (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0097",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "PBS segment where Martin explains why Tolkien’s saga mattered to his own writing.",
+         "date" : "2018-08-10",
+         "format" : "TV segment",
+         "outlet" : "PBS The Great American Read",
+         "title" : "George R. R. Martin Discusses \"The Lord of the Rings\"",
+         "tags" : [
+            "TV",
+            "PBS",
+            "commentary"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=JM72iSOaw8M",
+               "source" : "PBS (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0098",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Chicago Tonight conversation tied to his Northwestern honorary doctorate and writing process.",
+         "date" : "2021-06-16",
+         "format" : "TV interview",
+         "outlet" : "PBS / Chicago Tonight",
+         "title" : "George RR Martin Talks NU, Writing and ‘Game of Thrones’",
+         "tags" : [
+            "TV",
+            "interview",
+            "PBS"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.pbs.org/video/george-rr-martin-on-northwestern-writing-game-of-thrones-lvu/",
+               "source" : "PBS"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0099",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Newsround interview about The Ickabog, creativity during lockdown, and reading for kids.",
+         "date" : "2020-11-10",
+         "format" : "TV interview",
+         "outlet" : "BBC Newsround",
+         "title" : "Exclusive Interview with The Ickabog author",
+         "tags" : [
+            "TV",
+            "BBC",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.bbc.co.uk/newsround/54879079",
+               "source" : "BBC Newsround"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0100",
+         "author" : "J.K. Rowling",
+         "host" : "Graham Norton",
+         "summary" : "Graham Norton chat covering The Ink Black Heart, Harry Potter memories, and current projects.",
+         "date" : "2022-08-27",
+         "format" : "TV interview",
+         "outlet" : "The Graham Norton Show (Waitrose)",
+         "title" : "J.K. Rowling with Graham Norton: The Ink Black Heart",
+         "tags" : [
+            "TV",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=HdKPOwCR_sg",
+               "source" : "The Graham Norton Show (YouTube)"
             }
          ],
          "location" : ""
