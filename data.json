@@ -24,34 +24,19 @@
   ],
   "bestOf": [
     {
-      "title": "r/asoiaf: Best interview with George R.R. Martin (Observation Deck, July 2013)",
-      "summary": "Thread calls the Observation Deck interview a standout — \"one that I've come to regard as my favorite.\"",
-      "url": "https://www.reddit.com/r/asoiaf/comments/2pl00l/spoilers_all_the_best_interview_with_george_rr/"
+      "title": "r/asoiaf: The Best Interview with George RR Martin (Observation Deck, 2013)",
+      "url": "https://www.reddit.com/r/asoiaf/comments/2pl00l/spoilers_all_the_best_interview_with_george_rr/",
+      "summary": "I got to re-read one, one that I've come to regard as my favorite. — thread highlight pointing to the longform Observation Deck interview."
     },
     {
-      "title": "r/harrypotter: Good J.K. Rowling interviews?",
-      "summary": "Users point to the AccioQuote archive, calling it \"one of her more famous interviews.\"",
-      "url": "https://www.reddit.com/r/harrypotter/comments/s2swfg/good_jk_rowling_interviews/"
+      "title": "r/harrypotter: Good JK Rowling interviews?",
+      "url": "https://www.reddit.com/r/harrypotter/comments/s2swfg/good_jk_rowling_interviews/",
+      "summary": "Not sure if this is what you want but this is one of her more famous interviews. — top reply sharing a classic longform interview."
     },
     {
       "title": "r/harrypotter: Anyone have a nice list of J.K. Rowling interviews?",
-      "summary": "Recommendation: \"AccioQuote aims to have every interview she's ever done... It's very comprehensive.\"",
-      "url": "https://www.reddit.com/r/harrypotter/comments/r2qlm/anyone_have_a_nice_list_of_jk_rowling_interviews/"
-    },
-    {
-      "title": "r/asoiaf: George R. R. Martin in Oxford",
-      "summary": "Fans highlight the Oxford appearance as a \"rare long-form public interview.\"",
-      "url": "https://www.reddit.com/r/asoiaf/comments/1ev6iol/spoilers_extendedgeorge_r_r_martin_in_oxford/"
-    },
-    {
-      "title": "r/asoiaf: Author George RR Martin Interview at the Oxford Union",
-      "summary": "Thread recommends it as a \"solid, wide-ranging Q&A.\"",
-      "url": "https://www.reddit.com/r/asoiaf/comments/1qigcxo/spoilers_extendedauthor_george_rr_martin/"
-    },
-    {
-      "title": "r/harrypotter: J.K. Rowling Blue Peter interviews",
-      "summary": "Users call the Blue Peter segments \"classic early interviews.\"",
-      "url": "https://www.reddit.com/r/harrypotter/comments/s2swfg/good_jk_rowling_interviews/"
+      "url": "https://www.reddit.com/r/harrypotter/comments/r2qlm/anyone_have_a_nice_list_of_jk_rowling_interviews/",
+      "summary": "AccioQuote aims to have every interview she's ever done on their site. It's very comprehensive. — pointing to a deep archive of interviews."
     }
   ],
   "events": [
@@ -1171,21 +1156,21 @@
     {
       "id": "evt-0056",
       "author": "George R. R. Martin",
-      "title": "The Great American Read: GRRM discusses The Lord of the Rings (PBS)",
-      "date": "2018-08-10",
-      "outlet": "PBS",
+      "title": "Author George R.R. Martin Interview at the Oxford Union",
+      "date": "2026-01-20",
+      "outlet": "Oxford Union",
       "host": "",
-      "location": "",
-      "format": "TV segment",
-      "summary": "PBS segment on Tolkien's influence and why LOTR matters to GRRM.",
+      "location": "Oxford, UK",
+      "format": "Interview",
+      "summary": "Full Oxford Union interview covering his career, ASOIAF, and adaptations.",
       "tags": [
-        "PBS",
-        "TV"
+        "university",
+        "longform"
       ],
       "links": [
         {
-          "url": "https://www.youtube.com/watch?v=JM72iSOaw8M",
-          "source": "YouTube",
+          "url": "https://youtu.be/YbU5imNyDaU",
+          "source": "Oxford Union (YouTube)",
           "type": "video"
         }
       ]
@@ -1193,21 +1178,21 @@
     {
       "id": "evt-0057",
       "author": "George R. R. Martin",
-      "title": "Finding Your Roots: Italian Roots (PBS)",
-      "date": "2019-01-09",
-      "outlet": "PBS",
+      "title": "George R.R. Martin in Conversation (History of Westeros)",
+      "date": "2022-08-18",
+      "outlet": "History of Westeros",
       "host": "",
-      "location": "",
-      "format": "TV segment",
-      "summary": "Finding Your Roots segment featuring GRRM's family history.",
+      "location": "Santa Fe, NM",
+      "format": "Interview",
+      "summary": "Longform interview recorded in his Santa Fe office with the History of Westeros team.",
       "tags": [
-        "PBS",
-        "TV"
+        "fan",
+        "longform"
       ],
       "links": [
         {
-          "url": "https://www.pbs.org/video/george-r-r-martin-italian-roots-1u3usc/",
-          "source": "PBS",
+          "url": "https://youtu.be/5M39Cq8vSKc",
+          "source": "History of Westeros (YouTube)",
           "type": "video"
         }
       ]
@@ -1215,21 +1200,21 @@
     {
       "id": "evt-0058",
       "author": "J.K. Rowling",
-      "title": "J.K. Rowling Talks Harry Potter and More (TODAY)",
-      "date": "2015-04-10",
-      "outlet": "TODAY",
+      "title": "Harvard Commencement Address: The Fringe Benefits of Failure",
+      "date": "2008-06-05",
+      "outlet": "Harvard University",
       "host": "",
-      "location": "",
-      "format": "TV interview",
-      "summary": "Interview on Lumos charity and the future of the Harry Potter world.",
+      "location": "Cambridge, MA",
+      "format": "Commencement address",
+      "summary": "Rowling's 2008 Harvard commencement speech on failure and imagination.",
       "tags": [
-        "TV",
-        "interview"
+        "speech",
+        "university"
       ],
       "links": [
         {
-          "url": "https://www.youtube.com/watch?v=hGn5qrg8Ds4",
-          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=UibfDUPJAEU",
+          "source": "Harvard University (YouTube)",
           "type": "video"
         }
       ]
@@ -1237,134 +1222,21 @@
     {
       "id": "evt-0059",
       "author": "J.K. Rowling",
-      "title": "J.K. Rowling: On Writing — Part One",
-      "date": "2024-05-06",
-      "outlet": "J.K. Rowling",
-      "host": "",
-      "location": "",
-      "format": "Video series",
-      "summary": "Rowling opens a writing-focused video series, discussing process and craft.",
-      "tags": [
-        "writing",
-        "series"
-      ],
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=3uLa3WKXwLg",
-          "source": "YouTube",
-          "type": "video"
-        }
-      ]
-    },
-    {
-      "id": "evt-0060",
-      "author": "George R. R. Martin",
-      "title": "George R.R. Martin in Conversation (History of Westeros)",
-      "date": "2022-08-18",
-      "outlet": "History of Westeros",
-      "host": "",
-      "location": "Santa Fe, NM",
-      "format": "Interview",
-      "summary": "In-person interview at Martins Santa Fe office covering House of the Dragon, adaptation, fandom, and writing.",
-      "tags": [
-        "interview",
-        "fan",
-        "best"
-      ],
-      "links": [
-        {
-          "url": "https://youtu.be/5M39Cq8vSKc",
-          "source": "YouTube",
-          "type": "video"
-        }
-      ]
-    },
-    {
-      "id": "evt-0061",
-      "author": "George R. R. Martin",
-      "title": "George R. R. Martin in Oxford (Oxford Writers House)",
-      "date": "2024-08-02",
-      "outlet": "Oxford Writers House",
-      "host": "",
-      "location": "Oxford, UK",
-      "format": "Conversation",
-      "summary": "Public interview appearance hosted by Oxford Writers House in Oxford.",
-      "tags": [
-        "festival",
-        "conversation"
-      ],
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=jfy-whmkOpM",
-          "source": "YouTube",
-          "type": "video"
-        }
-      ]
-    },
-    {
-      "id": "evt-0062",
-      "author": "J.K. Rowling",
-      "title": "J.K. Rowling talks Harry Potter (Blue Peter, BBC One)",
-      "date": "1997-12-17",
-      "outlet": "Blue Peter",
-      "host": "",
+      "title": "J.K. Rowling Talks Harry Potter and Lumos (TODAY)",
+      "date": "2015-04-10",
+      "outlet": "TODAY",
+      "host": "Matt Lauer",
       "location": "",
       "format": "TV interview",
-      "summary": "Early TV interview about Philosophers Stone with writing tips for young readers.",
+      "summary": "TODAY show interview about Harry Potter and her Lumos charity work.",
       "tags": [
         "TV",
-        "Blue Peter",
-        "early"
+        "charity"
       ],
       "links": [
         {
-          "url": "https://www.youtube.com/watch?v=kwLFm0uocCo",
-          "source": "YouTube",
-          "type": "video"
-        }
-      ]
-    },
-    {
-      "id": "evt-0063",
-      "author": "J.K. Rowling",
-      "title": "J.K. Rowling on Blue Peter (Q&A ahead of Deathly Hallows)",
-      "date": "2007-08-02",
-      "outlet": "Blue Peter",
-      "host": "",
-      "location": "",
-      "format": "TV interview",
-      "summary": "Blue Peter Q&A session released ahead of the final Harry Potter book.",
-      "tags": [
-        "TV",
-        "Blue Peter"
-      ],
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=bt-nxSqi-cc",
-          "source": "YouTube",
-          "type": "video"
-        }
-      ]
-    },
-    {
-      "id": "evt-0064",
-      "author": "J.K. Rowling",
-      "title": "J.K. Rowling talks The Christmas Pig (Blue Peter, CBBC)",
-      "date": "2021-10-15",
-      "outlet": "Blue Peter",
-      "host": "",
-      "location": "",
-      "format": "TV interview",
-      "summary": "Interview about The Christmas Pig with questions from children.",
-      "tags": [
-        "TV",
-        "Blue Peter",
-        "children"
-      ],
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=UwGGdqvbxd8",
-          "source": "YouTube",
+          "url": "https://www.youtube.com/watch?v=hGn5qrg8Ds4",
+          "source": "TODAY (YouTube)",
           "type": "video"
         }
       ]
