@@ -255,6 +255,36 @@
          "title" : "r/harrypotter: Oprah interviews J.K. Rowling (Full Video) HD",
          "summary" : "\"full video\" — thread shares the Oprah sit-down and reactions to the longform interview.",
          "url" : "https://www.reddit.com/r/harrypotter/comments/1ley83/oprah_interviews_jk_rowling_full_video_hd/"
+      },
+      {
+         "title" : "r/asoiaf: What is your favorite GRRM interview, notablog or SSM?",
+         "summary" : "\"What is your favorite GRRM interview, notablog or SSM?\" — fans trade their go-to longform picks.",
+         "url" : "https://www.reddit.com/r/asoiaf/comments/3lavan/spoilers_all_what_is_your_favorite_grrm_interview/"
+      },
+      {
+         "title" : "r/harrypotter: Any little known JK Rowling interviews or transcripts out there?",
+         "summary" : "\"Any little known JK Rowling interviews or transcripts out there?\" — thread shares lesser‑known sources.",
+         "url" : "https://www.reddit.com/r/harrypotter/comments/bbso50/any_little_known_jk_rowling_interviews_or/"
+      },
+      {
+         "title" : "r/harrypotter: Looking for Interviews with JK Rowling",
+         "summary" : "\"Looking for video interviews... inspirations for the genesis of Harry Potter\" — fans point to origin‑story interviews.",
+         "url" : "https://www.reddit.com/r/harrypotter/comments/61w5nz/looking_for_interviews_with_jk_rowling/"
+      },
+      {
+         "title" : "r/asoiaf: (Spoilers Main) Any and All George R.R. Martin Interviews YouTube Playlist",
+         "summary" : "Thread compiles a YouTube playlist and obscure GRRM interview links for binge‑watching.",
+         "url" : "https://www.reddit.com/r/asoiaf/comments/8oh7x5/spoilers_mainany_and_all_george_rr_martin/"
+      },
+      {
+         "title" : "r/television: Extended Interview with George R.R. Martin - The Late Show with Stephen Colbert",
+         "summary" : "\"Extended interview\" — viewers recommend the longer Colbert segment.",
+         "url" : "https://www.reddit.com/r/television/comments/ye0ske/extended_interview_with_george_rr_martin_the_late/"
+      },
+      {
+         "title" : "r/cormoran_strike: SPOILER the new and very short Rowling interview clip on THM",
+         "summary" : "Readers share a short new Rowling clip and discuss the Strike/Robin answer.",
+         "url" : "https://www.reddit.com/r/cormoran_strike/comments/1mjuizt/spoiler_the_new_and_very_short_rowling_interview/"
       }
 
    ],
@@ -2988,6 +3018,121 @@
             }
          ],
          "location" : ""
+      },
+      {
+         "id" : "evt-0127",
+         "author" : "George R. R. Martin",
+         "host" : "SFF Addicts",
+         "summary" : "Worldcon 2025 panel on the shifting landscape of epic fantasy with Martin, Robin Hobb, Rebecca Roanhorse, and Ryan Cahill.",
+         "date" : "2025-09-18",
+         "format" : "Panel",
+         "outlet" : "Worldcon 2025 / SFF Addicts",
+         "title" : "Fantasy Then and Now (Worldcon 2025 panel)",
+         "tags" : [
+            "panel",
+            "Worldcon",
+            "fantasy"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=rl1sS8MXjFI",
+               "source" : "Brandon Sanderson (YouTube)"
+            }
+         ],
+         "location" : "Seattle, WA"
+      },
+      {
+         "id" : "evt-0128",
+         "author" : "George R. R. Martin",
+         "host" : "Conan O'Brien",
+         "summary" : "CONAN highlight about Martin writing on WordStar 4.0 in DOS.",
+         "date" : "2014-05-13",
+         "format" : "TV interview (clip)",
+         "outlet" : "CONAN on TBS",
+         "title" : "George R. R. Martin Still Uses A DOS Word Processor",
+         "tags" : [
+            "TV",
+            "clip",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=X5REM-3nWHg",
+               "source" : "Team Coco (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0129",
+         "author" : "George R. R. Martin",
+         "host" : "Conan O'Brien",
+         "summary" : "CONAN clip checking in on Martin’s writing progress for The Winds of Winter.",
+         "date" : "2015-07-11",
+         "format" : "TV interview (clip)",
+         "outlet" : "CONAN on TBS",
+         "title" : "George R.R. Martin Is Working Hard On His Next Book",
+         "tags" : [
+            "TV",
+            "clip",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=lle4t4o8EDk",
+               "source" : "Team Coco (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0130",
+         "author" : "J.K. Rowling",
+         "host" : "Rosie O'Donnell",
+         "summary" : "Rowling interviews with Rosie O'Donnell while promoting Goblet of Fire.",
+         "date" : "2000-10-18",
+         "format" : "TV interview",
+         "outlet" : "The Rosie O'Donnell Show",
+         "title" : "J.K. Rowling on the Rosie O'Donnell Show",
+         "tags" : [
+            "TV",
+            "interview",
+            "archive"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=SeoqgGlfdLw",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0131",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Red carpet interview at the final Harry Potter premiere.",
+         "date" : "2011-07-07",
+         "format" : "Red carpet interview",
+         "outlet" : "Harry Potter and the Deathly Hallows — Part 2 premiere",
+         "title" : "J.K. Rowling interview at the last ever Harry Potter premiere",
+         "tags" : [
+            "premiere",
+            "film",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=Uh0809-l8qs",
+               "source" : "Absolute Radio (YouTube)"
+            }
+         ],
+         "location" : "London, UK"
       }
 
    ],
