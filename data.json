@@ -16,7 +16,17 @@
          "url" : "https://www.youtube.com/watch?v=X2adjz-KG9Y"
       },
       {
-         "summary" : "Not sure if this is what you want but this is one of her more famous interviews. — top reply sharing a classic longform interview.",
+         "title" : "YouTube comments: C10 — George R.R. Martin (part one)",
+         "summary" : "\"This is awesome, good points about fan fiction too! Great questions!\" — top comment on the longform C10 interview.",
+         "url" : "https://www.youtube.com/watch?v=F2ag2hwtJJM"
+      },
+      {
+         "title" : "YouTube comments: J.K. Rowling on Blue Peter (BBC1, 2007)",
+         "summary" : "\"Her reaction to the Prime Minister showing up is priceless. No author has ever achieved that proportion of success.\" — comment highlighting the standout moment.",
+         "url" : "https://www.youtube.com/watch?v=VAouj7qimbA"
+      },
+      {
+         "summary" : "\"Looking for some interviews where she talks about what the process of writing Harry Potter was like...\" — thread asks for the best craft-focused interviews.",
          "title" : "r/harrypotter: Good JK Rowling interviews?",
          "url" : "https://www.reddit.com/r/harrypotter/comments/s2swfg/good_jk_rowling_interviews/"
       },
@@ -77,7 +87,7 @@
       },
       {
          "title" : "r/harrypotter: A JK Rowling Interview from 2000 in an AOL chatroom",
-         "summary" : "I had this saved on an old hard drive — commenters share the archived AOL chat interview.",
+         "summary" : "\"I had the idea of a boy who was a wizard and didn't yet know what he was.\" — thread resurfaces the AOL chat Q&A transcript.",
          "url" : "https://www.reddit.com/r/harrypotter/comments/2qk77o/a_jk_rowling_interview_from_2000_in_an_aol/"
       },
       {
@@ -185,8 +195,37 @@
          "title" : "r/JKRowling: Video - J.K. Rowling answers 20 questions about \"The Running Grave\"",
          "summary" : "\"Thank you so much for sharing what a lovely interview!\" — fans recommend the Q&A clip.",
          "url" : "https://www.reddit.com/r/JKRowling/comments/17hps0s/video_jk_rowling_answers_20_questions_about_the/"
+      },
+      {
+         "title" : "YouTube comments: George R.R. Martin on 'The World of Ice & Fire' (WSJ)",
+         "summary" : "\"I could listen to George all day long. He is a born storyteller.\" — top comment praising his longform answers.",
+         "url" : "https://www.youtube.com/watch?v=FBbHCGxmh2c"
+      },
+      {
+         "title" : "YouTube comments: George R.R. Martin on 'The World of Ice & Fire' (WSJ)",
+         "summary" : "\"I just want to hug this man and talk about everything over hot cocoa.\" — highly-liked comment on the WSJ interview.",
+         "url" : "https://www.youtube.com/watch?v=FBbHCGxmh2c"
+      },
+      {
+         "title" : "YouTube comments: George R.R. Martin on 'The World of Ice & Fire' (WSJ)",
+         "summary" : "\"R.R. Martin gives such great interviews. Always the polite gentlemen.\" — fan reaction highlighting his interview style.",
+         "url" : "https://www.youtube.com/watch?v=FBbHCGxmh2c"
+      },
+      {
+         "title" : "r/asoiaf: [No Spoilers] Looking for George RR Martin interviews",
+         "summary" : "\"Watch the joint interview with Robin Hobb\" — thread gathers favorite longform GRRM interviews.",
+         "url" : "https://www.reddit.com/r/asoiaf/comments/6bcr3b/no_spoilers_looking_for_george_rr_martin/"
+      },
+      {
+         "title" : "r/asoiaf: 1998 Interview of George R.R. Martin on A Clash of Kings",
+         "summary" : "\"Those were the days...\" — fans highlight a candid early interview clip.",
+         "url" : "https://www.reddit.com/r/asoiaf/comments/8izqt9/spoilers_extended_1998_interview_of_george_rr/"
+      },
+      {
+         "title" : "r/cormoran_strike: JK Rowling interview",
+         "summary" : "\"The Rowling Library has downloaded an interview\" — readers recommend the clip for Strike-era insights.",
+         "url" : "https://www.reddit.com/r/cormoran_strike/comments/wzfjt8/jk_rowling_interview/"
       }
-
    ],
    "events" : [
       {
@@ -2530,6 +2569,281 @@
             }
          ],
          "location" : ""
+      },
+      {
+         "id" : "evt-0110",
+         "author" : "George R. R. Martin",
+         "host" : "Joe Abercrombie",
+         "summary" : "Kimo Theatre conversation in Albuquerque, recorded during their May 2025 event.",
+         "date" : "2025-05-20",
+         "format" : "Conversation",
+         "outlet" : "Kimo Theatre (YouTube)",
+         "title" : "George R.R. Martin + Joe Abercrombie Interview at the Kimo Theatre",
+         "tags" : [
+            "book-event",
+            "conversation"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=WxM9cbxciw0",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "Albuquerque, NM"
+      },
+      {
+         "id" : "evt-0111",
+         "author" : "George R. R. Martin",
+         "host" : "Joe Abercrombie",
+         "summary" : "Fan-recorded highlights from the Kimo Theatre discussion in Albuquerque.",
+         "date" : "2025-05-16",
+         "format" : "Conversation (highlights)",
+         "outlet" : "Kimo Theatre (fan upload)",
+         "title" : "George R.R. Martin + Joe Abercrombie at the Kimo Theatre (highlights)",
+         "tags" : [
+            "book-event",
+            "fan",
+            "highlights"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=yyez_PNUvWo",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "Albuquerque, NM"
+      },
+      {
+         "id" : "evt-0112",
+         "author" : "J.K. Rowling",
+         "host" : "Stephen Fry",
+         "summary" : "BBC Radio 4 Christmas special interview released as 'Living with Harry Potter.'",
+         "date" : "2005-12-10",
+         "format" : "Radio interview",
+         "outlet" : "BBC Radio 4",
+         "title" : "Living with Harry Potter (Stephen Fry interview)",
+         "tags" : [
+            "radio",
+            "BBC",
+            "interview",
+            "archive"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=YXYQqoTxAyM",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0113",
+         "author" : "J.K. Rowling",
+         "host" : "Stephen Fry",
+         "summary" : "Train-tour interview during the Goblet of Fire era.",
+         "date" : "2000",
+         "format" : "Interview",
+         "outlet" : "",
+         "title" : "Stephen Fry interview (train tour)",
+         "tags" : [
+            "archive",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=4d8ZLNLJ-rM",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "UK (train tour)"
+      },
+      {
+         "id" : "evt-0114",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Author, Author! interview segment with Martin about Game of Thrones and his writing career.",
+         "date" : "2013-04-15",
+         "format" : "Interview",
+         "outlet" : "Author, Author!",
+         "title" : "An Ominous Interview with George R.R. Martin",
+         "tags" : [
+            "interview",
+            "TV"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=sxFUBzZC-m8",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0115",
+         "author" : "George R. R. Martin",
+         "host" : "Joe Hill",
+         "summary" : "NYCC spotlight panel where Martin discusses his work, fandom, and upcoming projects.",
+         "date" : "2025-12-17",
+         "format" : "Panel",
+         "outlet" : "NYCC / Popverse",
+         "title" : "George R.R. Martin spotlight, hosted by Joe Hill | NYCC",
+         "tags" : [
+            "panel",
+            "comic-con"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=hGm2x8T0PBQ",
+               "source" : "Popverse (YouTube)"
+            }
+         ],
+         "location" : "New York, NY"
+      },
+      {
+         "id" : "evt-0116",
+         "author" : "George R. R. Martin",
+         "host" : "Christopher J. Farley",
+         "summary" : "Wall Street Journal interview on The World of Ice & Fire, fantasy history, and the future of the series.",
+         "date" : "2014-10-30",
+         "format" : "Interview",
+         "outlet" : "The Wall Street Journal",
+         "title" : "George R.R. Martin on 'The World of Ice & Fire'",
+         "tags" : [
+            "interview",
+            "press"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=FBbHCGxmh2c",
+               "source" : "The Wall Street Journal (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0117",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Clip where Martin contrasts his approach to fantasy with Tolkien.",
+         "date" : "2021-03-08",
+         "format" : "Interview (clip)",
+         "outlet" : "",
+         "title" : "George RR Martin on his Differences with Tolkien",
+         "tags" : [
+            "interview",
+            "clip",
+            "fantasy"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=NrHybzmNAdk",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0118",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Short interview clip focused on House Baratheon lore.",
+         "date" : "2021-03-03",
+         "format" : "Interview (clip)",
+         "outlet" : "",
+         "title" : "George RR Martin on House Baratheon",
+         "tags" : [
+            "interview",
+            "clip",
+            "lore"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=jeZ-XSCyB78A",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0119",
+         "author" : "J.K. Rowling",
+         "host" : "Eddie Redmayne",
+         "summary" : "Carnegie Hall conversation covering Fantastic Beasts and her advocacy work.",
+         "date" : "2016-11-15",
+         "format" : "Conversation",
+         "outlet" : "Carnegie Hall",
+         "title" : "J.K. Rowling in conversation with Eddie Redmayne at Carnegie Hall",
+         "tags" : [
+            "conversation",
+            "event"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=ca5HYNFuNQk",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "New York, NY"
+      },
+      {
+         "id" : "evt-0120",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "1998 San Jose interview about the then-upcoming A Clash of Kings and early series ambitions.",
+         "date" : "1998",
+         "format" : "Interview",
+         "outlet" : "",
+         "title" : "Our interview with George R.R. Martin in San Jose",
+         "tags" : [
+            "archive",
+            "interview",
+            "video"
+         ],
+         "source" : "YouTube",
+         "url" : "https://www.youtube.com/watch?v=FNzlJT0sG9k",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=FNzlJT0sG9k",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "San Jose, CA"
+      },
+      {
+         "id" : "evt-0121",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "BBC Blue Peter interview where Rowling answers audience questions about finishing the series.",
+         "date" : "2007",
+         "format" : "TV interview",
+         "outlet" : "BBC Blue Peter",
+         "title" : "J.K. Rowling on Blue Peter (BBC1)",
+         "tags" : [
+            "TV",
+            "BBC",
+            "interview"
+         ],
+         "source" : "YouTube",
+         "url" : "https://www.youtube.com/watch?v=VAouj7qimbA",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=VAouj7qimbA",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "UK"
       }
    ],
    "updated" : "2026-03-18",
