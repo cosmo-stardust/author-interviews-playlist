@@ -225,6 +225,21 @@
          "title" : "r/cormoran_strike: JK Rowling interview",
          "summary" : "\"The Rowling Library has downloaded an interview\" — readers recommend the clip for Strike-era insights.",
          "url" : "https://www.reddit.com/r/cormoran_strike/comments/wzfjt8/jk_rowling_interview/"
+      },
+      {
+         "title" : "r/Eldenring: George R.R. Martin asked about video games in an interview",
+         "summary" : "\"asked about video games in an interview\" — fans share the clip and discuss his answers about gaming.",
+         "url" : "https://www.reddit.com/r/Eldenring/comments/c14ki6/george_rr_martin_asked_about_video_games_in_an/"
+      },
+      {
+         "title" : "r/GamingLeaksAndRumours: George R. R. Martin refers to Elden Ring as a sequel to Dark Souls in an Interview",
+         "summary" : "\"short clip\" — community flags the interview snippet and debates the phrasing.",
+         "url" : "https://www.reddit.com/r/GamingLeaksAndRumours/comments/o2jhny/george_r_r_martin_refers_to_elden_ring_as_a/"
+      },
+      {
+         "title" : "r/gaming: 3 years on.. what exactly was George R. R. Martin's role in Elden Ring..?",
+         "summary" : "\"what exactly was his role\" — thread points to interview clips while weighing his lore contributions.",
+         "url" : "https://www.reddit.com/r/gaming/comments/1l3noc4/3_years_on_what_exactly_was_george_r_r_martins/"
       }
    ],
    "events" : [
@@ -2844,6 +2859,52 @@
             }
          ],
          "location" : "UK"
+      },
+      {
+         "id" : "evt-0122",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Short interview clip where Martin discusses his involvement with Elden Ring.",
+         "date" : "2021-06-18",
+         "format" : "Interview (clip)",
+         "outlet" : "",
+         "title" : "George RR Martin on Elden Ring",
+         "tags" : [
+            "interview",
+            "clip",
+            "games"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=xHzJG1hHTdU",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0123",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Comic Relief interview with a 10-year-old fan about the charity companion books.",
+         "date" : "2001",
+         "format" : "TV interview",
+         "outlet" : "Comic Relief",
+         "title" : "JK Rowling interviewed for Comic Relief",
+         "tags" : [
+            "TV",
+            "charity",
+            "archive"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=v6ymvBa7Gbc",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
       }
    ],
    "updated" : "2026-03-18",
