@@ -37,6 +37,21 @@
       "title": "r/harrypotter: Anyone have a nice list of J.K. Rowling interviews?",
       "url": "https://www.reddit.com/r/harrypotter/comments/r2qlm/anyone_have_a_nice_list_of_jk_rowling_interviews/",
       "summary": "AccioQuote aims to have every interview she's ever done on their site. It's very comprehensive. — pointing to a deep archive of interviews."
+    },
+    {
+      "title": "r/asoiaf: An Interview With George R.R. Martin | Official Game of Thrones Podcast",
+      "url": "https://www.reddit.com/r/asoiaf/comments/wqor98/an_interview_with_george_rr_martin_official_game/",
+      "summary": "\"Official Game Of Thrones Podcast\" — shared as a longform listen with GRRM."
+    },
+    {
+      "title": "r/gameofthrones: A lengthy interview with George R.R. Martin (Hollywood Reporter)",
+      "url": "https://www.reddit.com/r/gameofthrones/comments/1qdqefz/a_lengthy_interview_with_george_rr_martin_by_the/",
+      "summary": "\"A lengthy interview... full of information about Dunk and Egg, Jon Snow and Arya Stark spin-offs.\""
+    },
+    {
+      "title": "r/JKRowling: I wish she did more interviews.",
+      "url": "https://www.reddit.com/r/JKRowling/comments/xppwsm/i_wish_she_did_more_interviews/",
+      "summary": "\"I wish she did more interviews.\" — fans trade favorite clips and recommendations."
     }
   ],
   "events": [
@@ -1237,6 +1252,117 @@
         {
           "url": "https://www.youtube.com/watch?v=hGn5qrg8Ds4",
           "source": "TODAY (YouTube)",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "id": "evt-0060",
+      "author": "George R. R. Martin",
+      "title": "In Conversation: George R.R. Martin with Dan Jones (Full Event)",
+      "date": "2019-09-30",
+      "outlet": "Fane",
+      "host": "Dan Jones",
+      "location": "UK",
+      "format": "Conversation",
+      "summary": "Full event on Fire & Blood and medieval history influences; recorded during his 2019 UK visit.",
+      "tags": [
+        "festival",
+        "longform"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=ysRorXaGbG0",
+          "source": "Fane (YouTube)",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "id": "evt-0061",
+      "author": "George R. R. Martin",
+      "title": "In Conversation With... George R.R. Martin on Game of Thrones (TIFF Bell Lightbox)",
+      "date": "2012-03-16",
+      "outlet": "TIFF Bell Lightbox",
+      "host": "",
+      "location": "Toronto, Canada",
+      "format": "Conversation",
+      "summary": "TIFF Bell Lightbox talk on adapting ASOIAF for TV and his writing process.",
+      "tags": [
+        "festival",
+        "talk"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=QlJblxV3QHQ",
+          "source": "TIFF Bell Lightbox (YouTube)",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "id": "evt-0062",
+      "author": "George R. R. Martin",
+      "title": "George RR Martin Talks NU, Writing and ‘Game of Thrones’",
+      "date": "2021-06-17",
+      "outlet": "WTTW Chicago Tonight",
+      "host": "",
+      "location": "Chicago, IL",
+      "format": "TV interview",
+      "summary": "Interview tied to his Northwestern honorary doctorate; includes a campus blizzard tidbit.",
+      "tags": [
+        "TV",
+        "university"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=3Q6nEhIzkkg",
+          "source": "WTTW (YouTube)",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "id": "evt-0063",
+      "author": "J.K. Rowling",
+      "title": "Harry Potter: Beyond the Page — Virtual Author Visit",
+      "date": "2012-10-11",
+      "outlet": "Harry Potter: Beyond the Page",
+      "host": "",
+      "location": "Edinburgh, Scotland",
+      "format": "Virtual author visit",
+      "summary": "Virtual author visit filmed in Edinburgh; Rowling answers reader questions about writing and origins.",
+      "tags": [
+        "virtual",
+        "fan"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=aA_QYZBWQ88",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "id": "evt-0064",
+      "author": "J.K. Rowling",
+      "title": "Blue Peter Ask J.K. Rowling Anything",
+      "date": "2022-04-12",
+      "outlet": "BBC Blue Peter",
+      "host": "",
+      "location": "",
+      "format": "TV interview",
+      "summary": "Extended fan Q&A where Rowling answers kids’ questions.",
+      "tags": [
+        "TV",
+        "BBC",
+        "fan"
+      ],
+      "links": [
+        {
+          "url": "https://www.bbc.co.uk/cbbc/joinin/bp-as-jk-rowling-anything",
+          "source": "BBC",
           "type": "video"
         }
       ]
