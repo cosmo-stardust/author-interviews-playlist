@@ -37,6 +37,21 @@
       "title": "r/harrypotter: Anyone have a nice list of J.K. Rowling interviews?",
       "summary": "Recommendation: \"AccioQuote aims to have every interview she's ever done... It's very comprehensive.\"",
       "url": "https://www.reddit.com/r/harrypotter/comments/r2qlm/anyone_have_a_nice_list_of_jk_rowling_interviews/"
+    },
+    {
+      "title": "r/asoiaf: George R. R. Martin in Oxford",
+      "summary": "Fans highlight the Oxford appearance as a \"rare long-form public interview.\"",
+      "url": "https://www.reddit.com/r/asoiaf/comments/1ev6iol/spoilers_extendedgeorge_r_r_martin_in_oxford/"
+    },
+    {
+      "title": "r/asoiaf: Author George RR Martin Interview at the Oxford Union",
+      "summary": "Thread recommends it as a \"solid, wide-ranging Q&A.\"",
+      "url": "https://www.reddit.com/r/asoiaf/comments/1qigcxo/spoilers_extendedauthor_george_rr_martin/"
+    },
+    {
+      "title": "r/harrypotter: J.K. Rowling Blue Peter interviews",
+      "summary": "Users call the Blue Peter segments \"classic early interviews.\"",
+      "url": "https://www.reddit.com/r/harrypotter/comments/s2swfg/good_jk_rowling_interviews/"
     }
   ],
   "events": [
@@ -1236,6 +1251,119 @@
       "links": [
         {
           "url": "https://www.youtube.com/watch?v=3uLa3WKXwLg",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "id": "evt-0060",
+      "author": "George R. R. Martin",
+      "title": "George R.R. Martin in Conversation (History of Westeros)",
+      "date": "2022-08-18",
+      "outlet": "History of Westeros",
+      "host": "",
+      "location": "Santa Fe, NM",
+      "format": "Interview",
+      "summary": "In-person interview at Martins Santa Fe office covering House of the Dragon, adaptation, fandom, and writing.",
+      "tags": [
+        "interview",
+        "fan",
+        "best"
+      ],
+      "links": [
+        {
+          "url": "https://youtu.be/5M39Cq8vSKc",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "id": "evt-0061",
+      "author": "George R. R. Martin",
+      "title": "George R. R. Martin in Oxford (Oxford Writers House)",
+      "date": "2024-08-02",
+      "outlet": "Oxford Writers House",
+      "host": "",
+      "location": "Oxford, UK",
+      "format": "Conversation",
+      "summary": "Public interview appearance hosted by Oxford Writers House in Oxford.",
+      "tags": [
+        "festival",
+        "conversation"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=jfy-whmkOpM",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "id": "evt-0062",
+      "author": "J.K. Rowling",
+      "title": "J.K. Rowling talks Harry Potter (Blue Peter, BBC One)",
+      "date": "1997-12-17",
+      "outlet": "Blue Peter",
+      "host": "",
+      "location": "",
+      "format": "TV interview",
+      "summary": "Early TV interview about Philosophers Stone with writing tips for young readers.",
+      "tags": [
+        "TV",
+        "Blue Peter",
+        "early"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=kwLFm0uocCo",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "id": "evt-0063",
+      "author": "J.K. Rowling",
+      "title": "J.K. Rowling on Blue Peter (Q&A ahead of Deathly Hallows)",
+      "date": "2007-08-02",
+      "outlet": "Blue Peter",
+      "host": "",
+      "location": "",
+      "format": "TV interview",
+      "summary": "Blue Peter Q&A session released ahead of the final Harry Potter book.",
+      "tags": [
+        "TV",
+        "Blue Peter"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=bt-nxSqi-cc",
+          "source": "YouTube",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "id": "evt-0064",
+      "author": "J.K. Rowling",
+      "title": "J.K. Rowling talks The Christmas Pig (Blue Peter, CBBC)",
+      "date": "2021-10-15",
+      "outlet": "Blue Peter",
+      "host": "",
+      "location": "",
+      "format": "TV interview",
+      "summary": "Interview about The Christmas Pig with questions from children.",
+      "tags": [
+        "TV",
+        "Blue Peter",
+        "children"
+      ],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=UwGGdqvbxd8",
           "source": "YouTube",
           "type": "video"
         }
