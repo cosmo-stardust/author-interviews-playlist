@@ -44,7 +44,53 @@
          "summary" : "\"New interview\" -- discussion thread flags notable adaptation insights.",
          "title" : "r/asoiaf: New interview -- George R.R. Martin reveals upsides and downsides of adaptations",
          "url" : "https://www.reddit.com/r/asoiaf/comments/1j6v7ob/new_interview_george_rr_martin_reveals_the/"
+      },
+      {
+         "title" : "r/gameofthrones: [TV Spoilers] 1h30 on stage interview + Q&A with George R.R. Martin",
+         "summary" : "Fans point to the 90‑minute Wheeler Centre stage interview as a must-watch longform session.",
+         "url" : "https://www.reddit.com/r/gameofthrones/comments/1rt2yr/tv_spoilers_1h30_on_stage_interview_qa_with/"
+      },
+      {
+         "title" : "r/harrypotter: The truth about JK Rowling's infamous Wonderland interview",
+         "summary" : "Thread adds context and argues the Wonderland interview is better than its reputation.",
+         "url" : "https://www.reddit.com/r/harrypotter/comments/1xaljh/the_truth_about_jk_rowlings_infamous_wonderland/"
+      },
+      {
+         "title" : "r/harrypotter: Some facts that J.K. Rowling let slip in numerous interviews",
+         "summary" : "Fans compile small canon tidbits surfaced across interviews and Q&As.",
+         "url" : "https://www.reddit.com/r/harrypotter/comments/145jif/some_facts_that_jk_rowling_let_slip_in_numerous/"
+      },
+      {
+         "title" : "r/grrm: The Dom (Dominic Noble) will interview GRRM on his YouTube channel July 1st",
+         "summary" : "Will interview GRRM on his YouTube channel — fans flag the Dominic Noble sit‑down as a must‑watch.",
+         "url" : "https://www.reddit.com/r/grrm/comments/14eoowy/the_dom_dominic_noble_will_interview_grrm_on_his/"
+      },
+      {
+         "title" : "r/harrypotter: A JK Rowling Interview from 2000 in an AOL chatroom",
+         "summary" : "I had this saved on an old hard drive — commenters share the archived AOL chat interview.",
+         "url" : "https://www.reddit.com/r/harrypotter/comments/2qk77o/a_jk_rowling_interview_from_2000_in_an_aol/"
+      },
+      {
+         "title" : "r/asoiaf: George R.R. Martin • Night of the Cooters Interview",
+         "summary" : "Night of the Cooters interview — thread highlights a rare conversation and notes his current novel focus.",
+         "url" : "https://www.reddit.com/r/asoiaf/comments/132d066/george_rr_martin_night_of_the_cooters_interview/"
+      },
+      {
+         "title" : "r/harrypotter: Unedited JK Rowling Interview on the Birth of Harry Potter (1998)",
+         "summary" : "\"Unedited JK Rowling Interview on the Birth of Harry Potter (1998)\" — thread flags the long uncut clip as a rare early interview.",
+         "url" : "https://www.reddit.com/r/harrypotter/comments/12l2wn5/unedited_jk_rowling_interview_on_the_birth_of/"
+      },
+      {
+         "title" : "r/popculturechat: J.K. Rowling gives a rare interview to Graham Norton",
+         "summary" : "\"Rare interview\" — commenters point to the Graham Norton segment as a standout appearance.",
+         "url" : "https://www.reddit.com/r/popculturechat/comments/wzfbt4/jk_rowling_gives_a_rare_interview_to_graham_norton/"
+      },
+      {
+         "title" : "r/grrm: GRRM at the Miami SciFi International Film Festival on January 18th, 2025",
+         "summary" : "\"The Q&A was altogether too short\" — attendee highlights the Tolkien-tomb anecdote and recommends the talk.",
+         "url" : "https://www.reddit.com/r/grrm/comments/1i58ry6/grrm_at_the_miami_scifi_international_film/"
       }
+
    ],
    "events" : [
       {
@@ -1594,7 +1640,237 @@
                "source" : "YouTube"
             }
          ]
+      },
+      {
+         "id" : "evt-0075",
+         "author" : "George R. R. Martin",
+         "host" : "Dan Debuf",
+         "summary" : "Wheeler Centre event with Michelle Fairley exploring the show and its adaptation from page to screen.",
+         "date" : "2013-11-13",
+         "format" : "Conversation",
+         "outlet" : "The Wheeler Centre",
+         "title" : "Game of Thrones with George R.R. Martin and Michelle Fairley",
+         "tags" : [
+            "festival",
+            "panel"
+         ],
+         "links" : [
+            {
+               "source" : "Wheeler Centre (YouTube)",
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=vLkvLpPWWvI"
+            }
+         ],
+         "location" : "Melbourne, Australia"
+      },
+      {
+         "id" : "evt-0076",
+         "author" : "George R. R. Martin",
+         "host" : "Lynne Joyrich, Jon Land",
+         "summary" : "Brown University Library event featuring the Harris Collection Literary Award presentation.",
+         "date" : "2014-10-23",
+         "format" : "Conversation",
+         "outlet" : "Brown University Library",
+         "title" : "An Evening with George R. R. Martin and Publisher Tom Doherty",
+         "tags" : [
+            "university",
+            "talk"
+         ],
+         "links" : [
+            {
+               "source" : "Brown University Library (YouTube)",
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=TB5AU_bCZJg"
+            }
+         ],
+         "location" : "Providence, RI"
+      },
+      {
+         "id" : "evt-0077",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "ABC News interview clip on The Casual Vacancy, including a Rihanna influence note.",
+         "date" : "2012-09-26",
+         "format" : "TV interview",
+         "outlet" : "ABC News",
+         "title" : "The Casual Vacancy interview (ABC News)",
+         "tags" : [
+            "TV",
+            "interview"
+         ],
+         "links" : [
+            {
+               "source" : "ABC News (YouTube)",
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=Y461sAi_Blw"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0078",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Launch reading for The Casual Vacancy at Southbank Centre.",
+         "date" : "2012-09-27",
+         "format" : "Live reading",
+         "outlet" : "Southbank Centre",
+         "title" : "J.K. Rowling reads The Casual Vacancy live",
+         "tags" : [
+            "reading",
+            "festival"
+         ],
+         "links" : [
+            {
+               "source" : "Southbank Centre (YouTube)",
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=XVEw_hsL7G0"
+            }
+         ,
+            {
+               "source" : "Southbank Centre (YouTube)",
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=UV7gLQKUoP4"
+            }
+         ],
+         "location" : "London, UK"
+      },
+      {
+         "id" : "evt-0079",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Collider video interview on adaptations and In the Lost Lands.",
+         "date" : "2025-03-07",
+         "format" : "Interview",
+         "outlet" : "Collider Interviews",
+         "title" : "George R.R. Martin Reveals the Upsides and Downsides of Seeing His Work Adapted",
+         "tags" : [
+            "interview",
+            "video"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=gVhZap-jOcA",
+               "source" : "Collider Interviews (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0080",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "GMA excerpt where Rowling reads from The Casual Vacancy.",
+         "date" : "2012-09-27",
+         "format" : "TV interview",
+         "outlet" : "ABC News / Good Morning America",
+         "title" : "J.K. Rowling 'The Casual Vacancy' Interview Excerpt (GMA)",
+         "tags" : [
+            "TV",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=h3FE_R2Vz8w",
+               "source" : "ABC News (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0081",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Amazon Books video where Martin answers Facebook fan questions.",
+         "date" : "2012-01-12",
+         "format" : "Q&A",
+         "outlet" : "Amazon Books",
+         "title" : "George R.R. Martin Answers Facebook Fans' Questions",
+         "tags" : [
+            "fan",
+            "Q&A",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=WbaslypgyWk",
+               "source" : "Amazon Books (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0082",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Penguin Random House clip from The Rise of the Dragon livestream; Martin answers fan questions.",
+         "date" : "2022-10-28",
+         "format" : "Q&A",
+         "outlet" : "Penguin Random House",
+         "title" : "George R. R. Martin Answers Fan Questions",
+         "tags" : [
+            "fan",
+            "Q&A"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=7R4c_2uaxT8",
+               "source" : "Penguin Random House (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0083",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Early Blue Peter interview for Philosopher's Stone; tips for young writers.",
+         "date" : "1997-12-17",
+         "format" : "TV interview",
+         "outlet" : "BBC Blue Peter",
+         "title" : "J.K. Rowling talks Harry Potter (Blue Peter)",
+         "tags" : [
+            "TV",
+            "BBC",
+            "archive"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=kwLFm0uocCo",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0084",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Short BBC News Scotland clip on getting the first Harry Potter book published.",
+         "date" : "1997",
+         "format" : "TV news interview",
+         "outlet" : "BBC News Scotland",
+         "title" : "J.K. Rowling on getting Harry Potter published (BBC News Scotland)",
+         "tags" : [
+            "TV",
+            "BBC",
+            "archive"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=Do2jy90Q1SI",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
       }
+
    ],
    "updated" : "2026-03-18",
    "collections" : [
