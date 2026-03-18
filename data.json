@@ -89,6 +89,21 @@
          "title" : "r/grrm: GRRM at the Miami SciFi International Film Festival on January 18th, 2025",
          "summary" : "\"The Q&A was altogether too short\" — attendee highlights the Tolkien-tomb anecdote and recommends the talk.",
          "url" : "https://www.reddit.com/r/grrm/comments/1i58ry6/grrm_at_the_miami_scifi_international_film/"
+      },
+      {
+         "title" : "r/books: George R.R. Martin: 'Don't be too impatient, it's only been 12 years since the last one'",
+         "summary" : "\"Seeing Martin give interviews is kind of encouraging\" — commenters share the clip as a rare, candid update.",
+         "url" : "https://www.reddit.com/r/books/comments/14tc0oa/george_rr_martin_dont_be_too_impatient_its_only/"
+      },
+      {
+         "title" : "r/podcasts: What's the consensus on The Witch Trials of J.K. Rowling?",
+         "summary" : "\"Probably the most even-handed treatment\" — listeners recommend the longform interview podcast series.",
+         "url" : "https://www.reddit.com/r/podcasts/comments/127e9a8/whats_the_consensus_on_the_witch_trials_of_jk/"
+      },
+      {
+         "title" : "r/FantasticBeasts: J.K. Rowling Speaks on the Fantastic Beasts Red Carpet",
+         "summary" : "\"My favorite is probably the scariest one, which is a manticore\" — fans highlight the red-carpet interview clip.",
+         "url" : "https://www.reddit.com/r/FantasticBeasts/comments/trfez5/j_k_rowling_speaks_on_the_fantastic_beasts_red/"
       }
 
    ],
@@ -1865,6 +1880,117 @@
             {
                "type" : "video",
                "url" : "https://www.youtube.com/watch?v=Do2jy90Q1SI",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0085",
+         "author" : "George R. R. Martin",
+         "host" : "Robin Hobb",
+         "summary" : "HarperCollins London exclusive interview with Robin Hobb.",
+         "date" : "2014",
+         "format" : "Interview",
+         "outlet" : "HarperCollins London",
+         "title" : "HarperCollins London Exclusive (with Robin Hobb)",
+         "tags" : [
+            "publisher",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://youtu.be/tXLYSnMIrXM",
+               "source" : "HarperCollins (YouTube)"
+            }
+         ],
+         "location" : "London, UK"
+      },
+      {
+         "id" : "evt-0086",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Second Life virtual appearance and Q&A.",
+         "date" : "2007-05-31",
+         "format" : "Virtual appearance",
+         "outlet" : "Second Life",
+         "title" : "Second Life Appearance",
+         "tags" : [
+            "virtual",
+            "Q&A"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=tYonVhBqh1Q",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "Second Life"
+      },
+      {
+         "id" : "evt-0087",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Rowling talks about writing the Fantastic Beasts screenplay and new wizarding world.",
+         "date" : "2016-11-16",
+         "format" : "Interview",
+         "outlet" : "Fantastic Beasts (YouTube)",
+         "title" : "Fantastic Beasts and Where to Find Them Interview",
+         "tags" : [
+            "film",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=7Dvv4IVeP_E",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0088",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Behind-the-scenes interview about Fantastic Beasts and its creatures.",
+         "date" : "2016-11-06",
+         "format" : "Interview",
+         "outlet" : "Fantastic Beasts (YouTube)",
+         "title" : "Fantastic Beasts Behind-the-Scenes Interview",
+         "tags" : [
+            "film",
+            "behind-the-scenes"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=L1KaIbcwL_M",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0089",
+         "author" : "J.K. Rowling",
+         "host" : "Stephen Fry",
+         "summary" : "Rowling joins Stephen Fry to discuss mythic creatures and wizarding lore.",
+         "date" : "2022-02-27",
+         "format" : "TV interview",
+         "outlet" : "BBC One",
+         "title" : "Fantastic Beasts: A Natural History (with Stephen Fry)",
+         "tags" : [
+            "BBC",
+            "TV",
+            "conversation"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=HIcQrUXwxO0",
                "source" : "YouTube"
             }
          ],
