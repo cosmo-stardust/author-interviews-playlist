@@ -6,6 +6,16 @@
          "url" : "https://www.reddit.com/r/asoiaf/comments/2pl00l/spoilers_all_the_best_interview_with_george_rr/"
       },
       {
+         "title" : "YouTube comments: An Evening with George R.R. Martin & Kim Stanley Robinson (UC San Diego, 2017)",
+         "summary" : "\"Two of my favorite authors. I never imagined I'd find an event with them speaking together!\" — top comment celebrating the pairing.",
+         "url" : "https://www.youtube.com/watch?v=zfbwx7RAJss"
+      },
+      {
+         "title" : "YouTube comments: J.K. Rowling — Creating Harry Potter’s Fantasy Empire (Bloomberg Game Changers)",
+         "summary" : "\"She is the definition of self-made without any financial help. Extremely Inspiring person!\" — highly-liked comment recommending the Bloomberg profile.",
+         "url" : "https://www.youtube.com/watch?v=X2adjz-KG9Y"
+      },
+      {
          "summary" : "Not sure if this is what you want but this is one of her more famous interviews. — top reply sharing a classic longform interview.",
          "title" : "r/harrypotter: Good JK Rowling interviews?",
          "url" : "https://www.reddit.com/r/harrypotter/comments/s2swfg/good_jk_rowling_interviews/"
@@ -149,6 +159,32 @@
          "title" : "r/TheFirstLaw: George R.R. Martin + Joe Abercrombie interview at the Kimo Theatre (May 2025)",
          "summary" : "\"Someone posted this on YouTube…it is not the full thing but it is most of it.\" — readers recommend the longform stage interview.",
          "url" : "https://www.reddit.com/r/TheFirstLaw/comments/1l5vzc8/george_rr_martin_joe_abercrombie_interview_at_the/"
+      },
+      {
+         "title" : "r/asoiaf: There’s a detail in George R.R. Martin’s interview yesterday that really bothered me",
+         "summary" : "Thread debates a specific interview detail and why it could matter for future books.",
+         "url" : "https://www.reddit.com/r/asoiaf/comments/1qel4z8/theres_a_detail_in_george_r_r_martins_interview/"
+      },
+      {
+         "title" : "Harry Potter Lexicon: Interviews index",
+         "summary" : "Fan‑maintained index of dated Rowling interviews used to trace canon tidbits.",
+         "url" : "https://www.hp-lexicon.org/source/interviews/"
+      },
+
+      {
+         "title" : "r/asoiaf: A great George R.R. Martin interview (Spoilers All)",
+         "summary" : "\"A great George R.R. Martin interview\" — thread shares a favorite longform conversation and why it stands out.",
+         "url" : "https://www.reddit.com/r/asoiaf/comments/3tp0q3/a_great_george_rr_martin_interview_spoilers_all/"
+      },
+      {
+         "title" : "r/cormoran_strike: J.K. Rowling answers 20 questions about The Running Grave",
+         "summary" : "\"Just listened and loved it\" — readers praise her 20‑question interview and discuss favorite answers.",
+         "url" : "https://www.reddit.com/r/cormoran_strike/comments/17c1j0l/jk_rowling_answers_20_questions_about_the_running/"
+      },
+      {
+         "title" : "r/JKRowling: Video - J.K. Rowling answers 20 questions about \"The Running Grave\"",
+         "summary" : "\"Thank you so much for sharing what a lovely interview!\" — fans recommend the Q&A clip.",
+         "url" : "https://www.reddit.com/r/JKRowling/comments/17hps0s/video_jk_rowling_answers_20_questions_about_the/"
       }
 
    ],
@@ -2290,8 +2326,211 @@
             }
          ],
          "location" : ""
+      },
+      {
+         "id" : "evt-0101",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Oxford Writers' House hosts Martin for a longform Oxford conversation and audience Q&A.",
+         "date" : "2024-08-17",
+         "format" : "Conversation",
+         "outlet" : "Oxford Writers' House",
+         "title" : "George R. R. Martin in Oxford",
+         "tags" : [
+            "longform",
+            "university"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=jfy-whmkOpM",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "Oxford, UK"
+      },
+      {
+         "id" : "evt-0102",
+         "author" : "J.K. Rowling",
+         "host" : "Evan Solomon",
+         "summary" : "CBC News interviews Rowling aboard the Hogwarts Express tour promoting Goblet of Fire.",
+         "date" : "2000-07",
+         "format" : "TV interview",
+         "outlet" : "CBC News",
+         "title" : "The Rowling Express (CBC News)",
+         "tags" : [
+            "TV",
+            "archive",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=XbsqZJ9rMD0",
+               "source" : "CBC News (YouTube)"
+            }
+         ],
+         "location" : "UK (train tour)"
+      },
+      {
+         "id" : "evt-0103",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Raw footage from a July 8, 2000 train‑tour interview recorded for CNN.",
+         "date" : "2000-07-08",
+         "format" : "TV interview",
+         "outlet" : "CNN",
+         "title" : "CNN raw footage interview (train tour)",
+         "tags" : [
+            "archive",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=kNKlVeQupjQ",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "UK (train tour)"
+      },
+      {
+         "id" : "evt-0104",
+         "author" : "George R. R. Martin",
+         "host" : "Arthur C. Clarke Center for Human Imagination",
+         "summary" : "UC San Diego conversation with Kim Stanley Robinson in support of the Clarion Workshop.",
+         "date" : "2017-05-26",
+         "format" : "Conversation",
+         "outlet" : "Arthur C. Clarke Center for Human Imagination",
+         "title" : "An Evening with George R.R. Martin and Kim Stanley Robinson",
+         "tags" : [
+            "festival",
+            "longform",
+            "writing"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=zfbwx7RAJss",
+               "source" : "Arthur C. Clarke Center for Human Imagination (YouTube)"
+            }
+         ],
+         "location" : "San Diego, CA"
+      },
+      {
+         "id" : "evt-0105",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Bloomberg Game Changers profile on Rowling’s rise and the Harry Potter franchise.",
+         "date" : "2015-02-02",
+         "format" : "TV profile",
+         "outlet" : "Bloomberg Originals",
+         "title" : "J.K. Rowling: Creating Harry Potter’s Fantasy Empire",
+         "tags" : [
+            "TV",
+            "profile",
+            "business"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=X2adjz-KG9Y",
+               "source" : "Bloomberg Originals (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0106",
+         "author" : "George R. R. Martin",
+         "host" : "Greta Johnsen, Jason Concepcion",
+         "summary" : "Official Game of Thrones Podcast video episode featuring a longform GRRM interview ahead of House of the Dragon.",
+         "date" : "2022-08-17",
+         "format" : "Podcast interview",
+         "outlet" : "HBO / Official Game of Thrones Podcast",
+         "title" : "An Interview with George R.R. Martin (Official Game of Thrones Podcast: Episode 3)",
+         "tags" : [
+            "podcast",
+            "HBO",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=AEheZ7lFW9s",
+               "source" : "HBO (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0107",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Re-uploaded interview focused on his life, influences, and Game of Thrones origins.",
+         "date" : "2018-02-20",
+         "format" : "Interview",
+         "outlet" : "",
+         "title" : "George R.R. Martin Interview (Game of Thrones)",
+         "tags" : [
+            "interview",
+            "video"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=c8NNyZH2rgM",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0108",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Short preview from The Times teasing her writing process and where her ideas come from.",
+         "date" : "2024-05-05",
+         "format" : "Video preview",
+         "outlet" : "The Times",
+         "title" : "J.K. Rowling: On Writing (Preview)",
+         "tags" : [
+            "writing",
+            "preview",
+            "official"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=Jm1DIbzS_2U",
+               "source" : "The Times (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0109",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Rowling answers 20 questions about The Running Grave shortly after publication.",
+         "date" : "2023-10-19",
+         "format" : "Q&A",
+         "outlet" : "Robert Galbraith / J.K. Rowling",
+         "title" : "J.K. Rowling answers 20 questions about The Running Grave",
+         "tags" : [
+            "Q&A",
+            "writing",
+            "Cormoran Strike"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=-gT-jAUJ6t0",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
       }
-
    ],
    "updated" : "2026-03-18",
    "collections" : [
