@@ -175,6 +175,21 @@
       "title" : "r/cormoran_strike: New and very short Rowling interview clip (Instagram)",
       "summary" : "\"Q: is it now or never for Strike and Robin A: A little bit now or never.\"",
       "url" : "https://www.reddit.com/r/cormoran_strike/comments/1mjuizt/spoiler_the_new_and_very_short_rowling_interview/"
+    },
+    {
+      "title" : "A Forum of Ice and Fire: New interview with George R.R. Martin (Glasgow Worldcon)",
+      "summary" : "Forum thread where fans highlight the Winter Is Coming interview from Glasgow Worldcon and call out the non-TV focus.",
+      "url" : "https://asoiaf.westeros.org/index.php?/topic/164465-new-interview-with-george-rr-martin/"
+    },
+    {
+      "title" : "r/asoiaf: GRRM in a new interview: \"Winds is coming pretty well\"",
+      "summary" : "Discussion thread debating his progress quote and linking to the interview source.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/1j7th6f/spoilers_extended_grrm_in_a_new_interview_winds/"
+    },
+    {
+      "title" : "r/EnoughJKRowling: The Times interview megathread",
+      "summary" : "Megathread collecting reactions to The Times writing-process interview and related coverage.",
+      "url" : "https://www.reddit.com/r/EnoughJKRowling/comments/1evacj9/the_times_publishes_a_halfbaked_puff_piece_jk/"
     }
   ],
   "events": [
@@ -4824,6 +4839,96 @@
             {
                "type" : "video",
                "url" : "https://www.youtube.com/watch?v=rfmenrOOL78",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0210",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Short bonus interview clip tied to Game of Thrones coverage.",
+         "date" : "2012-06-28",
+         "format" : "Interview (clip)",
+         "outlet" : "",
+         "title" : "George R.R. Martin bonus interview!",
+         "tags" : [
+            "interview",
+            "clip"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=VEegFASVTLs",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0211",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Game of Thrones-era interview clip with Martin about the series and writing.",
+         "date" : "2012-06-12",
+         "format" : "Interview",
+         "outlet" : "",
+         "title" : "Game Of Thrones - Interview with George R.R. Martin",
+         "tags" : [
+            "interview",
+            "TV"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=MdSPFJcxCNM",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0212",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Short press interview clip where Rowling says Fantastic Beasts was an \u201camazing accident.\u201d",
+         "date" : "2016-11-16",
+         "format" : "Interview (clip)",
+         "outlet" : "",
+         "title" : "J.K. Rowling says Fantastic Beasts was an \u201camazing accident\u201d",
+         "tags" : [
+            "film",
+            "interview",
+            "clip"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=yy6QScs3PmE",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0213",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "BBC Radio 2 book interview about Career of Evil, uploaded as a video with audio.",
+         "date" : "2015-11",
+         "format" : "Radio interview",
+         "outlet" : "BBC Radio 2",
+         "title" : "Robert Galbraith on BBC Radio 2 | \u201cCareer of Evil\u201d Interview (November 2015)",
+         "tags" : [
+            "radio",
+            "interview",
+            "Cormoran Strike"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=unoVl5aH9ww",
                "source" : "YouTube"
             }
          ],
