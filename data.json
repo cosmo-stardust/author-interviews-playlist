@@ -6,6 +6,21 @@
          "url" : "https://www.reddit.com/r/asoiaf/comments/2pl00l/spoilers_all_the_best_interview_with_george_rr/"
       },
       {
+         "title" : "YouTube comments: George R.R. Martin with Lena Headey & Michelle Fairley (Sydney Opera House, 2013)",
+         "summary" : "Commenters call it a rare cast+author stage conversation and highlight the audience Q&A.",
+         "url" : "https://www.youtube.com/watch?v=k3-r4eKAQaw"
+      },
+      {
+         "title" : "YouTube comments: George R. R. Martin TV Interview (Australia, 2013)",
+         "summary" : "Viewers appreciate the straightforward, book-focused questions and his candid answers.",
+         "url" : "https://www.youtube.com/watch?v=R1RQIiiyXGw"
+      },
+      {
+         "title" : "YouTube comments: J.K. Rowling on The Vicki Gabereau Show (2000)",
+         "summary" : "Commenters note the early-era vibe and her on-camera warmth during the series early rise.",
+         "url" : "https://www.youtube.com/watch?v=VyZhDYiClLg"
+      },
+      {
          "title" : "YouTube comments: An Evening with George R.R. Martin & Kim Stanley Robinson (UC San Diego, 2017)",
          "summary" : "\"Two of my favorite authors. I never imagined I'd find an event with them speaking together!\" — top comment celebrating the pairing.",
          "url" : "https://www.youtube.com/watch?v=zfbwx7RAJss"
@@ -4261,6 +4276,97 @@
             {
                "type" : "video",
                "url" : "https://www.youtube.com/watch?v=cQZp9H_Jxcw",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0173",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Sydney Opera House stage conversation with Martin and Game of Thrones cast members Lena Headey and Michelle Fairley.",
+         "date" : "2013",
+         "format" : "Panel",
+         "outlet" : "Sydney Opera House",
+         "title" : "George R.R. Martin with Lena Headey & Michelle Fairley (Sydney Opera House)",
+         "tags" : [
+            "panel",
+            "festival",
+            "Game of Thrones"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=k3-r4eKAQaw",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "Sydney, Australia"
+      },
+      {
+         "id" : "evt-0174",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Australian TV interview about Game of Thrones and his writing process.",
+         "date" : "2013-11-11",
+         "format" : "TV interview",
+         "outlet" : "Australian TV",
+         "title" : "George R. R. Martin TV Interview (Australia)",
+         "tags" : [
+            "TV",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=R1RQIiiyXGw",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "Australia"
+      },
+      {
+         "id" : "evt-0175",
+         "author" : "J.K. Rowling",
+         "host" : "Vicki Gabereau",
+         "summary" : "Rowling appears on The Vicki Gabereau Show during the early Harry Potter boom.",
+         "date" : "2000",
+         "format" : "TV interview",
+         "outlet" : "The Vicki Gabereau Show",
+         "title" : "J.K. Rowling on The Vicki Gabereau Show",
+         "tags" : [
+            "TV",
+            "interview",
+            "archive"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=VyZhDYiClLg",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0176",
+         "author" : "J.K. Rowling",
+         "host" : "Stephen Fry",
+         "summary" : "Stephen Fry interviews Rowling during the 2000 era on the Harry Potter rise.",
+         "date" : "2000",
+         "format" : "Interview",
+         "outlet" : "Stephen Fry",
+         "title" : "Stephen Fry Interview With J.K. Rowling (Part 1)",
+         "tags" : [
+            "interview",
+            "archive",
+            "Harry Potter"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=Q0buvzO4_EA",
                "source" : "YouTube"
             }
          ],
