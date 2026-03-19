@@ -1,4 +1,5 @@
 {
+  "updated": "2026-03-19",
   "bestOf" : [
     {
       "summary" : "I got to re-read one, one that I've come to regard as my favorite. — thread highlight pointing to the longform Observation Deck interview.",
@@ -144,9 +145,24 @@
       "title" : "r/popculturechat: J.K. Rowling gives a rare interview to Graham Norton",
       "summary" : "Thread frames it as a “rare interview” and debates the sit‑down.",
       "url" : "https://www.reddit.com/r/popculturechat/comments/wzfbt4/jk_rowling_gives_a_rare_interview_to_graham_norton/"
+    },
+    {
+      "title" : "r/asoiaf: GRRM and his \"More Devastating\" ending comments",
+      "summary" : "Fans discuss his interview remarks about a more devastating ending and what it implies for the books.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/1qfzabc/spoilersmain_grrm_and_his_more_devastating_and/"
+    },
+    {
+      "title" : "r/asoiaf: Was GRRM serious about Sansa in the interview?",
+      "summary" : "Thread debates his Sansa comment and reads between the lines of the interview.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/1qh5wqe/am_i_the_only_one_who_thinks_grrm_wasnt_really/"
+    },
+    {
+      "title" : "r/harrypotter: Lost J. K. Rowling interview",
+      "summary" : "Users hunt for a missing interview and share possible sources and memories.",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/15ck8pg/lost_j_k_rowling_interview/"
     }
   ],
-  "events" : [
+  "events": [
       {
          "id" : "evt-0001",
          "host" : "",
@@ -1779,8 +1795,7 @@
                "source" : "Southbank Centre (YouTube)",
                "type" : "video",
                "url" : "https://www.youtube.com/watch?v=XVEw_hsL7G0"
-            }
-         ,
+            },
             {
                "source" : "Southbank Centre (YouTube)",
                "type" : "video",
@@ -4513,8 +4528,7 @@
             }
          ],
          "location" : ""
-      }
-,
+      },
       {
          "id" : "evt-0198",
          "author" : "George R. R. Martin",
@@ -4611,10 +4625,130 @@
             }
          ],
          "location" : ""
+      },
+      {
+         "id" : "evt-0202",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Open SDCC 2014 interview/Q&A covering his writing process, fandom, and Game of Thrones.",
+         "date" : "2014-07",
+         "format" : "Interview",
+         "outlet" : "Comic-Con International / Courtyard Superhero HQ",
+         "title" : "George R.R. Martin Open Interview at Comic-Con 2014",
+         "tags" : [
+            "comic-con",
+            "Q&A",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=BGFszxVOGRc",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "San Diego, CA"
+      },
+      {
+         "id" : "evt-0203",
+         "author" : "J.K. Rowling",
+         "host" : "Nick Glass",
+         "summary" : "Short ITN Archive clip where Rowling recalls the moment Harry Potter was born in her mind.",
+         "date" : "1998-07-23",
+         "format" : "TV interview (clip)",
+         "outlet" : "ITN Archive",
+         "title" : "The Moment Harry Potter Was Born (ITN Archive clip)",
+         "tags" : [
+            "TV",
+            "archive",
+            "clip"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/shorts/4opVz_JD5tc",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "Edinburgh, Scotland"
+      },
+      {
+         "id" : "evt-0204",
+         "author" : "George R. R. Martin",
+         "host" : "Conan O'Brien",
+         "summary" : "CONAN clip where Martin quips that the showrunners are more bloodthirsty than he is.",
+         "date" : "2014-05-14",
+         "format" : "TV interview (clip)",
+         "outlet" : "CONAN on TBS",
+         "title" : "George R.R. Martin: The Showrunners Are More Bloodthirsty Than Me",
+         "tags" : [
+            "TV",
+            "interview",
+            "clip"
+         ],
+         "source" : "Team Coco (YouTube)",
+         "url" : "https://www.youtube.com/watch?v=zuaqKdA7VjA",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=zuaqKdA7VjA",
+               "source" : "Team Coco (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0205",
+         "author" : "George R. R. Martin",
+         "host" : "Conan O'Brien",
+         "summary" : "CONAN clip where Martin jokes about progress on The Winds of Winter.",
+         "date" : "2015-07-11",
+         "format" : "TV interview (clip)",
+         "outlet" : "CONAN on TBS",
+         "title" : "George R.R. Martin Is Working Hard On His Next Book",
+         "tags" : [
+            "TV",
+            "interview",
+            "clip"
+         ],
+         "source" : "Team Coco (YouTube)",
+         "url" : "https://www.youtube.com/watch?v=lle4t4o8EDk",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=lle4t4o8EDk",
+               "source" : "Team Coco (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0206",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Interview clip focusing on Rowling's personal life during the early Harry Potter era.",
+         "date" : "2007-10-02",
+         "format" : "Interview",
+         "outlet" : "",
+         "title" : "J.K. Rowling Personal Life Interview",
+         "tags" : [
+            "interview",
+            "archive"
+         ],
+         "source" : "YouTube",
+         "url" : "https://www.youtube.com/watch?v=EVfD3LMk6Fw",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=EVfD3LMk6Fw",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
       }
+
   ],
-  "updated" : "2026-03-19",
-  "collections" : [
+  "collections": [
     {
       "url" : "https://www.youtube.com/playlist?list=PLDkk4b0gM5Kgy3FDkd8_GRBmsnzn7XBkU",
       "summary" : "Community playlist of GRRM interviews.",
