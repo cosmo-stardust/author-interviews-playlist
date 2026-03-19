@@ -421,6 +421,21 @@
          "title" : "r/asoiaf: (Spoilers All) Best GRRM video interview?",
          "summary" : "Thread where fans compare longform GRRM interviews and point to their favorite full-length sessions.",
          "url" : "https://www.reddit.com/r/asoiaf/comments/2rh7p3/spoilers_all_best_grrm_video_interview/"
+      },
+      {
+         "title" : "r/asoiaf: GRRM was on PBS's Finding Your Roots",
+         "summary" : "\"A few years old video from PBS\" — fans discuss the genealogy reveal and share the clip.",
+         "url" : "https://www.reddit.com/r/asoiaf/comments/lvpyee/spoilers_published_grrm_was_on_pbss_finding_your/"
+      },
+      {
+         "title" : "r/freefolk: 60 Minutes Interview with George R.R. Martin",
+         "summary" : "\"He missed his true calling as a train conductor\" — thread trades favorite 60 Minutes moments.",
+         "url" : "https://www.reddit.com/r/freefolk/comments/bd58la/60_minutes_interview_with_george_rr_martin/"
+      },
+      {
+         "title" : "r/JKRowling: USA Today extended interview",
+         "summary" : "\"This is a great interview, thank you for sharing!\" — fans highlight the USA Today extended clip.",
+         "url" : "https://www.reddit.com/r/JKRowling/comments/lltfe5/jkrowling_usa_today_extended_interview/"
       }
    ],
    "events" : [
@@ -3898,6 +3913,50 @@
             }
          ],
          "location" : ""
+      },
+      {
+         "id" : "evt-0159",
+         "author" : "George R. R. Martin",
+         "title" : "George R.R. Martin talks about writing the first Game of Thrones chapter (60 Minutes Overtime)",
+         "date" : "2019-04-14",
+         "source" : "CBS News",
+         "url" : "https://www.cbsnews.com/news/george-rr-martin-talks-about-writing-the-first-game-of-thrones-chapter-60-minutes-2019-04-14/",
+         "summary" : "Anderson Cooper interview clip where Martin recalls writing the direwolf-pups opening chapter.",
+         "tags" : [
+            "TV",
+            "interview",
+            "60 Minutes",
+            "clip"
+         ]
+      },
+      {
+         "id" : "evt-0160",
+         "author" : "George R. R. Martin",
+         "title" : "George R.R. Martin and the Red Wedding (60 Minutes Overtime)",
+         "date" : "2019-04-14",
+         "source" : "CBS News",
+         "url" : "https://www.cbsnews.com/news/game-of-thrones-the-killing-scenes-george-rr-martin-and-the-red-wedding-60-minutes-2019-04-14/",
+         "summary" : "60 Minutes clip focused on the Red Wedding and Martin's approach to character deaths.",
+         "tags" : [
+            "TV",
+            "interview",
+            "60 Minutes",
+            "clip"
+         ]
+      },
+      {
+         "id" : "evt-0161",
+         "author" : "J.K. Rowling",
+         "title" : "USA Today extended interview with J.K. Rowling and the Fantastic Beasts cast",
+         "date" : "2018-09-25",
+         "source" : "USA Today (YouTube)",
+         "url" : "https://www.youtube.com/watch?v=0Lqkv2bPGvM",
+         "summary" : "Extended USA Today sit-down with the Crimes of Grindelwald cast featuring Rowling.",
+         "tags" : [
+            "interview",
+            "film",
+            "Fantastic Beasts"
+         ]
       }
    ],
    "updated" : "2026-03-19",
