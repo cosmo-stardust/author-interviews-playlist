@@ -160,6 +160,21 @@
       "title" : "r/harrypotter: Lost J. K. Rowling interview",
       "summary" : "Users hunt for a missing interview and share possible sources and memories.",
       "url" : "https://www.reddit.com/r/harrypotter/comments/15ck8pg/lost_j_k_rowling_interview/"
+    },
+    {
+      "title" : "r/asoiaf: George R.R. Martin at WorldCon panel officially up on YouTube",
+      "summary" : "\"The official WorldCon panel where George R.R. Martin spoke last month is finally up on YouTube.\"",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/1nijyuz/george_rr_martin_at_worldcon_panel_officially_up/"
+    },
+    {
+      "title" : "r/HouseOfTheDragon: George R.R. Martin exclusive interview on his new book",
+      "summary" : "\"Highly requested from Hollywood Spotlight Magazine so here you go everyone! Enjoy 🍻\"",
+      "url" : "https://www.reddit.com/r/HouseOfTheDragon/comments/wivwiq/george_rr_martin_exclusive_interview_on_his_new/"
+    },
+    {
+      "title" : "r/cormoran_strike: New and very short Rowling interview clip (Instagram)",
+      "summary" : "\"Q: is it now or never for Strike and Robin A: A little bit now or never.\"",
+      "url" : "https://www.reddit.com/r/cormoran_strike/comments/1mjuizt/spoiler_the_new_and_very_short_rowling_interview/"
     }
   ],
   "events": [
@@ -4741,6 +4756,74 @@
             {
                "type" : "video",
                "url" : "https://www.youtube.com/watch?v=EVfD3LMk6Fw",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0207",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "House-tour profile video featuring Martin walking through his Santa Fe home.",
+         "date" : "2023-11-08",
+         "format" : "Profile interview",
+         "outlet" : "YouTube",
+         "title" : "Inside George R.R. Martin's Enchanting Santa Fe Retreat",
+         "tags" : [
+            "profile",
+            "video"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=zQuNU8KgyNQ",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "Santa Fe, NM"
+      },
+      {
+         "id" : "evt-0208",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Rowling answers reader questions about her first Christmas story, The Christmas Pig.",
+         "date" : "2021-09-09",
+         "format" : "Q&A",
+         "outlet" : "J.K. Rowling Stories",
+         "title" : "J.K. Rowling answers questions about The Christmas Pig",
+         "tags" : [
+            "Q&A",
+            "The Christmas Pig",
+            "writing"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=NJaEY02Vs6U",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0209",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "TV segment where Rowling reads an excerpt from The Christmas Pig.",
+         "date" : "2021-10-12",
+         "format" : "Reading",
+         "outlet" : "YouTube",
+         "title" : "Exclusive: J.K. Rowling Reads Excerpt From Her New Book \u2018The Christmas Pig\u2019",
+         "tags" : [
+            "reading",
+            "The Christmas Pig",
+            "TV"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=rfmenrOOL78",
                "source" : "YouTube"
             }
          ],
