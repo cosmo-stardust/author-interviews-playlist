@@ -411,6 +411,16 @@
          "title" : "ResetEra: George R.R. Martin talks Winds of Winter delays (lengthy interview)",
          "summary" : "\"It covers pretty much everything relating to George in the past few years...\" — thread recommending the long interview.",
          "url" : "https://www.resetera.com/threads/george-r-r-martin-talks-winds-of-winter-delays-ryan-condal-house-of-the-dragon-drama-in-lengthy-interview.1407145/"
+      },
+      {
+         "title" : "StrikeFans: Interviews with Robert Galbraith",
+         "summary" : "Fan community index collecting Rowling/Galbraith interview links, Q&As, and media appearances for the Strike series.",
+         "url" : "https://strikefans.com/interviews-with-robert-galbraith/"
+      },
+      {
+         "title" : "r/asoiaf: (Spoilers All) Best GRRM video interview?",
+         "summary" : "Thread where fans compare longform GRRM interviews and point to their favorite full-length sessions.",
+         "url" : "https://www.reddit.com/r/asoiaf/comments/2rh7p3/spoilers_all_best_grrm_video_interview/"
       }
    ],
    "events" : [
@@ -3838,6 +3848,53 @@
                "type" : "video",
                "url" : "https://www.cbsnews.com/news/60-minutes-game-of-thrones-season-8-behind-the-scenes-2019-06-16/",
                "source" : "CBS News"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0157",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Audio podcast interview about A Song of Ice and Fire and his writing process, uploaded as a video.",
+         "date" : "2010",
+         "format" : "Podcast interview",
+         "outlet" : "Gamer's Haven Podcast",
+         "title" : "2010 George R.R. Martin Interview (Gamer's Haven Podcast)",
+         "tags" : [
+            "podcast",
+            "interview",
+            "audio"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=lvLzBqlSbaU",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0158",
+         "author" : "J.K. Rowling",
+         "host" : "Mark Billingham",
+         "summary" : "Rowling (as Robert Galbraith) reads from Troubled Blood and answers questions from Mark Billingham and readers.",
+         "date" : "2020-10-08",
+         "format" : "Conversation",
+         "outlet" : "Robert Galbraith",
+         "title" : "Robert Galbraith in conversation with Mark Billingham + reading from Troubled Blood",
+         "tags" : [
+            "conversation",
+            "Q&A",
+            "Cormoran Strike",
+            "reading"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=Ag2kU2u6wv0",
+               "source" : "YouTube"
             }
          ],
          "location" : ""
