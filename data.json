@@ -195,7 +195,6 @@
          "summary" : "Fan‑maintained index of dated Rowling interviews used to trace canon tidbits.",
          "url" : "https://www.hp-lexicon.org/source/interviews/"
       },
-
       {
          "title" : "r/asoiaf: A great George R.R. Martin interview (Spoilers All)",
          "summary" : "\"A great George R.R. Martin interview\" — thread shares a favorite longform conversation and why it stands out.",
@@ -381,7 +380,6 @@
          "summary" : "\"I wouldn't go that far\" — thread revisits Rowling's BBC comments about fan ownership and recommends the interview clip.",
          "url" : "https://www.fanforum.com/f79/jk-rowling-thread-our-queen-63171440/index4.html"
       },
-
       {
          "title" : "r/books: In a recent interview on 60 Minutes, George R.R. Martin said the ending will be similar",
          "summary" : "Thread debates how similar the book ending might be and what changes readers hope for.",
@@ -436,6 +434,31 @@
          "title" : "r/JKRowling: USA Today extended interview",
          "summary" : "\"This is a great interview, thank you for sharing!\" — fans highlight the USA Today extended clip.",
          "url" : "https://www.reddit.com/r/JKRowling/comments/lltfe5/jkrowling_usa_today_extended_interview/"
+      },
+      {
+         "title" : "r/asoiaf: George R.R. Martin on his favorite scenes he wrote [Spoilers Main]",
+         "summary" : "\"George R.R. Martin on his favorite scenes he wrote\" — thread recommends the interview clip for its craft insights.",
+         "url" : "https://www.reddit.com/r/asoiaf/comments/1odewd1/george_rr_martin_on_his_favorite_scenes_he_wrote/"
+      },
+      {
+         "title" : "r/cormoran_strike: New Tom Burke interview where he talks about JK Rowling: \"I do wrestle with all these things.\"",
+         "summary" : "\"I do wrestle with all these things\" — discussion points to the interview as a thoughtful look at Rowling’s collaboration on Strike.",
+         "url" : "https://www.reddit.com/r/cormoran_strike/comments/1ctx842/new_tom_burke_interview_where_he_talks_about_jk/"
+      },
+      {
+         "title" : "r/doctorwho: Russell T. Davies invited JKRowling to write an episode of Doctor Who (Graham Norton interview)",
+         "summary" : "\"Confirmed on last night's interview with Graham Norton (13:30)\" — thread highlights the interview moment worth watching.",
+         "url" : "https://www.reddit.com/r/doctorwho/comments/juernz/russell_t_davies_invited_jkrowling_to_write_an/"
+      },
+      {
+         "title" : "The Rowling Library: 2004 Edinburgh Book Festival Q&A",
+         "summary" : "\"it is probably Harry Potter and the Prisoner of Azkaban\" — fan archive highlights her favorite-book answer.",
+         "url" : "https://www.therowlinglibrary.com/2016/11/07/2004-j-k-rowling-at-the-edinburgh-book-festival/"
+      },
+      {
+         "title" : "Beyond Hogwarts: J.K. Rowling Q&A at the Edinburgh Book Festival",
+         "summary" : "\"the luckiest five hundred people in Edinburgh today\" — fan recap spotlighting the early-morning festival Q&A.",
+         "url" : "https://beyondhogwarts.com/harry-potter/books/j-k-rowling-at-the-edinburgh-book-festival/"
       }
    ],
    "events" : [
@@ -3679,7 +3702,6 @@
          ],
          "location" : ""
       },
-
       {
          "id" : "evt-0149",
          "author" : "George R. R. Martin",
@@ -3956,6 +3978,146 @@
             "interview",
             "film",
             "Fantastic Beasts"
+         ]
+      },
+      {
+         "id" : "evt-0162",
+         "author" : "George R. R. Martin",
+         "host" : "CBS News",
+         "summary" : "CBS News interview about the show\'s success and his progress on the next book.",
+         "date" : "2021-03-24",
+         "format" : "TV interview",
+         "outlet" : "CBS News",
+         "title" : "Game of Thrones author George R.R. Martin on show\'s success, writing next book",
+         "tags" : [
+            "TV",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.cbsnews.com/video/game-of-thrones-author-george-r-r-martin-on-shows-success-writing-next-book/",
+               "source" : "CBS News"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0163",
+         "author" : "George R. R. Martin",
+         "host" : "60 Minutes",
+         "summary" : "60 Minutes clip on whether the final ASOIAF books will align with the HBO ending.",
+         "date" : "2019-06-16",
+         "format" : "TV interview",
+         "outlet" : "CBS News / 60 Minutes",
+         "title" : "How will George R.R. Martin\'s final Game of Thrones books end?",
+         "tags" : [
+            "TV",
+            "interview",
+            "60 Minutes"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.cbsnews.com/video/will-george-r-r-martin-game-of-thrones-books-end-like-the-hbo-series-60-minutes/",
+               "source" : "CBS News"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0164",
+         "author" : "J.K. Rowling",
+         "host" : "Robert Galbraith",
+         "summary" : "Short Q&A clip on why she brought mysticism and clairvoyance into Troubled Blood.",
+         "date" : "2021-06-21",
+         "format" : "Q&A",
+         "outlet" : "Robert Galbraith",
+         "title" : "Robert Galbraith: What inspired you to write about the supernatural in Troubled Blood?",
+         "tags" : [
+            "Q&A",
+            "Cormoran Strike",
+            "writing"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=ZcHr08K9l9E",
+               "source" : "Robert Galbraith (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0165",
+         "author" : "J.K. Rowling",
+         "host" : "Robert Galbraith",
+         "summary" : "Teaser Q&A ahead of The Ink Black Heart release.",
+         "date" : "2022-08-19",
+         "format" : "Q&A",
+         "outlet" : "Robert Galbraith",
+         "title" : "The Ink Black Heart: Questions and Answers Teaser",
+         "tags" : [
+            "Q&A",
+            "Cormoran Strike",
+            "writing"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=5yAwXCVNvlo",
+               "source" : "Robert Galbraith (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0166",
+         "author" : "George R. R. Martin",
+         "title" : "George R.R. Martin Reveals His Dream Project (YouTube interview)",
+         "date" : "2025-03-15",
+         "source" : "YouTube",
+         "url" : "https://www.youtube.com/watch?v=-UesIEv18N4",
+         "summary" : "Interview clip where Martin talks about a dream project outside Westeros.",
+         "tags" : [
+            "interview",
+            "video"
+         ],
+         "format" : "Interview",
+         "outlet" : "",
+         "host" : "",
+         "location" : "",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=-UesIEv18N4",
+               "source" : "YouTube"
+            }
+         ]
+      },
+      {
+         "id" : "evt-0167",
+         "author" : "J.K. Rowling",
+         "title" : "J.K. Rowling talks about The Christmas Pig (Blue Peter)",
+         "date" : "2021-10-15",
+         "source" : "YouTube",
+         "url" : "https://www.youtube.com/watch?v=UwGGdqvbxd8",
+         "summary" : "Blue Peter segment where Rowling answers kids' questions about The Christmas Pig.",
+         "tags" : [
+            "TV",
+            "BBC",
+            "interview"
+         ],
+         "format" : "TV interview",
+         "outlet" : "BBC Blue Peter",
+         "host" : "",
+         "location" : "",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=UwGGdqvbxd8",
+               "source" : "YouTube"
+            }
          ]
       }
    ],
