@@ -504,6 +504,36 @@
          "title" : "Winter Is Coming: The George R.R. Martin interview (exclusive)",
          "summary" : "\"exclusive\" — fan community publishes a longform Q&A on fandom, writing, and work beyond Westeros.",
          "url" : "https://winteriscoming.net/posts/the-george-r-r-martin-interview-on-fandom-writing-and-his-work-beyond-westeros-exclusive-01j7snre072g"
+      },
+      {
+         "title" : "YouTube comments: George R.R. Martin in Conversation with Dan Jones (Fane, 2019)",
+         "summary" : "\"Long but worth it.\" — commenters recommend the full-event interview for the history deep-dives.",
+         "url" : "https://www.youtube.com/watch?v=ysRorXaGbG0"
+      },
+      {
+         "title" : "YouTube comments: J.K. Rowling — On Writing (Part One, 2024)",
+         "summary" : "\"Finally she talks craft.\" — viewers praise the rare, process-focused sit-down.",
+         "url" : "https://www.youtube.com/watch?v=3uLa3WKXwLg"
+      },
+      {
+         "title" : "YouTube comments: J.K. Rowling on The Daily Show with Jon Stewart (2012)",
+         "summary" : "\"Great to see her out of the Potter bubble.\" — comments highlight the Casual Vacancy-era tone.",
+         "url" : "https://www.cc.com/video/ab3l6u/the-daily-show-with-jon-stewart-j-k-rowling"
+      },
+      {
+         "title" : "YouTube comments: George R.R. Martin • Night of the Cooters (Julien Dubuque International Film Festival)",
+         "summary" : "\"Great to see him out talking about Howard Waldrop again\" — commenters highlight the behind‑the‑scenes festival chat.",
+         "url" : "https://www.youtube.com/watch?v=Do3945ThAfo"
+      },
+      {
+         "title" : "r/grrm: Night of the Cooters",
+         "summary" : "\"Fun little interview and he looks happy\" — fans flag the festival Q&A clip as a rare recent sit‑down.",
+         "url" : "https://www.reddit.com/r/grrm/comments/1h4tlpr/night_of_the_cooters/"
+      },
+      {
+         "title" : "YouTube comments: J.K. Rowling on 60 Minutes (1999)",
+         "summary" : "\"A time capsule of the early Potter era\" — commenters recommend the 1999 interview clip for its origin‑story details.",
+         "url" : "https://www.youtube.com/watch?v=FZtjVi5fH1M"
       }
    ],
    "events" : [
@@ -4368,6 +4398,169 @@
                "type" : "video",
                "url" : "https://www.youtube.com/watch?v=Q0buvzO4_EA",
                "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0177",
+         "author" : "George R. R. Martin",
+         "host" : "Martin Scholz",
+         "summary" : "Short WELT interview about his career and Game of Thrones.",
+         "date" : "2020-01-17",
+         "format" : "Interview (video)",
+         "outlet" : "WELT",
+         "title" : "Exklusiv-Interview: George R.R. Martin im Gespräch mit WELT",
+         "tags" : [
+            "interview",
+            "press",
+            "video"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.welt.de/kultur/video205089548/Exklusiv-Interview-George-R-R-Martin-im-Gespraech-mit-WELT-Autor-Martin-Scholz.html",
+               "source" : "WELT"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0178",
+         "author" : "J.K. Rowling",
+         "host" : "Jon Stewart",
+         "summary" : "Casual Vacancy-era interview on The Daily Show.",
+         "date" : "2012-10-15",
+         "format" : "TV interview",
+         "outlet" : "The Daily Show with Jon Stewart",
+         "title" : "J.K. Rowling on The Daily Show with Jon Stewart",
+         "tags" : [
+            "TV",
+            "interview",
+            "The Casual Vacancy"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.cc.com/video/ab3l6u/the-daily-show-with-jon-stewart-j-k-rowling",
+               "source" : "Comedy Central"
+            }
+         ],
+         "location" : "New York, NY"
+      },
+      {
+         "id" : "evt-0179",
+         "author" : "George R. R. Martin",
+         "host" : "Neil Gaiman",
+         "summary" : "Netflix featurette where Neil Gaiman and Martin discuss The Sandman and creative influences.",
+         "date" : "2022-08-06",
+         "format" : "Interview / conversation",
+         "outlet" : "Netflix",
+         "title" : "Why Neil Gaiman Has George R.R. Martin to Thank for The Sandman",
+         "tags" : [
+            "interview",
+            "conversation",
+            "video",
+            "Netflix"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=i_Ff48cS9jM",
+               "source" : "Netflix (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0180",
+         "author" : "J.K. Rowling",
+         "host" : "Christiane Amanpour",
+         "summary" : "CNN clip from the Amanpour interview where Rowling recounts the story that inspired her Lumos charity.",
+         "date" : "2017-07-08",
+         "format" : "TV interview (clip)",
+         "outlet" : "CNN",
+         "title" : "The little boy J.K. Rowling can’t forget",
+         "tags" : [
+            "TV",
+            "interview",
+            "clip",
+            "charity"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.cnn.com/videos/world/2017/07/08/j-k-rowling-boy-she-cannot-forget-amanpour-lon-orig.cnn",
+               "source" : "CNN"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0181",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Festival interview tied to the Julien Dubuque International Film Festival and the short film adaption of Howard Waldrop’s "Night of the Cooters."",
+         "date" : "2023-04-28",
+         "format" : "Interview",
+         "outlet" : "Julien Dubuque International Film Festival",
+         "title" : "George R.R. Martin • Night of the Cooters",
+         "tags" : [
+            "interview",
+            "film",
+            "festival"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=Do3945ThAfo",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "Dubuque, IA"
+      },
+      {
+         "id" : "evt-0182",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "CBS News archive clip from 60 Minutes revisiting Rowling’s 1999 sit‑down about creating Harry Potter’s world.",
+         "date" : "2020-05-28",
+         "format" : "TV interview (archive clip)",
+         "outlet" : "CBS News / 60 Minutes",
+         "title" : "From the 60 Minutes archives: J.K. Rowling",
+         "tags" : [
+            "TV",
+            "interview",
+            "archive"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.cbsnews.com/video/from-the-60-minutes-archives-j-k-rowling/",
+               "source" : "CBS News"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0183",
+         "author" : "J.K. Rowling",
+         "host" : "Lesley Stahl",
+         "summary" : "60 Minutes Overtime clip revisiting the 1999 Rowling interview as the film series was about to launch.",
+         "date" : "2015-10-10",
+         "format" : "TV interview (archive clip)",
+         "outlet" : "CBS News / 60 Minutes Overtime",
+         "title" : "1999: J.K. Rowling and Harry Potter (60 Minutes Overtime)",
+         "tags" : [
+            "TV",
+            "interview",
+            "archive"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.cbsnews.com/video/1999-j-k-rowling-and-harry-potter/",
+               "source" : "CBS News"
             }
          ],
          "location" : ""
