@@ -474,6 +474,21 @@
          "title" : "r/harrypotter: JK Rowling's speech at Harvard class of 2008's commencement ceremony",
          "summary" : "\"20 minutes long but it's worth every second.\" — fans recommend the Harvard commencement speech video.",
          "url" : "https://www.reddit.com/r/harrypotter/comments/ldqrn/jk_rowlings_speech_at_harvard_class_of_2008s/"
+      },
+      {
+         "title" : "r/harrypotter: J.K. Rowling talks about her life with Oprah Winfrey (FULL INTERVIEW)",
+         "summary" : "\"FULL INTERVIEW\" — thread shares the extended Oprah sit‑down for a full‑length watch.",
+         "url" : "https://www.reddit.com/r/harrypotter/comments/11zvyc/jk_rowling_talks_about_her_life_with_oprah/"
+      },
+      {
+         "title" : "StrikeFans: Robert Galbraith in conversation with Mark Billingham",
+         "summary" : "\"in conversation\" — fan community recap points to the longform Troubled Blood Q&A recording.",
+         "url" : "https://strikefans.com/robert-galbraith-in-conversation-with-mark-billingham/"
+      },
+      {
+         "title" : "Winter Is Coming: The George R.R. Martin interview (exclusive)",
+         "summary" : "\"exclusive\" — fan community publishes a longform Q&A on fandom, writing, and work beyond Westeros.",
+         "url" : "https://winteriscoming.net/posts/the-george-r-r-martin-interview-on-fandom-writing-and-his-work-beyond-westeros-exclusive-01j7snre072g"
       }
    ],
    "events" : [
@@ -4200,6 +4215,53 @@
                "type" : "video",
                "url" : "https://edition.cnn.com/videos/entertainment/2017/07/10/j-k-rowling-harry-potter-author-amanpour-full-intv.cnn",
                "source" : "CNN"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0171",
+         "author" : "George R. R. Martin",
+         "host" : "Maura McHugh",
+         "summary" : "Worldcon Dublin 2019 Q&A recorded after a screening of Forbidden Planet; Martin fields audience questions about writing and fandom.",
+         "date" : "2019-08-19",
+         "format" : "Q&A",
+         "outlet" : "Worldcon Dublin 2019",
+         "title" : "George R.R. Martin Q&A (Worldcon Dublin 2019)",
+         "tags" : [
+            "worldcon",
+            "Q&A",
+            "festival"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=Ney7lP5my2g",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "Dublin, Ireland"
+      },
+      {
+         "id" : "evt-0172",
+         "author" : "J.K. Rowling",
+         "host" : "John Tiffany, Jack Thorne",
+         "summary" : "Rowling discusses collaborating with director John Tiffany and writer Jack Thorne to create the Cursed Child stage play.",
+         "date" : "2018-11-27",
+         "format" : "Interview",
+         "outlet" : "Harry Potter and the Cursed Child",
+         "title" : "J.K. Rowling, John Tiffany and Jack Thorne on creating Cursed Child",
+         "tags" : [
+            "interview",
+            "theater",
+            "Harry Potter",
+            "Cursed Child"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=cQZp9H_Jxcw",
+               "source" : "YouTube"
             }
          ],
          "location" : ""
