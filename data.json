@@ -330,6 +330,21 @@
          "title" : "r/asoiaf: (Spoilers Extended) GRRM’s writing process",
          "summary" : "\"I do get distracted by other stories. I'm prone to fall in love with ideas and fall in love with characters\" — fans point to the interview clip about his drafting style.",
          "url" : "https://www.reddit.com/r/asoiaf/comments/8jl4n2/spoilers_extended_grrms_writing_process/"
+      },
+      {
+         "title" : "A Forum of Ice and Fire: Oxford Writer's House Q&A event starring George R. R. Martin (video)",
+         "summary" : "Forum thread timestamps standout questions (science vs. magic, adaptation challenges) from the Oxford Writers' House Q&A.",
+         "url" : "https://asoiaf.westeros.org/index.php?/topic/164406-oxford-writers-house-qa-event-starring-george-r-r-martin-video/"
+      },
+      {
+         "title" : "A Forum of Ice and Fire: GRRM speaks — Rolling Stone interview 2014",
+         "summary" : "Fan forum discussion highlights why the Rolling Stone sit-down remains a must-read longform interview.",
+         "url" : "https://asoiaf.westeros.org/index.php?/topic/153303-grrm-speaks-rolling-stone-interview-2014/"
+      },
+      {
+         "title" : "The Leaky Cauldron: Video — 1999 60 Minutes Overtime interview with J.K. Rowling",
+         "summary" : "Fan community post resurfacing the 1999 60 Minutes Overtime clip and why it’s worth revisiting.",
+         "url" : "http://www.the-leaky-cauldron.org/2010/11/11/video-1999-interview-with-jk-rowling/"
       }
 
    ],
@@ -3312,6 +3327,98 @@
                "type" : "video",
                "url" : "https://www.youtube.com/watch?v=gHPVrmWtoRY",
                "source" : "NPR (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0138",
+         "author" : "George R. R. Martin",
+         "host" : "Tom Ashbrook",
+         "summary" : "On Point with Tom Ashbrook conversation around A Dance with Dragons and Martin’s writing process.",
+         "date" : "2011-07-12",
+         "format" : "Radio interview",
+         "outlet" : "WBUR / NPR On Point",
+         "title" : "George R.R. Martin on On Point (WBUR)",
+         "tags" : [
+            "radio",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=DKIh0geO96c",
+               "source" : "WBUR On Point (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0139",
+         "author" : "George R. R. Martin",
+         "host" : "Henry Louis Gates Jr.",
+         "summary" : "Finding Your Roots segment where Martin learns about his family history.",
+         "date" : "2019-05-06",
+         "format" : "TV interview (clip)",
+         "outlet" : "PBS Finding Your Roots",
+         "title" : "Finding Your Roots with George R.R. Martin",
+         "tags" : [
+            "PBS",
+            "TV",
+            "interview",
+            "clip"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=CjCdPVnIguw",
+               "source" : "PBS (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0140",
+         "author" : "J.K. Rowling",
+         "host" : "Lesley Stahl",
+         "summary" : "60 Minutes interview from Edinburgh during the early Harry Potter boom.",
+         "date" : "1999-09-12",
+         "format" : "TV interview",
+         "outlet" : "CBS 60 Minutes",
+         "title" : "J.K. Rowling on 60 Minutes (1999)",
+         "tags" : [
+            "TV",
+            "interview",
+            "archive"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=FZtjVi5fH1M",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "Edinburgh, Scotland"
+      },
+      {
+         "id" : "evt-0141",
+         "author" : "J.K. Rowling",
+         "host" : "Mark Phillips",
+         "summary" : "CBS News archive clip on the origins of Harry Potter, filmed in 1999.",
+         "date" : "1999",
+         "format" : "TV interview",
+         "outlet" : "CBS News",
+         "title" : "From 1999: J.K. Rowling on the origins of Harry Potter",
+         "tags" : [
+            "TV",
+            "interview",
+            "archive"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.cbsnews.com/video/from-1999-j-k-rowling-on-the-origins-of-harry-potter/",
+               "source" : "CBS News"
             }
          ],
          "location" : ""
