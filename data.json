@@ -459,6 +459,21 @@
          "title" : "Beyond Hogwarts: J.K. Rowling Q&A at the Edinburgh Book Festival",
          "summary" : "\"the luckiest five hundred people in Edinburgh today\" — fan recap spotlighting the early-morning festival Q&A.",
          "url" : "https://beyondhogwarts.com/harry-potter/books/j-k-rowling-at-the-edinburgh-book-festival/"
+      },
+      {
+         "title" : "r/grrm: George RR Martin Northwestern Graduation Speech 2021",
+         "summary" : "\"George is such a great speaker.\" — thread praising the commencement talk and sharing the link.",
+         "url" : "https://www.reddit.com/r/grrm/comments/qadkbs/george_rr_martin_northwestern_graduation_speech/"
+      },
+      {
+         "title" : "r/Fantasy: George R.R. Martin on Fantasy",
+         "summary" : "\"For me though I think of fantasy as an escape...\" — commenters highlight his definition of fantasy from the interview excerpt.",
+         "url" : "https://www.reddit.com/r/Fantasy/comments/91pjfu/george_rr_martin_on_fantasy/"
+      },
+      {
+         "title" : "r/harrypotter: JK Rowling's speech at Harvard class of 2008's commencement ceremony",
+         "summary" : "\"20 minutes long but it's worth every second.\" — fans recommend the Harvard commencement speech video.",
+         "url" : "https://www.reddit.com/r/harrypotter/comments/ldqrn/jk_rowlings_speech_at_harvard_class_of_2008s/"
       }
    ],
    "events" : [
@@ -4119,6 +4134,75 @@
                "source" : "YouTube"
             }
          ]
+      },
+      {
+         "id" : "evt-0168",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Short clip where Martin discusses religion in his fantasy worlds.",
+         "date" : "2016-08-29",
+         "format" : "Interview (clip)",
+         "outlet" : "",
+         "title" : "George R.R. Martin on Religion",
+         "tags" : [
+            "interview",
+            "clip",
+            "fantasy"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=rDaHSet6-SM",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0169",
+         "author" : "J.K. Rowling",
+         "host" : "Katie Couric",
+         "summary" : "Dateline NBC interview in Edinburgh ahead of Order of the Phoenix, covering fame and the writing process.",
+         "date" : "2003-06-20",
+         "format" : "TV interview",
+         "outlet" : "Dateline NBC",
+         "title" : "Dateline NBC interview with J.K. Rowling",
+         "tags" : [
+            "TV",
+            "interview",
+            "archive"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=oEiPimwdoG4",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "Edinburgh, Scotland"
+      },
+      {
+         "id" : "evt-0170",
+         "author" : "J.K. Rowling",
+         "host" : "Christiane Amanpour",
+         "summary" : "CNN full interview where Rowling discusses Lumos, writing under Robert Galbraith, and fame.",
+         "date" : "2017-07-10",
+         "format" : "TV interview",
+         "outlet" : "CNN",
+         "title" : "How J.K. Rowling’s fear led her to charity (Full Interview)",
+         "tags" : [
+            "TV",
+            "interview",
+            "charity"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://edition.cnn.com/videos/entertainment/2017/07/10/j-k-rowling-harry-potter-author-amanpour-full-intv.cnn",
+               "source" : "CNN"
+            }
+         ],
+         "location" : ""
       }
    ],
    "updated" : "2026-03-19",
