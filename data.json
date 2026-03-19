@@ -534,6 +534,36 @@
          "title" : "YouTube comments: J.K. Rowling on 60 Minutes (1999)",
          "summary" : "\"A time capsule of the early Potter era\" — commenters recommend the 1999 interview clip for its origin‑story details.",
          "url" : "https://www.youtube.com/watch?v=FZtjVi5fH1M"
+      },
+      {
+         "title" : "The Rowling Library: The Ink Black Heart full interactive Q&A",
+         "summary" : "\"You can watch the 27 questions and answers\" — fan archive sharing the full interactive Q&A and transcript.",
+         "url" : "https://www.therowlinglibrary.com/2022/09/22/robert-galbraith-the-ink-black-heart-full-interactive-qa/"
+      },
+      {
+         "title" : "MuggleNet: Exclusive 2005 interview (MuggleNet & Leaky Cauldron)",
+         "summary" : "\"This interview was monumental and is still one of the most in-depth interviews\" — fan community recap of the 2005 home sit‑down.",
+         "url" : "https://mugglenet.com/muggle-world-j-k-rowling/jkr-interview-mugglenet-leaky-cauldron/"
+      },
+      {
+         "title" : "Accio Quote!: Leaky Cauldron & MuggleNet Interview (Part Two)",
+         "summary" : "\"Sirius, to me, he's kind of on the edge\" — transcript excerpt frequently cited for character insight.",
+         "url" : "https://www.accio-quote.org/articles/2005/0705-tlc_mugglenet-anelli-2.htm"
+      },
+      {
+         "title" : "r/asoiaf: GRRM and his \"More Devastating\" ending than the show (interview discussion)",
+         "summary" : "Thread reacts to GRRM interview remarks about a darker, more different ending than the HBO series.",
+         "url" : "https://www.reddit.com/r/asoiaf/comments/1qfzabc/spoilersmain_grrm_and_his_more_devastating_and/"
+      },
+      {
+         "title" : "r/asoiaf: Sansa comments in a recent GRRM interview? (Spoilers Extended)",
+         "summary" : "Fans debate how seriously to take his interview remarks about Sansa's fate and intent.",
+         "url" : "https://www.reddit.com/r/asoiaf/comments/1qh5wqe/am_i_the_only_one_who_thinks_grrm_wasnt_really/"
+      },
+      {
+         "title" : "r/harrypotter: Unedited JK Rowling Interview on the Birth of Harry Potter (1998)",
+         "summary" : "Thread surfaces a long uncut 1998 clip and highlights the early-era origin story details.",
+         "url" : "https://www.reddit.com/r/harrypotter/comments/15tffqk/unedited_jk_rowling_interview_on_the_birth_of/"
       }
    ],
    "events" : [
@@ -4561,6 +4591,196 @@
                "type" : "video",
                "url" : "https://www.cbsnews.com/video/1999-j-k-rowling-and-harry-potter/",
                "source" : "CBS News"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0184",
+         "author" : "J.K. Rowling",
+         "host" : "Graham Norton",
+         "summary" : "BBC Radio 2 interview about The Ickabog and writing for children.",
+         "date" : "2020-11-14",
+         "format" : "Radio interview",
+         "outlet" : "BBC Radio 2",
+         "title" : "J.K. Rowling with Graham Norton on The Ickabog",
+         "tags" : [
+            "radio",
+            "interview",
+            "Ickabog"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=QpgO49n3qD4",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0185",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Interactive Q&A released for The Ink Black Heart with 27 reader-submitted questions.",
+         "date" : "2022-09-22",
+         "format" : "Q&A",
+         "outlet" : "Robert Galbraith",
+         "title" : "The Ink Black Heart full interactive Q&A",
+         "tags" : [
+            "Q&A",
+            "Cormoran Strike",
+            "writing"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=TziSL7_ysMQ",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0186",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Interview with Martin and Paul W.S. Anderson about adapting In the Lost Lands and changing story endings.",
+         "date" : "2025-03-07",
+         "format" : "Interview",
+         "outlet" : "YouTube",
+         "title" : "George R.R. Martin & Paul W.S. Anderson on In the Lost Lands",
+         "tags" : [
+            "interview",
+            "film",
+            "adaptation"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=fU329QaDLgU",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0187",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Press interview with Martin, Milla Jovovich, and Paul W.S. Anderson about the In the Lost Lands adaptation.",
+         "date" : "2025-03-11",
+         "format" : "Interview",
+         "outlet" : "YouTube",
+         "title" : "George R.R. Martin, Milla Jovovich & Paul W.S. Anderson Discuss In the Lost Lands",
+         "tags" : [
+            "interview",
+            "film",
+            "adaptation"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=OU7NQO7AJLA",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0188",
+         "author" : "George R. R. Martin",
+         "host" : "Conan O'Brien",
+         "summary" : "CONAN clip where Martin jokes about writing speed and the long wait between ASOIAF books.",
+         "date" : "2013-06-05",
+         "format" : "TV interview (clip)",
+         "outlet" : "CONAN on TBS / Team Coco",
+         "title" : "George R.R. Martin Is Writing As Fast As He Can (CONAN)",
+         "tags" : [
+            "TV",
+            "interview",
+            "clip"
+         ],
+         "source" : "Team Coco (YouTube)",
+         "url" : "https://www.youtube.com/watch?v=8k_FjgsgcRQ",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=8k_FjgsgcRQ",
+               "source" : "Team Coco (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0189",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Penguin Random House clip where Martin gives a brief update on The Winds of Winter during a livestream.",
+         "date" : "2022",
+         "format" : "Interview (clip)",
+         "outlet" : "Penguin Random House",
+         "title" : "Update on The Winds Of Winter",
+         "tags" : [
+            "interview",
+            "clip"
+         ],
+         "source" : "Penguin Random House (YouTube)",
+         "url" : "https://www.youtube.com/watch?v=FGWKQ9yzcBI",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=FGWKQ9yzcBI",
+               "source" : "Penguin Random House (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0190",
+         "author" : "J.K. Rowling",
+         "host" : "Whoopi Goldberg",
+         "summary" : "Lumos Gala conversation covering Rowling’s charity work and reflections on storytelling.",
+         "date" : "2018",
+         "format" : "Conversation",
+         "outlet" : "Lumos Gala",
+         "title" : "J.K. Rowling in conversation with Whoopi Goldberg (Lumos Gala)",
+         "tags" : [
+            "conversation",
+            "charity",
+            "Lumos"
+         ],
+         "source" : "Lumos (YouTube)",
+         "url" : "https://www.youtube.com/watch?v=ShslwLcd604",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=ShslwLcd604",
+               "source" : "Lumos (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0191",
+         "author" : "J.K. Rowling",
+         "host" : "Matt Lauer",
+         "summary" : "TODAY show interview where Rowling reflects on turning 50 and the Harry Potter legacy.",
+         "date" : "2015",
+         "format" : "TV interview",
+         "outlet" : "TODAY",
+         "title" : "J.K. Rowling Opens Up About Turning 50 (TODAY)",
+         "tags" : [
+            "TV",
+            "interview"
+         ],
+         "source" : "TODAY (YouTube)",
+         "url" : "https://www.youtube.com/watch?v=pT44EdEoXTE",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=pT44EdEoXTE",
+               "source" : "TODAY (YouTube)"
             }
          ],
          "location" : ""
