@@ -295,9 +295,37 @@
       "title" : "r/IAmA: Melissa Anelli AMA (PotterCast interviewer)",
       "summary" : "AMA references her PotterCast sit-down with Rowling and why that interview still gets cited.",
       "url" : "https://www.reddit.com/r/IAmA/comments/1iif4f/i_am_melissa_anelli_professional_harry/"
+    },
+    {
+      "title" : "r/harrypotter: J K Rowling Interviews",
+      "summary" : "“There’s one with Daniel Radcliffe; another with Steve Kloves… the Newsnight Interview, 2003 (really great; Jo bounces really well off of Jeremy Paxman).”",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/gi8fk2/j_k_rowling_interviews/"
+    },
+    {
+      "title" : "r/harrypotter: One of the first interviews with J.K. Rowling in 1998",
+      "summary" : "“Interesting that back then she resembles Lily Potter. How fitting for the person who gave Harry life.”",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/1r5ubo/one_of_the_first_interviews_with_jk_rowling_in/"
+    },
+    {
+      "title" : "r/harrypotter: Any little known JK Rowling interviews or transcripts out there?",
+      "summary" : "“There are links to old interviews here: https://www.hp-lexicon.org/source/interviews/”",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/bbso50/any_little_known_jk_rowling_interviews_or/"
     }
-
-
+    ,{
+      "title" : "r/television: Extended Interview with George R.R. Martin - The Late Show with Stephen Colbert",
+      "summary" : "\"Extended interview\" thread noting the longform writing-process chat and Colbert banter.",
+      "url" : "https://www.reddit.com/r/television/comments/ye0ske/extended_interview_with_george_rr_martin_the_late/"
+    },
+    {
+      "title" : "r/asoiaf: \"I Wish I Had A Dragon I Could Fly To The Kremlin\" - Extended Interview with George R.R. Martin",
+      "summary" : "Fans cite the \"dragon ... to the Kremlin\" line and recommend the full extended segment.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/ydrobj/spoilers_extended_i_wish_i_had_a_dragon_i_could/"
+    },
+    {
+      "title" : "r/EnoughJKRowling: I found the transcript of a 2007 interview that I think reveals a lot about Rowling",
+      "summary" : "\"Transcript ... reveals a lot\" thread pointing readers to a detailed 2007 Q&A.",
+      "url" : "https://www.reddit.com/r/EnoughJKRowling/comments/1k7w0dx/i_found_the_transcript_of_a_2007_interview_that_i/"
+    }
   ],
   "events": [
       {
@@ -5421,6 +5449,157 @@
             {
                "type" : "video",
                "url" : "https://www.youtube.com/watch?v=kJz0OXOFr10",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0230",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Comic-Con 2014 sit-down about Game of Thrones and fan buzz.",
+         "date" : "2014-07",
+         "format" : "Video interview",
+         "outlet" : "CraveOnline",
+         "title" : "SDCC 2014: George R.R. Martin Exclusive Interview",
+         "source" : "Dailymotion",
+         "url" : "https://www.dailymotion.com/video/x22bpvh",
+         "tags" : [
+            "Comic-Con",
+            "SDCC",
+            "Game of Thrones"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.dailymotion.com/video/x22bpvh",
+               "source" : "Dailymotion"
+            }
+         ],
+         "location" : "San Diego, CA"
+      },
+      {
+         "id" : "evt-0231",
+         "author" : "George R. R. Martin",
+         "host" : "Conan O'Brien",
+         "summary" : "Conan interview segment where Martin pitches a playful spin-off idea.",
+         "date" : "2014-05-14",
+         "format" : "TV interview",
+         "outlet" : "BroadwayWorld / CONAN (TBS)",
+         "title" : "VIDEO: George R.R. Martin Shares 'Game of Thrones' Spin-Off Idea on CONAN",
+         "source" : "BroadwayWorld",
+         "url" : "https://www.broadwayworld.com/bwwtv/article/VIDEO-George-RR-Martin-Shares-Game-of-Thrones-Spin-Off-Idea-on-CONAN-20140514",
+         "tags" : [
+            "Conan",
+            "Game of Thrones",
+            "TV"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.broadwayworld.com/bwwtv/article/VIDEO-George-RR-Martin-Shares-Game-of-Thrones-Spin-Off-Idea-on-CONAN-20140514",
+               "source" : "BroadwayWorld"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0232",
+         "author" : "J.K. Rowling",
+         "host" : "Charlie Rose",
+         "summary" : "Rowling discusses closing the Harry Potter chapter and writing The Casual Vacancy.",
+         "date" : "2012-10-19",
+         "format" : "TV interview",
+         "outlet" : "Charlie Rose",
+         "title" : "J.K. Rowling on Charlie Rose (The Casual Vacancy)",
+         "source" : "Charlie Rose",
+         "url" : "https://charlierose.com/videos/17140",
+         "tags" : [
+            "The Casual Vacancy",
+            "TV",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://charlierose.com/videos/17140",
+               "source" : "Charlie Rose"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0233",
+         "author" : "J.K. Rowling",
+         "host" : "Val McDermid",
+         "summary" : "Rowling speaks publicly about the Strike novels with Val McDermid.",
+         "date" : "2014-07",
+         "format" : "Festival interview",
+         "outlet" : "Harrogate International Festival",
+         "title" : "Val McDermid interviews J.K. Rowling (Robert Galbraith) — Harrogate International Festival 2014",
+         "source" : "YouTube",
+         "url" : "https://www.youtube.com/watch?v=TbvJbbgFhrQ",
+         "tags" : [
+            "Robert Galbraith",
+            "Cormoran Strike",
+            "festival"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=TbvJbbgFhrQ",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "Harrogate, UK"
+      }
+,
+      {
+         "id" : "evt-0234",
+         "author" : "George R. R. Martin",
+         "host" : "Conan O'Brien",
+         "summary" : "Conan clip where Martin jokes that he wants fans to be afraid and discusses his approach to suspense.",
+         "date" : "2013",
+         "format" : "TV interview (clip)",
+         "outlet" : "CONAN on TBS / Team Coco",
+         "title" : "George R.R. Martin Likes \"Game Of Thrones\" Fans To Be Afraid (CONAN)",
+         "source" : "Team Coco (YouTube)",
+         "url" : "https://www.youtube.com/watch?v=ulUBDu_97z8",
+         "tags" : [
+            "TV",
+            "interview",
+            "clip"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=ulUBDu_97z8",
+               "source" : "Team Coco (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0235",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Desert Island Discs interview where Rowling discusses early fame and picks music tied to her writing life.",
+         "date" : "2000",
+         "format" : "Radio interview",
+         "outlet" : "BBC Radio 4",
+         "title" : "J.K. Rowling on Desert Island Discs (BBC Radio 4)",
+         "source" : "YouTube",
+         "url" : "https://www.youtube.com/watch?v=bM1AVXyqzTY",
+         "tags" : [
+            "radio",
+            "BBC",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=bM1AVXyqzTY",
                "source" : "YouTube"
             }
          ],
