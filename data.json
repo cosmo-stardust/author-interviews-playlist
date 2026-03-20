@@ -7,6 +7,21 @@
       "url" : "https://www.youtube.com/watch?v=WbaslypgyWk"
     },
     {
+      "title" : "A Forum of Ice and Fire: Adria's News — G R.R. Martin Interview",
+      "summary" : "\"You have to dig in and get some good stuff out of him.\" — forum comment praising the longer interview.",
+      "url" : "https://asoiaf.westeros.org/index.php?/topic/75443-adrias-news-g-rr-martin-interview/"
+    },
+    {
+      "title" : "MuggleNet: Transcript of new J.K. Rowling interview (Stephen Fry, BBC Radio 4)",
+      "summary" : "\"It was bizarre and I felt that I couldn’t escape ‘Harry Potter.’\" — excerpt highlighted in the fan-posted transcript.",
+      "url" : "https://mugglenet.com/2005/12/transcript-of-new-j-k-rowling-interview/"
+    },
+    {
+      "title" : "The Leaky Cauldron: J.K. Rowling Interview, Part II (2005)",
+      "summary" : "\"He was unhinged. Yes, he laughed.\" — excerpt fans circulate from the Half-Blood Prince-era Q&A.",
+      "url" : "https://www.the-leaky-cauldron.org/2007/09/10/jkr2/"
+    },
+    {
       "title" : "YouTube comments: J.K. Rowling on the Rosie O'Donnell Show (2000)",
       "summary" : "Commenters note the early-career vibe and relaxed chat.",
       "url" : "https://www.youtube.com/watch?v=SeoqgGlfdLw"
@@ -700,6 +715,16 @@
       "url" : "https://www.youtube.com/watch?v=g46_o2gH7gE"
     },
     {
+      "text" : "In a 2015 TODAY show interview, Rowling discusses Lumos and the Harry Potter legacy.",
+      "source" : "TODAY (2015-04-10)",
+      "url" : "https://www.youtube.com/watch?v=hGn5qrg8Ds4"
+    },
+    {
+      "text" : "The TIFF Higher Learning upload is labeled as a 2012-12-13 master class on adapting A Song of Ice and Fire for television.",
+      "source" : "TIFF Higher Learning (2012-12-13)",
+      "url" : "https://www.youtube.com/watch?v=DDIZnKujSa4"
+    },
+    {
       "text" : "In a 1998 STV interview from Edinburgh’s Elephant House cafe, Rowling says her agent warned there wasn’t much money in children’s books.",
       "source" : "STV (1998)",
       "url" : "https://www.youtube.com/watch?v=kn7nlfoMcwQ"
@@ -852,6 +877,58 @@
     }
   ],
   "entries": [
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin | Master Class | Higher Learning (TIFF)",
+      "date" : "2012-12-13",
+      "source" : "TIFF Higher Learning (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=DDIZnKujSa4",
+      "summary" : "TIFF Higher Learning master class focused on adapting A Song of Ice and Fire for television.",
+      "tags" : [
+        "masterclass",
+        "festival",
+        "adaptation",
+        "longform"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "An Ominous Interview with George R.R. Martin",
+      "date" : "2013-04-15",
+      "source" : "Author, Author! (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=sxFUBzZC-m8",
+      "summary" : "Author, Author! interview about Game of Thrones and his writing career.",
+      "tags" : [
+        "interview",
+        "TV"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling Talks Harry Potter and Lumos (TODAY)",
+      "date" : "2015-04-10",
+      "source" : "TODAY (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=hGn5qrg8Ds4",
+      "summary" : "TODAY show interview about Lumos and the Harry Potter legacy.",
+      "tags" : [
+        "TV",
+        "interview",
+        "charity"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "PotterCast Interviews J.K. Rowling (Part One)",
+      "date" : "2007-12-17",
+      "source" : "PotterCast / The Leaky Cauldron (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=e7EW02_EsDo",
+      "summary" : "Podcast interview with fan questions and post–Deathly Hallows canon notes.",
+      "tags" : [
+        "podcast",
+        "interview",
+        "fan"
+      ]
+    },
     {
       "author" : "George R. R. Martin",
       "title" : "George R.R. Martin Answers Facebook Fans' Questions",
