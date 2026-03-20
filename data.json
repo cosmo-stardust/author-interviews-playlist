@@ -395,6 +395,21 @@
       "title" : "r/harrypotter: Any little known JK Rowling interviews or transcripts out there?",
       "summary" : "“There are links to old interviews here: https://www.hp-lexicon.org/source/interviews/”",
       "url" : "https://www.reddit.com/r/harrypotter/comments/bbso50/any_little_known_jk_rowling_interviews_or/"
+    },
+    {
+      "title" : "Narkive (rec.arts.books): Where I can find really good J.K. Rowling interviews?",
+      "summary" : "Readers trade favorites like PotterCast and the Leaky Cauldron webchat, calling out the most revealing longform Q&As.",
+      "url" : "https://books.arts.narkive.com/yArfUkSK/where-i-can-find-really-good-j-k-rowling-interviews"
+    },
+    {
+      "title" : "SnitchSeeker: J.K. Rowling full Harry Potter Reading Club webchat transcript now available",
+      "summary" : "Fan community highlights standout canon tidbits from the full webchat transcript.",
+      "url" : "https://www.snitchseeker.com/harry-potter-news/jk-rowling-full-harry-potter-reading-club-webchat-discussion-transcript-now-available-91349/"
+    },
+    {
+      "title" : "r/books: J.K. Rowling changes her mind and says Harry and Hermione should have been together in a new interview",
+      "summary" : "Thread revisits the interview quote and debates her character-relationship takeaways.",
+      "url" : "https://www.reddit.com/r/books/comments/1wrf4k/jk_rowling_changes_her_mind_and_says_harry_and/"
     }
     ,{
       "title" : "r/television: Extended Interview with George R.R. Martin - The Late Show with Stephen Colbert",
@@ -799,6 +814,16 @@
       "text" : "In the Stephen Fry train‑tour interview, Rowling discusses Goblet of Fire during the 2000 promotional tour.",
       "source" : "Stephen Fry interview (2000)",
       "url" : "https://www.youtube.com/watch?v=4d8ZLNLJ-rM"
+    },
+    {
+      "text" : "WTTW Chicago Tonight’s June 17, 2021 interview with Martin is framed around his Northwestern honorary doctorate and his writing career.",
+      "source" : "WTTW Chicago Tonight (2021-06-17)",
+      "url" : "https://www.youtube.com/watch?v=noAXc4VABS0"
+    },
+    {
+      "text" : "Rowling appears alongside Stephen Fry in the BBC special "Fantastic Beasts: A Natural History" discussing wizarding creatures and lore.",
+      "source" : "BBC One (2022-02-27)",
+      "url" : "https://www.youtube.com/watch?v=HIcQrUXwxO0"
     }
   ],
   "entries": [
@@ -1555,6 +1580,52 @@
       "url" : "https://www.youtube.com/watch?v=4d8ZLNLJ-rM",
       "summary" : "Train‑tour interview with Stephen Fry about Goblet of Fire and early fame.",
       "tags" : ["interview", "archive", "Goblet of Fire"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "A Conversation with George R.R. Martin | A Celebration of the Targaryen Dynasty",
+      "date" : "2022-10-28",
+      "source" : "Random House Events (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=EXZE_KQnat4",
+      "summary" : "Livestreamed celebration conversation tied to The Rise of the Dragon release.",
+      "tags" : ["livestream", "conversation", "Fire & Blood"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Chicago Tonight Interview (Part 2)",
+      "date" : "2021-06-17",
+      "source" : "WTTW Chicago Tonight (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=noAXc4VABS0",
+      "summary" : "Follow-up segment after his Northwestern honorary doctorate, focused on writing and career reflections.",
+      "tags" : ["TV", "interview"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Fantastic Beasts: A Natural History (with Stephen Fry)",
+      "date" : "2022-02-27",
+      "source" : "BBC One (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=HIcQrUXwxO0",
+      "summary" : "Rowling joins Stephen Fry to discuss mythic creatures and wizarding lore in the BBC special.",
+      "tags" : ["TV", "BBC", "conversation", "Fantastic Beasts"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling Opens Up About Her Roots and Fantastic Beasts (TODAY)",
+      "date" : "2018-09-25",
+      "source" : "TODAY (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=IsJ94uP44lM",
+      "summary" : "TODAY show sit-down on her roots and the Fantastic Beasts film series.",
+      "tags" : ["TV", "interview", "Fantastic Beasts"]
+    },
+    {
+      "text" : "WTTW Chicago Tonight’s June 17, 2021 interview with Martin is framed around his Northwestern honorary doctorate and his writing career.",
+      "source" : "WTTW Chicago Tonight (2021-06-17)",
+      "url" : "https://www.youtube.com/watch?v=noAXc4VABS0"
+    },
+    {
+      "text" : "Rowling appears alongside Stephen Fry in the BBC special "Fantastic Beasts: A Natural History" discussing wizarding creatures and lore.",
+      "source" : "BBC One (2022-02-27)",
+      "url" : "https://www.youtube.com/watch?v=HIcQrUXwxO0"
     }
 
   ],
@@ -7015,6 +7086,16 @@
       "url" : "https://georgerrmartin.com/for-fans/interviews/",
       "summary" : "Official list of GRRM interviews (mixed media).",
       "title" : "George R.R. Martin — Interviews index (official site)"
+    },
+    {
+      "text" : "WTTW Chicago Tonight’s June 17, 2021 interview with Martin is framed around his Northwestern honorary doctorate and his writing career.",
+      "source" : "WTTW Chicago Tonight (2021-06-17)",
+      "url" : "https://www.youtube.com/watch?v=noAXc4VABS0"
+    },
+    {
+      "text" : "Rowling appears alongside Stephen Fry in the BBC special "Fantastic Beasts: A Natural History" discussing wizarding creatures and lore.",
+      "source" : "BBC One (2022-02-27)",
+      "url" : "https://www.youtube.com/watch?v=HIcQrUXwxO0"
     }
   ]
 }
