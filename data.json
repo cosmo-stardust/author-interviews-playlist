@@ -52,6 +52,36 @@
       "url" : "https://www.reddit.com/r/harrypotter/comments/r2qlm/anyone_have_a_nice_list_of_jk_rowling_interviews/"
     },
     {
+      "summary" : "Fans ask for more nerd-centric conversations and cite the Leaky Cauldron podcast.",
+      "title" : "r/harrypotter: favourite rowling interviews?",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/b00xct/favourite_rowling_interviews/"
+    },
+    {
+      "summary" : "Looking for video interviews about her inspirations and the genesis of Harry Potter.",
+      "title" : "r/harrypotter: Looking for Interviews with JK Rowling",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/61w5nz/looking_for_interviews_with_jk_rowling/"
+    },
+    {
+      "summary" : "Thread asks for the best Rowling interviews focused on process and character notes.",
+      "title" : "r/harrypotter: Best JK interviews?",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/9azppa/best_jk_interviews/"
+    },
+    {
+      "summary" : "No-spoilers thread asking for favorite GRRM interviews and why they stand out.",
+      "title" : "r/asoiaf: [No spoilers] What is your favourite George R.R Martin interview?",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/5cjswc/no_spoilers_what_is_your_favourite_george_rr/"
+    },
+    {
+      "summary" : "Fans cite the iceberg analogy and link the interview as a standout.",
+      "title" : "r/asoiaf: A great George R.R. Martin interview (Spoilers All)",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/3tp0q3/a_great_george_rr_martin_interview_spoilers_all/"
+    },
+    {
+      "summary" : "Recommendations for deeper, craft-focused GRRM interviews (Nerdist gets a nod).",
+      "title" : "r/asoiaf: (No Spoilers) Best/most interesting interviews with George?",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/3ff859/no_spoilers_bestmost_interesting_interviews_with/"
+    },
+    {
       "url" : "https://www.reddit.com/r/asoiaf/comments/wqor98/an_interview_with_george_rr_martin_official_game/",
       "title" : "r/asoiaf: An Interview With George R.R. Martin | Official Game of Thrones Podcast",
       "summary" : "Shared as a longform listen with GRRM ahead of House of the Dragon."
@@ -5349,6 +5379,52 @@
             }
          ],
          "location" : "London, UK"
+      },
+      {
+         "id" : "evt-0228",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Supanova 2013 Brisbane appearance with audience Q&A.",
+         "date" : "2013",
+         "format" : "Convention interview",
+         "outlet" : "Supanova",
+         "title" : "George R.R. Martin at Supanova 2013 (Brisbane)",
+         "tags" : [
+            "convention",
+            "Q&A",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=IgFR0Iw93cs",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "Brisbane, Australia"
+      },
+      {
+         "id" : "evt-0229",
+         "author" : "J.K. Rowling",
+         "host" : "BBC Radio 4",
+         "summary" : "Woman's Hour takeover interview (audio) dated April 28, 2014.",
+         "date" : "2014-04-28",
+         "format" : "Radio interview",
+         "outlet" : "BBC Radio 4",
+         "title" : "J.K. Rowling on Woman's Hour (Takeover)",
+         "tags" : [
+            "BBC",
+            "radio",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=kJz0OXOFr10",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
       }
 
   ],
