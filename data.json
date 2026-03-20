@@ -7,6 +7,21 @@
       "url" : "https://www.reddit.com/r/asoiaf/comments/2pl00l/spoilers_all_the_best_interview_with_george_rr/"
     },
     {
+      "title" : "Oh No They Didn't (LiveJournal): A very long interview with George R.R. Martin",
+      "summary" : "Community thread shares a longform GRRM interview link and highlights favorite answers in the comments.",
+      "url" : "https://ohnotheydidnt.livejournal.com/72570529.html"
+    },
+    {
+      "title" : "Sci‑Fi & Fantasy Stack Exchange: Are J.K. Rowling interviews Harry Potter canon?",
+      "summary" : "Q&A thread debates which interview tidbits count as canon and points to standout interview sources.",
+      "url" : "https://scifi.stackexchange.com/questions/10491/are-j-k-rowling-interviews-harry-potter-canon-what-happens-to-canon-if-theres/10493"
+    },
+    {
+      "title" : "MuggleNet: Exclusive 2005 Interview with J.K. Rowling",
+      "summary" : "Fan community highlight of the 2005 MuggleNet/Leaky Cauldron interview, with readers revisiting the longform answers.",
+      "url" : "https://mugglenet.com/muggle-world-j-k-rowling/jkr-interview-mugglenet-leaky-cauldron/"
+    },
+    {
       "title" : "YouTube comments: George R.R. Martin with Lena Headey & Michelle Fairley (Sydney Opera House, 2013)",
       "summary" : "Commenters call it a rare cast+author stage conversation and highlight the audience Q&A.",
       "url" : "https://www.youtube.com/watch?v=k3-r4eKAQaw"
@@ -510,7 +525,23 @@
       "title" : "YouTube comments: BBC Radio 4 Bookclub — J.K. Rowling",
       "summary" : "Listeners call it a rare, reader-led deep dive into her Harry Potter writing decisions.",
       "url" : "https://www.youtube.com/watch?v=HGnQbydfYXg"
+    },
+    {
+      "title" : "r/asoiaf: The George R. R. Martin Podcast as a podcast",
+      "summary" : "Fans flag the interview series and discuss how to follow the longform GRRM conversations as a podcast feed.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/11aw1a7/the_george_r_r_martin_podcast_as_a_podcast/"
+    },
+    {
+      "title" : "Fantasy-Faction: Interview & Writing Tips from G.R.R. Martin",
+      "summary" : "Fantasy readers collect and highlight standout GRRM interview snippets and writing advice.",
+      "url" : "https://fantasy-faction.com/2013/grr-martin-interview-and-writing-tips"
+    },
+    {
+      "title" : "Feather Factor: Interview with George R. R. Martin",
+      "summary" : "Reader comments point out the writing advice and career insights that make the interview worth revisiting.",
+      "url" : "https://www.featherfactor.com/2012/02/interview-with-george-r-r-martin.html"
     }
+
   ],
   "factoids" : [
     {
@@ -537,9 +568,82 @@
       "text" : "In her 2017 CNN Amanpour interview, Rowling linked her Lumos charity to stories she heard about children in institutions.",
       "source" : "CNN / Amanpour (2017-07-10)",
       "url" : "https://edition.cnn.com/videos/entertainment/2017/07/10/j-k-rowling-harry-potter-author-amanpour-full-intv.cnn"
+    },
+    {
+      "text" : "In a BBC Archive Blue Peter clip from 1997, Rowling says, \"I collect odd names; I've got notebooks full of names.\"",
+      "source" : "BBC Archive / Blue Peter (1997-12-17)",
+      "url" : "https://www.bbc.com/videos/crgg732e7l8o"
+    },
+    {
+      "text" : "History of Westeros notes their August 18, 2022 interview with Martin was recorded in his Santa Fe office.",
+      "source" : "History of Westeros (2022-08-18)",
+      "url" : "https://www.historyofwesteros.com/george-rr-martin-in-conversation-how-interviews-grrm/"
+    },
+    {
+      "text" : "In a PBS The Great American Read segment, Martin explains why Tolkien’s The Lord of the Rings mattered to his own writing.",
+      "source" : "PBS / The Great American Read (2018-08-10)",
+      "url" : "https://www.youtube.com/watch?v=JM72iSOaw8M"
+    },
+    {
+      "text" : "On BBC Radio 4’s Living with Harry Potter, Rowling says she worries about “sanitising” children’s literature.",
+      "source" : "BBC Radio 4 / Living with Harry Potter (2005-12-10)",
+      "url" : "https://www.bbc.co.uk/programmes/b0076w0r"
     }
+
   ],
   "entries": [
+    {
+      "author" : "George R. R. Martin",
+      "title" : "The World of Ice & Fire (92nd Street Y)",
+      "date" : "2014-10-27",
+      "source" : "92nd Street Y (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=Vcy-EhkHXnE",
+      "summary" : "92Y conversation focused on The World of Ice & Fire and the craft behind the series.",
+      "tags" : [
+        "festival",
+        "talk",
+        "longform"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin Discusses "The Lord of the Rings"",
+      "date" : "2018-08-10",
+      "source" : "PBS / The Great American Read (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=JM72iSOaw8M",
+      "summary" : "PBS segment where Martin explains why Tolkien’s saga mattered to his own writing.",
+      "tags" : [
+        "TV",
+        "PBS",
+        "clip"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling - Omnibus (UK)",
+      "date" : "2001",
+      "source" : "Omnibus (UK) (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=OXeh9I16TbE",
+      "summary" : "UK Omnibus interview reflecting on early Harry Potter success.",
+      "tags" : [
+        "TV",
+        "interview",
+        "archive"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Dateline NBC interview with J.K. Rowling",
+      "date" : "2003-06-20",
+      "source" : "Dateline NBC (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=oEiPimwdoG4",
+      "summary" : "Dateline NBC sit-down in Edinburgh on fame and the writing process during the Order of the Phoenix era.",
+      "tags" : [
+        "TV",
+        "interview",
+        "archive"
+      ]
+    },
     {
       "author" : "George R. R. Martin",
       "title" : "Author George R.R. Martin Interview at the Oxford Union",
@@ -977,7 +1081,44 @@
       "url" : "https://www.youtube.com/watch?v=TbvJbbgFhrQ",
       "summary" : "Festival interview focused on the Cormoran Strike series and writing as Robert Galbraith.",
       "tags" : ["festival", "interview", "Cormoran Strike", "Robert Galbraith"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R. R. Martin in Oxford",
+      "date" : "2024-08-17",
+      "source" : "Oxford Writers' House (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=jfy-whmkOpM",
+      "summary" : "Longform Oxford Writers' House conversation with audience Q&A on craft, fandom, and current work.",
+      "tags" : ["longform", "university", "conversation"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin Reveals the Upsides and Downsides of Seeing His Work Adapted",
+      "date" : "2025-03-07",
+      "source" : "Collider Interviews (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=gVhZap-jOcA",
+      "summary" : "Collider video interview on adaptation tradeoffs and the In the Lost Lands project.",
+      "tags" : ["interview", "adaptation", "film"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Blue Peter Ask J.K. Rowling Anything",
+      "date" : "2022-04-12",
+      "source" : "BBC Blue Peter",
+      "url" : "https://www.bbc.co.uk/cbbc/joinin/bp-as-jk-rowling-anything",
+      "summary" : "Extended Blue Peter fan Q&A where Rowling answers kids' questions about the series and writing.",
+      "tags" : ["TV", "BBC", "fan", "Q&A"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Exclusive Interview with The Ickabog author",
+      "date" : "2020-11-10",
+      "source" : "BBC Newsround",
+      "url" : "https://www.bbc.co.uk/newsround/54879079",
+      "summary" : "Newsround interview about The Ickabog, writing for children, and creativity during lockdown.",
+      "tags" : ["TV", "BBC", "interview", "The Ickabog"]
     }
+
   ],
   "events": [
       {
