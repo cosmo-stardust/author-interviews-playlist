@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-19",
+  "updated" : "2026-03-20",
   "bestOf" : [
     {
       "summary" : "I got to re-read one, one that I've come to regard as my favorite. — thread highlight pointing to the longform Observation Deck interview.",
@@ -190,7 +190,84 @@
       "title" : "r/EnoughJKRowling: The Times interview megathread",
       "summary" : "Megathread collecting reactions to The Times writing-process interview and related coverage.",
       "url" : "https://www.reddit.com/r/EnoughJKRowling/comments/1evacj9/the_times_publishes_a_halfbaked_puff_piece_jk/"
+    },
+    {
+      "title" : "r/asoiaf: (Spoilers all) What is your favorite GRRM interview, notablog or ssm?",
+      "summary" : "\"Lots of good nuggets here\" — top comment recommending the Infinity Plus interview.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/3lavan/spoilers_all_what_is_your_favorite_grrm_interview/"
+    },
+    {
+      "title" : "r/asoiaf: (Spoilers Extended) Revisiting an old interview with GRRM",
+      "summary" : "\"I think it is a must-read for all ASOIAF fans\" — post praising the Rolling Stone longform interview.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/bt6rul/spoilers_extended_revisiting_an_old_interview/"
+    },
+    {
+      "title" : "r/harrypotter: J.K. Rowling answers a question during a 2007 interview",
+      "summary" : "\"Almost every single new thing that she has shared ... was because she was answering a fan’s question.\"",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/b35bc1/jk_rowling_answers_a_question_during_a_2007/"
+    },
+    {
+      "title" : "r/asoiaf: Author George R.R. Martin Interview at the Oxford Union (Spoilers Extended)",
+      "summary" : "Thread calls out the Oxford Union sit‑down as must‑watch longform and discusses his Season 8 responses.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/1qigcxo/spoilers_extendedauthor_george_rr_martin/"
+    },
+    {
+      "title" : "ResetEra: George R.R. Martin talks Winds delays & House of the Dragon drama (interview thread)",
+      "summary" : "Community recap thread highlighting the most interesting interview moments and quotes.",
+      "url" : "https://www.resetera.com/threads/george-r-r-martin-talks-winds-of-winter-delays-ryan-condal-house-of-the-dragon-drama-in-lengthy-interview.1407145/"
+    },
+    {
+      "title" : "r/podcasts: What’s the consensus on The Witch Trials of J.K. Rowling?",
+      "summary" : "Listeners compare the longform interview series, recommending standout episodes and framing.",
+      "url" : "https://www.reddit.com/r/podcasts/comments/127e9a8/whats_the_consensus_on_the_witch_trials_of_jk/"
+    },
+    {
+      "title" : "YouTube comments: George.R.R.Martin Supanova 2013 Brisbane",
+      "summary" : "Commenters highlight the candid writing-process answers and the live audience Q&A energy.",
+      "url" : "https://www.youtube.com/watch?v=IgFR0Iw93cs"
+    },
+    {
+      "title" : "YouTube comments: J.K. Rowling on Desert Island Discs (BBC Radio 4, 2000)",
+      "summary" : "Listeners praise the early-career honesty and the personal music picks tied to her writing life.",
+      "url" : "https://www.youtube.com/watch?v=bM1AVXyqzTY"
+    },
+    {
+      "title" : "YouTube comments: J K Rowling on how she created Harry Potter",
+      "summary" : "Fans call out the origin-story tidbits and her notes about early planning.",
+      "url" : "https://www.youtube.com/watch?v=aDhtJU7uLrQ"
+    },
+    {
+      "title" : "YouTube comments: George R.R. Martin Likes \"Game Of Thrones\" Fans To Be Afraid (CONAN, 2013)",
+      "summary" : "Commenters quote his line about wanting fans to be afraid and praise the tight late-night Q&A energy.",
+      "url" : "https://www.youtube.com/watch?v=ulUBDu_97z8"
+    },
+    {
+      "title" : "YouTube comments: J.K. Rowling unveils Pottermore website (2011)",
+      "summary" : "Fans call it a time-capsule from the Pottermore reveal and highlight her direct announcement style.",
+      "url" : "https://www.youtube.com/watch?v=r8UaAK3WkrY"
+    },
+    {
+      "title" : "r/asoiaf: There’s a detail in George R. R. Martin’s interview yesterday that really bothered me",
+      "summary" : "Thread dissects a specific interview remark and debates what it implies for the books.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/1qel4z8/theres_a_detail_in_george_r_r_martins_interview/"
+    },
+    {
+      "title" : "r/asoiaf: GRRM on PBS Finding Your Roots (family history twist)",
+      "summary" : "Thread calls the family-history reveal a \"bombshell\" and points people to the episode.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/lvpyee/spoilers_published_grrm_was_on_pbss_finding_your/"
+    },
+    {
+      "title" : "r/harrypotter: J.K. Rowling quote on Harry's Horcrux status",
+      "summary" : "Fans link back to the PotterCast interview transcript and note the \"nugget\" about Harry's Horcrux status.",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/1innn57/jk_rowling_quote_on_harrys_horcrux_status/"
+    },
+    {
+      "title" : "r/IAmA: Melissa Anelli AMA (PotterCast interviewer)",
+      "summary" : "AMA references her PotterCast sit-down with Rowling and why that interview still gets cited.",
+      "url" : "https://www.reddit.com/r/IAmA/comments/1iif4f/i_am_melissa_anelli_professional_harry/"
     }
+
+
   ],
   "events": [
       {
@@ -4933,6 +5010,345 @@
             }
          ],
          "location" : ""
+      },
+      {
+         "id" : "evt-0214",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Interview clip focused on the status of The Winds of Winter.",
+         "date" : "2025-04-14",
+         "format" : "Interview (clip)",
+         "outlet" : "",
+         "title" : "George R.R. Martin on the Status of His New Book 'The Winds of Winter'",
+         "tags" : [
+            "interview",
+            "book",
+            "update"
+         ],
+         "source" : "YouTube",
+         "url" : "https://www.youtube.com/watch?v=9WxPeoi1Gz4",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=9WxPeoi1Gz4",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0215",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Rowling discusses her writing process for the Cormoran Strike series in the On Writing series.",
+         "date" : "2024-05-03",
+         "format" : "Video interview",
+         "outlet" : "Robert Galbraith / J.K. Rowling",
+         "title" : "On Writing \u2014 Part Three (Cormoran Strike)",
+         "tags" : [
+            "official",
+            "writing",
+            "Cormoran Strike"
+         ],
+         "source" : "YouTube",
+         "url" : "https://www.youtube.com/watch?v=0SC1LuXjeNA",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=0SC1LuXjeNA",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0216",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Santa Fe Reporter interview at the Jean Cocteau Cinema about his work and local projects.",
+         "date" : "2014-06-20",
+         "format" : "Interview",
+         "outlet" : "Santa Fe Reporter",
+         "title" : "An Evening With George RR Martin",
+         "tags" : [
+            "interview",
+            "event"
+         ],
+         "source" : "Santa Fe Reporter (YouTube)",
+         "url" : "https://www.youtube.com/watch?v=1DtnqQnkeOE",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=1DtnqQnkeOE",
+               "source" : "Santa Fe Reporter (YouTube)"
+            }
+         ],
+         "location" : "Santa Fe, NM"
+      },
+      {
+         "id" : "evt-0217",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Short Santa Fe Reporter interview about reopening the Jean Cocteau Cinema.",
+         "date" : "2013-04-29",
+         "format" : "Interview (clip)",
+         "outlet" : "Santa Fe Reporter",
+         "title" : "SFR Chats with 'A Song of Ice and Fire' Author George RR Martin",
+         "tags" : [
+            "interview",
+            "clip"
+         ],
+         "source" : "Santa Fe Reporter (YouTube)",
+         "url" : "https://www.youtube.com/watch?v=MkP7r1mxgGI",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=MkP7r1mxgGI",
+               "source" : "Santa Fe Reporter (YouTube)"
+            }
+         ],
+         "location" : "Santa Fe, NM"
+      },
+      {
+         "id" : "evt-0218",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Good Morning America excerpt where Rowling reads from The Casual Vacancy.",
+         "date" : "2012-09-27",
+         "format" : "TV interview (clip)",
+         "outlet" : "Good Morning America",
+         "title" : "J.K. Rowling 'The Casual Vacancy' Interview Excerpt: Author Reads on 'GMA'",
+         "tags" : [
+            "interview",
+            "clip",
+            "The Casual Vacancy",
+            "TV"
+         ],
+         "source" : "ABC News (YouTube)",
+         "url" : "https://www.youtube.com/watch?v=h3FE_R2Vz8w",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=h3FE_R2Vz8w",
+               "source" : "ABC News (YouTube)"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0219",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Chicago Humanities Festival on-stage interview covering writing, fandom, and Game of Thrones reflections.",
+         "date" : "2019-11-12",
+         "format" : "Conversation",
+         "outlet" : "Chicago Humanities Festival",
+         "title" : "An Evening with George R. R. Martin (Chicago Humanities Festival)",
+         "tags" : [
+            "festival",
+            "longform"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=IfIpY0eEA84",
+               "source" : "Chicago Humanities Festival (YouTube)"
+            }
+         ],
+         "location" : "Chicago, IL"
+      },
+      {
+         "id" : "evt-0220",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "ITV News segment on Rowling releasing The Ickabog for kids during lockdown.",
+         "date" : "2020-05-26",
+         "format" : "TV news interview",
+         "outlet" : "ITV News",
+         "title" : "J.K. Rowling announces The Ickabog (ITV News)",
+         "tags" : [
+            "TV",
+            "news",
+            "The Ickabog"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=dJP5nBJjC9A",
+               "source" : "ITV News (YouTube)"
+            }
+         ],
+         "location" : ""
+      }
+,
+      {
+         "id" : "evt-0221",
+         "author" : "George R. R. Martin",
+         "host" : "John Picacio",
+         "summary" : "On-stage interview with illustrator John Picacio at the Fox Theater in Redwood City.",
+         "date" : "2018-08-14",
+         "format" : "Interview",
+         "outlet" : "Fox Theater (Redwood City)",
+         "title" : "GRRM interview with John Picacio in Redwood City at the Fox Theater",
+         "tags" : [
+            "interview",
+            "event"
+         ],
+         "source" : "YouTube",
+         "url" : "https://www.youtube.com/watch?v=ThdsQtp1Sxw",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=ThdsQtp1Sxw",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "Redwood City, CA"
+      },
+      {
+         "id" : "evt-0222",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Capclave 2013 panel with GRRM, Howard Waldrop, and Gardner Dozois.",
+         "date" : "2013",
+         "format" : "Panel",
+         "outlet" : "Capclave",
+         "title" : "The Howard, George and Gardner Show — Capclave 2013",
+         "tags" : [
+            "panel",
+            "Capclave"
+         ],
+         "source" : "YouTube",
+         "url" : "https://www.youtube.com/watch?v=nvdsmhQYTyc",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=nvdsmhQYTyc",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0223",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Early TV appearance clip from 1997.",
+         "date" : "1997",
+         "format" : "TV appearance (clip)",
+         "outlet" : "TV appearance",
+         "title" : "JK Rowling's first TV appearance in 1997",
+         "tags" : [
+            "TV",
+            "early-career",
+            "clip"
+         ],
+         "source" : "YouTube",
+         "url" : "https://www.youtube.com/watch?v=xdwRYZTKIGk",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=xdwRYZTKIGk",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0224",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "CBS Sunday Morning segment where Rowling talks about the origins of Harry Potter.",
+         "date" : "1999",
+         "format" : "TV interview (segment)",
+         "outlet" : "CBS Sunday Morning",
+         "title" : "From 1999: J.K. Rowling on the origins of Harry Potter",
+         "tags" : [
+            "TV",
+            "early-career",
+            "Harry Potter"
+         ],
+         "source" : "YouTube",
+         "url" : "https://www.youtube.com/watch?v=AWTwd511S6I",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=AWTwd511S6I",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0225",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "ITN interview at Nicolson's Café in Edinburgh after Chamber of Secrets, discussing the early success of the series.",
+         "date" : "1998-07-23",
+         "format" : "TV interview",
+         "outlet" : "ITN",
+         "title" : "Unedited JK Rowling Interview on the Birth of Harry Potter",
+         "tags" : [
+            "TV",
+            "early-career",
+            "Harry Potter"
+         ],
+         "source" : "ITN Archive (Internet Archive)",
+         "url" : "https://archive.org/details/youtube-uTO9TUa797E",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://archive.org/details/youtube-uTO9TUa797E",
+               "source" : "ITN Archive (Internet Archive)"
+            }
+         ],
+         "location" : "Edinburgh, Scotland"
+      },
+      {
+         "id" : "evt-0226",
+         "author" : "George R. R. Martin",
+         "host" : "Henry Louis Gates Jr.",
+         "summary" : "Finding Your Roots segment where Martin explores his Italian family history on PBS.",
+         "date" : "2019-01-09",
+         "format" : "TV interview",
+         "outlet" : "PBS Finding Your Roots",
+         "title" : "Finding Your Roots: George R. R. Martin (Italian Roots)",
+         "tags" : [
+            "PBS",
+            "TV",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.pbs.org/video/george-r-r-martin-italian-roots-1u3usc/",
+               "source" : "PBS"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0227",
+         "author" : "J.K. Rowling",
+         "host" : "British Parliament committee",
+         "summary" : "Rowling testifies about press intrusion during the phone-hacking inquiry.",
+         "date" : "2011-11-24",
+         "format" : "Public testimony",
+         "outlet" : "C-SPAN",
+         "title" : "British Phone-Hacking Scandal Inquiry: J.K. Rowling Testimony",
+         "tags" : [
+            "C-SPAN",
+            "public testimony",
+            "archive"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.c-span.org/program/international-telecasts/british-phone-hacking-scandal-inquiry-jk-rowling-testimony/265976",
+               "source" : "C-SPAN"
+            }
+         ],
+         "location" : "London, UK"
       }
 
   ],
