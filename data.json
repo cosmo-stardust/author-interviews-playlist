@@ -646,6 +646,21 @@
       "title" : "YouTube comments: George R.R. Martin Comic-Con Fan Q&A (SDCC 2014)",
       "summary" : "Commenters point to the direct fan questions and the live‑audience energy as the highlight.",
       "url" : "https://www.youtube.com/watch?v=atD4bMySVs0"
+    },
+    {
+      "title" : "r/asoiaf: GRRM mentions Winds in a virtual interview with a Portuguese Fantasy Con",
+      "summary" : "Thread flags the Portuguese Fantasy Con interview and quotes his Winds update.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/17wync0/spoilers_extended_grrm_mentions_winds_in_a/"
+    },
+    {
+      "title" : "r/asoiaf: George RR Martin Interviewed By History of Westeros! (spoilers extended)",
+      "summary" : "Fans recommend the History of Westeros sit‑down and call out the deep‑cut lore questions.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/wxuu13/george_rr_martin_interviewed_by_history_of/"
+    },
+    {
+      "title" : "r/harrypotter: What is the most obscure piece of Potter knowledge you have?",
+      "summary" : "Thread shares obscure canon tidbits and cites the PotterCast Rowling interview as a key source.",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/1pxcezn/what_is_the_most_obscure_piece_of_potter/"
     }
   ],
   "factoids": [
@@ -764,6 +779,26 @@
       "text" : "The Daniel Radcliffe conversation video is labeled as a talk between Rowling and Radcliffe.",
       "source" : "YouTube",
       "url" : "https://www.youtube.com/watch?v=7BdVHWz1DPU"
+    },
+    {
+      "text" : "The ITN Archive upload labels the Nicolsons Cafe interview as July 23, 1998.",
+      "source" : "ITN Archive (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=uTO9TUa797E"
+    },
+    {
+      "text" : "The CNN raw footage upload labels the Hogwarts Express interview as July 8, 2000.",
+      "source" : "CNN (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=kNKlVeQupjQ"
+    },
+    {
+      "text" : "In the Penguin Random House Rise of the Dragon livestream, Martin answers fan questions about the book and the series.",
+      "source" : "Penguin Random House (2022-10-28)",
+      "url" : "https://www.youtube.com/watch?v=7R4c_2uaxT8"
+    },
+    {
+      "text" : "In the Stephen Fry train‑tour interview, Rowling discusses Goblet of Fire during the 2000 promotional tour.",
+      "source" : "Stephen Fry interview (2000)",
+      "url" : "https://www.youtube.com/watch?v=4d8ZLNLJ-rM"
     }
   ],
   "entries": [
@@ -1466,6 +1501,60 @@
       "url" : "https://www.youtube.com/watch?v=Mg3oCq_E8Os",
       "summary" : "Raw ITN footage from an early Edinburgh interview as the series was breaking out.",
       "tags" : ["TV", "archive", "interview"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George RR Martin Talks NU, Writing and ‘Game of Thrones’",
+      "date" : "2021-06-16",
+      "source" : "PBS / Chicago Tonight",
+      "url" : "https://www.pbs.org/video/george-rr-martin-on-northwestern-writing-game-of-thrones-lvu/",
+      "summary" : "PBS Chicago Tonight interview tied to his Northwestern honorary doctorate and writing process.",
+      "tags" : ["TV", "PBS", "interview"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R. R. Martin Answers Fan Questions (The Rise of the Dragon Livestream)",
+      "date" : "2022-10-28",
+      "source" : "Penguin Random House (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=7R4c_2uaxT8",
+      "summary" : "Livestream Q&A where Martin answers fan questions about The Rise of the Dragon.",
+      "tags" : ["fan", "Q&A", "livestream"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R. R. Martin on Elden Ring",
+      "date" : "2021-06-18",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=xHzJG1hHTdU",
+      "summary" : "Short interview clip where Martin discusses his involvement with Elden Ring.",
+      "tags" : ["interview", "clip", "games"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Unedited interview on the birth of Harry Potter (ITN Archive)",
+      "date" : "1998-07-23",
+      "source" : "ITN Archive (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=uTO9TUa797E",
+      "summary" : "ITN Archive raw interview at Nicolsons Cafe about early Harry Potter success.",
+      "tags" : ["TV", "archive", "interview"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "CNN raw footage interview (train tour)",
+      "date" : "2000-07-08",
+      "source" : "CNN (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=kNKlVeQupjQ",
+      "summary" : "Raw CNN footage from the Hogwarts Express tour promoting Goblet of Fire.",
+      "tags" : ["TV", "archive", "interview", "Goblet of Fire"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Stephen Fry interview (train tour)",
+      "date" : "2000",
+      "source" : "Stephen Fry (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=4d8ZLNLJ-rM",
+      "summary" : "Train‑tour interview with Stephen Fry about Goblet of Fire and early fame.",
+      "tags" : ["interview", "archive", "Goblet of Fire"]
     }
 
   ],
