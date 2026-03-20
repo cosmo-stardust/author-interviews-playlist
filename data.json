@@ -611,6 +611,21 @@
       "title" : "YouTube comments: JK Rowling interviewed for Comic Relief",
       "summary" : "Commenters recommend this as a charming early‑career charity interview.",
       "url" : "https://www.youtube.com/watch?v=v6ymvBa7Gbc"
+    },
+    {
+      "title" : "YouTube comments: In Conversation with John Hodgman (Fire & Blood)",
+      "summary" : "Commenters highlight Hodgman’s hosting and the craft-heavy Q&A.",
+      "url" : "https://www.youtube.com/watch?v=fjreiP50DG8"
+    },
+    {
+      "title" : "YouTube comments: An Evening with Harry, Carrie & Garp — J.K. Rowling Q&A",
+      "summary" : "Viewers call it a rare longform charity Q&A with fan questions and warm stage chemistry.",
+      "url" : "https://www.youtube.com/watch?v=tSdIwR3DEHI"
+    },
+    {
+      "title" : "YouTube comments: J.K. Rowling interview at the last ever Harry Potter premiere",
+      "summary" : "Commenters note the red-carpet time capsule feel and end-of-series reflections.",
+      "url" : "https://www.youtube.com/watch?v=Uh0809-l8qs"
     }
   ],
   "factoids": [
@@ -699,6 +714,21 @@
       "text" : "In the PotterCast interview (Part One), Rowling confirmed that Dumbledore is gay.",
       "source" : "PotterCast Interviews J.K. Rowling (2007-12-17)",
       "url" : "https://www.accio-quote.org/articles/2007/1217-pottercast-anelli.html"
+    },
+    {
+      "text" : "In the 2006 Radio City Music Hall fundraiser Q&A, Rowling answered audience questions after reading from Half-Blood Prince.",
+      "source" : "An Evening with Harry, Carrie & Garp (2006-08-01)",
+      "url" : "https://www.youtube.com/watch?v=tSdIwR3DEHI"
+    },
+    {
+      "text" : "In the 2013 AllThingsD interview with Walt Mossberg, Martin discussed translating A Song of Ice and Fire to HBO.",
+      "source" : "The Wall Street Journal / AllThingsD (2013-03-21)",
+      "url" : "https://www.youtube.com/watch?v=Qsg7kKx-AGA"
+    },
+    {
+      "text" : "In the 2000 CBC 'Rowling Express' interview, Rowling speaks from the Hogwarts Express tour promoting Goblet of Fire.",
+      "source" : "CBC News (2000-07)",
+      "url" : "https://www.youtube.com/watch?v=XbsqZJ9rMD0"
     }
   ],
   "entries": [
@@ -1302,6 +1332,69 @@
       "url" : "https://www.cc.com/video/ab3l6u/the-daily-show-with-jon-stewart-j-k-rowling",
       "summary" : "The Casual Vacancy-era TV interview with Jon Stewart about writing for adults and public attention.",
       "tags" : ["TV", "interview", "The Casual Vacancy"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "HBO's \"Game of Thrones\" — George R.R. Martin Interview with Walt Mossberg",
+      "date" : "2013-03-21",
+      "source" : "The Wall Street Journal / AllThingsD (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=Qsg7kKx-AGA",
+      "summary" : "AllThingsD interview on adapting A Song of Ice and Fire for HBO and building the series for TV.",
+      "tags" : ["interview", "Game of Thrones", "adaptation", "press"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "In Conversation with John Hodgman (Fire & Blood)",
+      "date" : "2018-11-21",
+      "source" : "Books Are Magic (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=fjreiP50DG8",
+      "summary" : "Event conversation hosted by John Hodgman on Fire & Blood, history influences, and craft.",
+      "tags" : ["conversation", "book-event", "Fire & Blood"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Game of Thrones author George R.R. Martin on show's success, writing next book",
+      "date" : "2021-03-24",
+      "source" : "CBS News",
+      "url" : "https://www.cbsnews.com/video/game-of-thrones-author-george-r-r-martin-on-shows-success-writing-next-book/",
+      "summary" : "CBS News interview on the HBO series impact and his next book progress.",
+      "tags" : ["TV", "interview", "CBS News"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "An Evening with Harry, Carrie & Garp — J.K. Rowling Q&A",
+      "date" : "2006-08-01",
+      "source" : "An Evening with Harry, Carrie & Garp (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=tSdIwR3DEHI",
+      "summary" : "Stage Q&A following the Radio City Music Hall fundraiser reading.",
+      "tags" : ["Q&A", "fundraiser", "Harry Potter"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling interview at the last ever Harry Potter premiere",
+      "date" : "2011-07-07",
+      "source" : "Absolute Radio (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=Uh0809-l8qs",
+      "summary" : "Red carpet interview at the Deathly Hallows — Part 2 premiere.",
+      "tags" : ["premiere", "film", "interview"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "The Rowling Express (CBC News)",
+      "date" : "2000-07",
+      "source" : "CBC News (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=XbsqZJ9rMD0",
+      "summary" : "CBC News interview aboard the Hogwarts Express tour promoting Goblet of Fire.",
+      "tags" : ["TV", "archive", "interview", "Goblet of Fire"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling Opens Up About Turning 50 (TODAY)",
+      "date" : "2015",
+      "source" : "TODAY (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=pT44EdEoXTE",
+      "summary" : "TODAY show interview reflecting on turning 50 and the Harry Potter legacy.",
+      "tags" : ["TV", "interview"]
     }
 
   ],
