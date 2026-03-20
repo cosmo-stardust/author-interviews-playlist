@@ -676,6 +676,21 @@
       "title" : "r/harrypotter: What is the most obscure piece of Potter knowledge you have?",
       "summary" : "Thread shares obscure canon tidbits and cites the PotterCast Rowling interview as a key source.",
       "url" : "https://www.reddit.com/r/harrypotter/comments/1pxcezn/what_is_the_most_obscure_piece_of_potter/"
+    },
+    {
+      "title" : "r/grrm: Night of the Cooters",
+      "summary" : "Thread shares the interview clips and calls out the festival anecdotes as the highlight.",
+      "url" : "https://www.reddit.com/r/grrm/comments/1h4tlpr/night_of_the_cooters/"
+    },
+    {
+      "title" : "r/asoiaf: Game of Thrones: George R.R. Martin Isn't Finished",
+      "summary" : "Fans point to it as one of his most candid recent interviews and trade standout quotes.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/1qdmw8q/game_of_thrones_george_rr_martin_isnt_finished/"
+    },
+    {
+      "title" : "r/harrypotter: Carnegie Hall 2007 interview trivia",
+      "summary" : "Readers rediscover the Carnegie Hall Q&A and share the trivia nuggets they hadn't known.",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/izrhl0/came_across_this_link_from_2007_of_j_k_rowlings/"
     }
   ],
   "factoids": [
@@ -683,6 +698,16 @@
       "text" : "In a 2000 60 Minutes Australia interview, Rowling reflects on the sudden early success of Harry Potter.",
       "source" : "60 Minutes Australia (2000)",
       "url" : "https://www.youtube.com/watch?v=g46_o2gH7gE"
+    },
+    {
+      "text" : "In a 1998 STV interview from Edinburgh’s Elephant House cafe, Rowling says her agent warned there wasn’t much money in children’s books.",
+      "source" : "STV (1998)",
+      "url" : "https://www.youtube.com/watch?v=kn7nlfoMcwQ"
+    },
+    {
+      "text" : "In the 2023 Shakefire interview about Night of the Cooters, Martin discusses producing the short film with Vincent D'Onofrio.",
+      "source" : "Shakefire (2023-04-23)",
+      "url" : "https://www.youtube.com/watch?v=w8FDdOEojBw"
     },
     {
       "text" : "In an Amazon Books Facebook fan Q&A video, Martin answers reader questions about his writing process and the series.",
@@ -1616,6 +1641,33 @@
       "url" : "https://www.youtube.com/watch?v=IsJ94uP44lM",
       "summary" : "TODAY show sit-down on her roots and the Fantastic Beasts film series.",
       "tags" : ["TV", "interview", "Fantastic Beasts"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Night of the Cooters Interview (Shakefire)",
+      "date" : "2023-04-23",
+      "source" : "Shakefire (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=w8FDdOEojBw",
+      "summary" : "Shakefire interview with Martin and Vincent D'Onofrio about adapting Night of the Cooters.",
+      "tags" : ["interview", "film", "short", "Night of the Cooters"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin - Night of the Cooters (Julien Dubuque Intl. Film Festival)",
+      "date" : "2023-04-28",
+      "source" : "Julien Dubuque International Film Festival (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=Do3945ThAfo",
+      "summary" : "Festival sit-down tied to the Night of the Cooters short film, with Martin discussing the project.",
+      "tags" : ["festival", "interview", "film", "Night of the Cooters"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Early STV Interview at The Elephant House",
+      "date" : "1998",
+      "source" : "STV (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=kn7nlfoMcwQ",
+      "summary" : "Early Edinburgh cafe interview where Rowling reflects on the first book's success and writing Book Two.",
+      "tags" : ["TV", "interview", "archive"]
     },
     {
       "text" : "WTTW Chicago Tonight’s June 17, 2021 interview with Martin is framed around his Northwestern honorary doctorate and his writing career.",
