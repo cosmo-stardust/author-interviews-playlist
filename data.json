@@ -626,6 +626,26 @@
       "title" : "YouTube comments: J.K. Rowling interview at the last ever Harry Potter premiere",
       "summary" : "Commenters note the red-carpet time capsule feel and end-of-series reflections.",
       "url" : "https://www.youtube.com/watch?v=Uh0809-l8qs"
+    },
+    {
+      "title" : "YouTube comments: Interview de J.K. Rowling par Jonathan Ross (2007)",
+      "summary" : "Commenters call out the relaxed late‑night chat and Rowling’s quick humor.",
+      "url" : "https://www.youtube.com/watch?v=RtWjYIUuzQQ"
+    },
+    {
+      "title" : "YouTube comments: A Conversation between J.K. Rowling and Daniel Radcliffe",
+      "summary" : "Fans highlight the on‑stage rapport and the behind‑the‑scenes film anecdotes.",
+      "url" : "https://www.youtube.com/watch?v=7BdVHWz1DPU"
+    },
+    {
+      "title" : "YouTube comments: Raw ITN footage of J.K. Rowling interview (1998)",
+      "summary" : "Viewers describe it as a rare early snapshot of Rowling just as the series was taking off.",
+      "url" : "https://www.youtube.com/watch?v=Mg3oCq_E8Os"
+    },
+    {
+      "title" : "YouTube comments: George R.R. Martin Comic-Con Fan Q&A (SDCC 2014)",
+      "summary" : "Commenters point to the direct fan questions and the live‑audience energy as the highlight.",
+      "url" : "https://www.youtube.com/watch?v=atD4bMySVs0"
     }
   ],
   "factoids": [
@@ -729,6 +749,21 @@
       "text" : "In the 2000 CBC 'Rowling Express' interview, Rowling speaks from the Hogwarts Express tour promoting Goblet of Fire.",
       "source" : "CBC News (2000-07)",
       "url" : "https://www.youtube.com/watch?v=XbsqZJ9rMD0"
+    },
+    {
+      "text" : "The ITN Archive upload labels the footage as \"raw footage from J.K. Rowling interview aired on October 8th, 1998.\"",
+      "source" : "ITN Archive (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=Mg3oCq_E8Os"
+    },
+    {
+      "text" : "The Jonathan Ross interview upload is labeled as a 2007 sit‑down with Rowling.",
+      "source" : "Friday Night with Jonathan Ross (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=RtWjYIUuzQQ"
+    },
+    {
+      "text" : "The Daniel Radcliffe conversation video is labeled as a talk between Rowling and Radcliffe.",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=7BdVHWz1DPU"
     }
   ],
   "entries": [
@@ -1395,6 +1430,42 @@
       "url" : "https://www.youtube.com/watch?v=pT44EdEoXTE",
       "summary" : "TODAY show interview reflecting on turning 50 and the Harry Potter legacy.",
       "tags" : ["TV", "interview"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin Comic-Con Fan Q&A (SDCC 2014)",
+      "date" : "2014-07-30",
+      "source" : "NerdAlert (TYT Network) (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=atD4bMySVs0",
+      "summary" : "San Diego Comic-Con fan Q&A covering writing, fandom, and Winds of Winter updates.",
+      "tags" : ["Comic-Con", "Q&A", "fan"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Interview de J.K. Rowling par Jonathan Ross (2007)",
+      "date" : "2007-07-06",
+      "source" : "Friday Night with Jonathan Ross (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=RtWjYIUuzQQ",
+      "summary" : "Friday-night TV interview during the final Harry Potter book era.",
+      "tags" : ["TV", "interview", "archive"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "A Conversation between J.K. Rowling and Daniel Radcliffe",
+      "date" : "2013-09-22",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=7BdVHWz1DPU",
+      "summary" : "On-stage conversation reflecting on the films and their collaboration.",
+      "tags" : ["conversation", "film", "Harry Potter"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "ITN raw footage interview (Edinburgh)",
+      "date" : "1998-10-08",
+      "source" : "ITN Archive (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=Mg3oCq_E8Os",
+      "summary" : "Raw ITN footage from an early Edinburgh interview as the series was breaking out.",
+      "tags" : ["TV", "archive", "interview"]
     }
 
   ],
