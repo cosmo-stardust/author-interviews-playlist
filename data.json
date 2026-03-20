@@ -2,6 +2,31 @@
   "updated" : "2026-03-20",
   "bestOf" : [
     {
+      "title" : "YouTube comments: \"It was Painful\" — George R. R. Martin (TIFF Rewind)",
+      "summary" : "Commenters call out the candid craft talk and the TIFF Q&A atmosphere.",
+      "url" : "https://www.youtube.com/watch?v=nmDBgsMetno"
+    },
+    {
+      "title" : "YouTube comments: JK Rowling interview — \"I bought my wedding dress in disguise\"",
+      "summary" : "Viewers highlight the candid tone and her off‑the‑cuff answers about fame and writing.",
+      "url" : "https://www.youtube.com/watch?v=Bzn7JWxq2s0"
+    },
+    {
+      "title" : "YouTube comments: J.K. Rowling answers questions about The Christmas Pig",
+      "summary" : "Commenters highlight the gentle, kid-focused answers and her origin-story notes.",
+      "url" : "https://www.youtube.com/watch?v=NJaEY02Vs6U"
+    },
+    {
+      "title" : "YouTube comments: George R.R. Martin Interview (Game of Thrones) — re-upload",
+      "summary" : "Viewers call out the early-series lore chat and relaxed, career-spanning answers.",
+      "url" : "https://www.youtube.com/watch?v=c8NNyZH2rgM"
+    },
+    {
+      "title" : "YouTube comments: J.K. Rowling answers 20 questions about The Running Grave",
+      "summary" : "Fans point to the reader questions that sparked the most revealing writing-process details.",
+      "url" : "https://www.youtube.com/watch?v=-gT-jAUJ6t0"
+    },
+    {
       "summary" : "I got to re-read one, one that I've come to regard as my favorite. — thread highlight pointing to the longform Observation Deck interview.",
       "title" : "r/asoiaf: The Best Interview with George RR Martin (Observation Deck, 2013)",
       "url" : "https://www.reddit.com/r/asoiaf/comments/2pl00l/spoilers_all_the_best_interview_with_george_rr/"
@@ -540,8 +565,23 @@
       "title" : "Feather Factor: Interview with George R. R. Martin",
       "summary" : "Reader comments point out the writing advice and career insights that make the interview worth revisiting.",
       "url" : "https://www.featherfactor.com/2012/02/interview-with-george-r-r-martin.html"
-    }
+    },
 
+    {
+      "title" : "YouTube comments: George R.R. Martin Answers Facebook Fans' Questions",
+      "summary" : "Commenters call out the candid fan questions and his straight‑shooting answers.",
+      "url" : "https://www.youtube.com/watch?v=WbaslypgyWk"
+    },
+    {
+      "title" : "YouTube comments: J.K. Rowling on the Rosie O'Donnell Show",
+      "summary" : "Viewers highlight the early‑era vibe and her relaxed on‑camera warmth.",
+      "url" : "https://www.youtube.com/watch?v=SeoqgGlfdLw"
+    },
+    {
+      "title" : "YouTube comments: JK Rowling interviewed for Comic Relief",
+      "summary" : "Commenters recommend this as a charming early‑career charity interview.",
+      "url" : "https://www.youtube.com/watch?v=v6ymvBa7Gbc"
+    }
   ],
   "factoids" : [
     {
@@ -588,8 +628,106 @@
       "text" : "On BBC Radio 4’s Living with Harry Potter, Rowling says she worries about “sanitising” children’s literature.",
       "source" : "BBC Radio 4 / Living with Harry Potter (2005-12-10)",
       "url" : "https://www.bbc.co.uk/programmes/b0076w0r"
-    }
+    },
+    {
+      "text" : "A PBS Finding Your Roots clip shows Henry Louis Gates Jr. helping Martin trace his Italian roots and family history.",
+      "source" : "PBS Finding Your Roots (2019-01-08)",
+      "url" : "https://www.pbs.org/video/george-r-r-martin-italian-roots-1u3usc/"
+    },
+    {
+      "text" : "In a 2021 Christmas Pig Q&A, Rowling answers reader questions about the story and its inspirations.",
+      "source" : "J.K. Rowling Stories (2021-09-09)",
+      "url" : "https://www.youtube.com/watch?v=NJaEY02Vs6U"
+    },
 
+    {
+      "text" : "In a 2011 Talks at Google interview, Martin described himself as a \"gardener\" rather than an \"architect\" when plotting his novels.",
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin Answers Facebook Fans' Questions",
+      "date" : "2012-01-12",
+      "source" : "Amazon Books (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=WbaslypgyWk",
+      "summary" : "Amazon Books video Q&A where Martin answers fan questions about writing and the series.",
+      "tags" : [
+        "fan",
+        "Q&A",
+        "interview"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin Comic-Con Fan Q&A (SDCC 2014)",
+      "date" : "2014-07-30",
+      "source" : "NerdAlert (TYT Network) (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=atD4bMySVs0",
+      "summary" : "San Diego Comic-Con fan Q&A covering writing, fandom, and the series' progress.",
+      "tags" : [
+        "Comic-Con",
+        "Q&A",
+        "fans"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "In Conversation with John Hodgman (Fire & Blood)",
+      "date" : "2018-11-21",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=fjreiP50DG8",
+      "summary" : "Longform conversation with John Hodgman focused on Fire & Blood and worldbuilding.",
+      "tags" : [
+        "conversation",
+        "longform",
+        "festival"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling on the Rosie O'Donnell Show",
+      "date" : "2000-10-18",
+      "source" : "The Rosie O'Donnell Show (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=SeoqgGlfdLw",
+      "summary" : "TV interview during the Goblet of Fire era about fame and writing.",
+      "tags" : [
+        "TV",
+        "interview",
+        "archive"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "JK Rowling interviewed for Comic Relief",
+      "date" : "2001",
+      "source" : "Comic Relief (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=v6ymvBa7Gbc",
+      "summary" : "Comic Relief segment featuring a young interviewer and charity focus.",
+      "tags" : [
+        "TV",
+        "charity",
+        "interview"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling interview at the last ever Harry Potter premiere",
+      "date" : "2011-07-07",
+      "source" : "Absolute Radio (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=Uh0809-l8qs",
+      "summary" : "Red carpet interview at the Deathly Hallows — Part 2 premiere.",
+      "tags" : [
+        "premiere",
+        "film",
+        "interview"
+      ]
+    },
+      "source" : "Talks at Google (2011-08-07)",
+      "url" : "https://www.youtube.com/watch?v=QTTW8M_etko"
+    },
+    {
+      "text" : "In the PotterCast interview (Part One), Rowling confirmed that Dumbledore is gay.",
+      "source" : "PotterCast Interviews J.K. Rowling (2007-12-17)",
+      "url" : "https://www.accio-quote.org/articles/2007/1217-pottercast-anelli.html"
+    }
   ],
   "entries": [
     {
@@ -1117,6 +1255,42 @@
       "url" : "https://www.bbc.co.uk/newsround/54879079",
       "summary" : "Newsround interview about The Ickabog, writing for children, and creativity during lockdown.",
       "tags" : ["TV", "BBC", "interview", "The Ickabog"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Finding Your Roots: Italian Roots (PBS clip)",
+      "date" : "2019-01-08",
+      "source" : "PBS Finding Your Roots",
+      "url" : "https://www.pbs.org/video/george-r-r-martin-italian-roots-1u3usc/",
+      "summary" : "PBS clip where Henry Louis Gates Jr. helps Martin trace family roots and discuss his background.",
+      "tags" : ["TV", "PBS", "clip", "family-history"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Exklusiv-Interview: George R.R. Martin im Gespräch mit WELT",
+      "date" : "2020-01-17",
+      "source" : "WELT",
+      "url" : "https://www.welt.de/kultur/video205089548/Exklusiv-Interview-George-R-R-Martin-im-Gespraech-mit-WELT-Autor-Martin-Scholz.html",
+      "summary" : "German press interview about his career, writing habits, and Game of Thrones.",
+      "tags" : ["press", "interview", "video"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling answers questions about The Christmas Pig",
+      "date" : "2021-09-09",
+      "source" : "J.K. Rowling Stories (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=NJaEY02Vs6U",
+      "summary" : "Rowling answers reader questions about her Christmas story and its inspirations.",
+      "tags" : ["Q&A", "children", "The Christmas Pig"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling on The Daily Show with Jon Stewart",
+      "date" : "2012-10-15",
+      "source" : "Comedy Central",
+      "url" : "https://www.cc.com/video/ab3l6u/the-daily-show-with-jon-stewart-j-k-rowling",
+      "summary" : "The Casual Vacancy-era TV interview with Jon Stewart about writing for adults and public attention.",
+      "tags" : ["TV", "interview", "The Casual Vacancy"]
     }
 
   ],
@@ -6440,6 +6614,53 @@
                "type" : "video",
                "url" : "https://www.oprah.com/oprahshow/jk-rowlings-aha-moment-video_1",
                "source" : "Oprah.com"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0238",
+         "author" : "George R. R. Martin",
+         "host" : "Henry Louis Gates Jr.",
+         "summary" : "PBS Finding Your Roots clip where Martin traces Italian roots and family history.",
+         "date" : "2019-01-08",
+         "format" : "TV interview (clip)",
+         "outlet" : "PBS Finding Your Roots",
+         "title" : "Finding Your Roots | George R. R. Martin | Italian Roots",
+         "tags" : [
+            "TV",
+            "PBS",
+            "family-history",
+            "clip"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.pbs.org/video/george-r-r-martin-italian-roots-1u3usc/",
+               "source" : "PBS"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0239",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Rowling answers reader questions about The Christmas Pig and its inspirations.",
+         "date" : "2021-09-09",
+         "format" : "Q&A",
+         "outlet" : "J.K. Rowling Stories",
+         "title" : "J.K. Rowling answers questions about The Christmas Pig",
+         "tags" : [
+            "Q&A",
+            "children",
+            "The Christmas Pig"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=NJaEY02Vs6U",
+               "source" : "YouTube"
             }
          ],
          "location" : ""
