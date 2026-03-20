@@ -177,6 +177,21 @@
       "url" : "https://www.reddit.com/r/popculturechat/comments/wzfbt4/jk_rowling_gives_a_rare_interview_to_graham_norton/"
     },
     {
+      "title" : "r/freefolk: George R.R. Martin reassures fans that his books will not end the same way as Game of Thrones",
+      "summary" : ""reassures fans that his books will not end the same way" — thread shares the interview link and debates his reassurance.",
+      "url" : "https://www.reddit.com/r/freefolk/comments/1qqj4ea/george_rr_martin_reassures_fans_that_his_books/"
+    },
+    {
+      "title" : "r/cormoran_strike: Longer video version of Times Interview \"On Writing - Part 1\"",
+      "summary" : ""Longer video version of Times Interview" — fans flag the extended cut and link the YouTube upload.",
+      "url" : "https://www.reddit.com/r/cormoran_strike/comments/1clduhm/longer_video_version_of_times_interview_on/"
+    },
+    {
+      "title" : "r/cormoran_strike: JK Rowling interview",
+      "summary" : ""The Rowling Library has downloaded an interview with Jo. I have listened and there are no spoilers for IBH." — thread shares the link and spoiler status.",
+      "url" : "https://www.reddit.com/r/cormoran_strike/comments/wzfjt8/jk_rowling_interview/"
+    },
+    {
       "title" : "r/asoiaf: GRRM and his \"More Devastating\" ending comments",
       "summary" : "Fans discuss his interview remarks about a more devastating ending and what it implies for the books.",
       "url" : "https://www.reddit.com/r/asoiaf/comments/1qfzabc/spoilersmain_grrm_and_his_more_devastating_and/"
@@ -480,6 +495,48 @@
       "title" : "r/cormoran_strike: J.K. Rowling answers 20 questions about The Running Grave (October 19, 2023)",
       "summary" : "\"answers 20 questions about The Running Grave\" — Strike readers discuss the official Q&A and her writing answers.",
       "url" : "https://www.reddit.com/r/cormoran_strike/comments/17c1j0l/jk_rowling_answers_20_questions_about_the_running/"
+    },
+    {
+      "title" : "YouTube comments: George R.R. Martin — Burke Medal Interview (Trinity College Dublin)",
+      "summary" : "Commenters highlight the Tolkien discussion and the long audience Q&A segment.",
+      "url" : "https://www.youtube.com/watch?v=OYmJu600W8E"
+    },
+    {
+      "title" : "YouTube comments: In Conversation With... George R.R. Martin on Game of Thrones (TIFF Bell Lightbox)",
+      "summary" : "Viewers praise the adaptation talk and his candid writing-process answers.",
+      "url" : "https://www.youtube.com/watch?v=QlJblxV3QHQ"
+    },
+    {
+      "title" : "YouTube comments: BBC Radio 4 Bookclub — J.K. Rowling",
+      "summary" : "Listeners call it a rare, reader-led deep dive into her Harry Potter writing decisions.",
+      "url" : "https://www.youtube.com/watch?v=HGnQbydfYXg"
+    }
+  ],
+  "factoids" : [
+    {
+      "text" : "In a 2019 60 Minutes interview, Martin said the direwolf pups in the summer snows were the first scene he wrote for A Game of Thrones.",
+      "source" : "CBS News / 60 Minutes (2019-04-14)",
+      "url" : "https://www.cbsnews.com/news/george-rr-martin-talks-about-writing-the-first-game-of-thrones-chapter-60-minutes-2019-04-14/"
+    },
+    {
+      "text" : "In the same interview, Martin said the scene came to him in 1991 while he was writing a different science‑fiction novel.",
+      "source" : "CBS News / 60 Minutes (2019-04-14)",
+      "url" : "https://www.cbsnews.com/news/george-rr-martin-talks-about-writing-the-first-game-of-thrones-chapter-60-minutes-2019-04-14/"
+    },
+    {
+      "text" : "CBS News’ archive page notes that Lesley Stahl’s 1999 interview captured Rowling’s rise from single mother to the world’s most successful author.",
+      "source" : "CBS News / 60 Minutes Overtime (1999 archive clip)",
+      "url" : "https://www.cbsnews.com/video/1999-j-k-rowling-and-harry-potter/"
+    },
+    {
+      "text" : "In a 2014 CONAN clip, Martin said he still writes on WordStar 4.0 running in DOS.",
+      "source" : "Team Coco / CONAN (2014-05-13)",
+      "url" : "https://www.youtube.com/watch?v=X5REM-3nWHg"
+    },
+    {
+      "text" : "In her 2017 CNN Amanpour interview, Rowling linked her Lumos charity to stories she heard about children in institutions.",
+      "source" : "CNN / Amanpour (2017-07-10)",
+      "url" : "https://edition.cnn.com/videos/entertainment/2017/07/10/j-k-rowling-harry-potter-author-amanpour-full-intv.cnn"
     }
   ],
   "entries": [
@@ -494,6 +551,32 @@
         "university",
         "longform",
         "best"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Game of Thrones: George R.R. Martin talks about writing the first chapter",
+      "date" : "2019-04-14",
+      "source" : "CBS News / 60 Minutes",
+      "url" : "https://www.cbsnews.com/news/george-rr-martin-talks-about-writing-the-first-game-of-thrones-chapter-60-minutes-2019-04-14/",
+      "summary" : "Anderson Cooper interviews Martin about the origins of the first chapter and early worldbuilding decisions.",
+      "tags" : [
+        "TV",
+        "interview",
+        "writing"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George.R.R.Martin Supanova 2013 Brisbane",
+      "date" : "2013",
+      "source" : "Supanova (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=IgFR0Iw93cs",
+      "summary" : "Stage interview from Supanova Brisbane, archived on YouTube.",
+      "tags" : [
+        "festival",
+        "interview",
+        "video"
       ]
     },
     {
@@ -546,6 +629,45 @@
         "official",
         "writing",
         "series"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling Newsnight Interview",
+      "date" : "2003",
+      "source" : "BBC Newsnight (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=G2tcbFF99Yg",
+      "summary" : "Archived Newsnight sit‑down with Rowling, uploaded to YouTube.",
+      "tags" : [
+        "TV",
+        "interview",
+        "archive"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling on The Vicki Gabereau Show",
+      "date" : "2000",
+      "source" : "The Vicki Gabereau Show (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=VyZhDYiClLg",
+      "summary" : "Early‑era TV interview from The Vicki Gabereau Show, archived on YouTube.",
+      "tags" : [
+        "TV",
+        "interview",
+        "archive"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "1999: J.K. Rowling and Harry Potter",
+      "date" : "1999",
+      "source" : "CBS News / 60 Minutes Overtime",
+      "url" : "https://www.cbsnews.com/video/1999-j-k-rowling-and-harry-potter/",
+      "summary" : "Archive clip of Lesley Stahl’s 1999 interview, resurfaced by CBS News.",
+      "tags" : [
+        "TV",
+        "interview",
+        "archive"
       ]
     },
     {
@@ -810,6 +932,51 @@
       "url" : "https://www.youtube.com/watch?v=FA62Bf6qgxU",
       "summary" : "First episode clip from the interview/documentary series introducing Rowling's story.",
       "tags" : ["podcast", "interview", "documentary"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin — Burke Medal Interview (Trinity College Dublin)",
+      "date" : "2019",
+      "source" : "Trinity College Dublin (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=OYmJu600W8E",
+      "summary" : "Longform Burke Medal interview covering Tolkien, fantasy history, and Martin’s writing life.",
+      "tags" : ["university", "longform", "interview"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "In Conversation With... George R.R. Martin on Game of Thrones (TIFF Bell Lightbox)",
+      "date" : "2012-03-16",
+      "source" : "TIFF Bell Lightbox (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=QlJblxV3QHQ",
+      "summary" : "Festival conversation on adapting ASOIAF for television and the craft behind the series.",
+      "tags" : ["festival", "talk", "adaptation", "longform"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "BBC Radio 4 Bookclub — J.K. Rowling",
+      "date" : "2015-11-25",
+      "source" : "BBC Radio 4 Bookclub (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=HGnQbydfYXg",
+      "summary" : "Reader-question-heavy radio interview revisiting the Harry Potter series.",
+      "tags" : ["radio", "BBC", "interview", "readers"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling in conversation with Eddie Redmayne at Carnegie Hall",
+      "date" : "2016-11-15",
+      "source" : "Carnegie Hall (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=ca5HYNFuNQk",
+      "summary" : "On-stage conversation about Fantastic Beasts and creative collaboration.",
+      "tags" : ["conversation", "event", "film"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Val McDermid interviews J.K. Rowling (Robert Galbraith) — Harrogate International Festival 2014",
+      "date" : "2014-12-01",
+      "source" : "Harrogate International Festival (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=TbvJbbgFhrQ",
+      "summary" : "Festival interview focused on the Cormoran Strike series and writing as Robert Galbraith.",
+      "tags" : ["festival", "interview", "Cormoran Strike", "Robert Galbraith"]
     }
   ],
   "events": [
@@ -6142,6 +6309,71 @@
       "url" : "https://www.youtube.com/playlist?list=PLDkk4b0gM5Kgy3FDkd8_GRBmsnzn7XBkU",
       "summary" : "Community playlist of GRRM interviews.",
       "title" : "George R.R. Martin Interviews (YouTube playlist)"
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling Newsnight Interview",
+      "date" : "2003",
+      "source" : "BBC Newsnight (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=G2tcbFF99Yg",
+      "summary" : "Archived Newsnight sit‑down with Rowling, uploaded to YouTube.",
+      "tags" : [
+        "TV",
+        "interview",
+        "archive"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling on The Vicki Gabereau Show",
+      "date" : "2000",
+      "source" : "The Vicki Gabereau Show (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=VyZhDYiClLg",
+      "summary" : "Early‑era TV interview from The Vicki Gabereau Show, archived on YouTube.",
+      "tags" : [
+        "TV",
+        "interview",
+        "archive"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "1999: J.K. Rowling and Harry Potter",
+      "date" : "1999",
+      "source" : "CBS News / 60 Minutes Overtime",
+      "url" : "https://www.cbsnews.com/video/1999-j-k-rowling-and-harry-potter/",
+      "summary" : "Archive clip of Lesley Stahl’s 1999 interview, resurfaced by CBS News.",
+      "tags" : [
+        "TV",
+        "interview",
+        "archive"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Game of Thrones: George R.R. Martin talks about writing the first chapter",
+      "date" : "2019-04-14",
+      "source" : "CBS News / 60 Minutes",
+      "url" : "https://www.cbsnews.com/news/george-rr-martin-talks-about-writing-the-first-game-of-thrones-chapter-60-minutes-2019-04-14/",
+      "summary" : "Anderson Cooper interviews Martin about the origins of the first chapter and early worldbuilding decisions.",
+      "tags" : [
+        "TV",
+        "interview",
+        "writing"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George.R.R.Martin Supanova 2013 Brisbane",
+      "date" : "2013",
+      "source" : "Supanova (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=IgFR0Iw93cs",
+      "summary" : "Stage interview from Supanova Brisbane, archived on YouTube.",
+      "tags" : [
+        "festival",
+        "interview",
+        "video"
+      ]
     },
     {
       "url" : "https://www.youtube.com/playlist?list=PLzyBVfRrmOwZtWxv2is_LtxVM2QGupN_V",
