@@ -325,6 +325,21 @@
       "title" : "r/EnoughJKRowling: I found the transcript of a 2007 interview that I think reveals a lot about Rowling",
       "summary" : "\"Transcript ... reveals a lot\" thread pointing readers to a detailed 2007 Q&A.",
       "url" : "https://www.reddit.com/r/EnoughJKRowling/comments/1k7w0dx/i_found_the_transcript_of_a_2007_interview_that_i/"
+    },
+    {
+      "title" : "r/writing: The Curious Writing Habit of George R.R. Martin",
+      "summary" : "Commenters point to the Nerdist podcast interview where Martin explains his WordStar setup and old-school writing process.",
+      "url" : "https://www.reddit.com/r/writing/comments/2l9h4k/the_curious_writing_habit_of_george_rr_martin/"
+    },
+    {
+      "title" : "r/harrypotter: New J.K. Rowling interview material on the \"Harry Potter\" books (2005)",
+      "summary" : "Thread shares newly surfaced 2005 interview material and highlights the rare longform answers from that era.",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/8zqdwm/new_jk_rowling_interview_material_on_the_harry/"
+    },
+    {
+      "title" : "r/harrypotter: Oprah interviews J.K. Rowling (Full Video) HD",
+      "summary" : "Fans link the full Oprah sit-down and call out the candid reflections on fame and writing.",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/1ley83/oprah_interviews_jk_rowling_full_video_hd/"
     }
   ],
   "events": [
@@ -5604,8 +5619,54 @@
             }
          ],
          "location" : ""
-      }
+      },
 
+      {
+         "id" : "evt-0236",
+         "author" : "George R. R. Martin",
+         "host" : "Chris Hardwick",
+         "summary" : "Video upload of the Nerdist Podcast interview (Episode 388) with Martin discussing writing process and fandom.",
+         "date" : "2017-09-17",
+         "format" : "Podcast interview",
+         "outlet" : "Nerdist Podcast",
+         "title" : "George R.R. Martin Interview | Nerdist Podcast (Episode 388)",
+         "tags" : [
+            "podcast",
+            "interview",
+            "writing"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=NLM8NMdNflU",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0237",
+         "author" : "J.K. Rowling",
+         "host" : "Oprah Winfrey",
+         "summary" : "Oprah.com clip where Rowling reflects on fame and what she learned from Googling fan reactions.",
+         "date" : "2010-09-30",
+         "format" : "TV interview (clip)",
+         "outlet" : "The Oprah Winfrey Show",
+         "title" : "J.K. Rowling's Aha! Moment (Oprah)",
+         "tags" : [
+            "TV",
+            "interview",
+            "clip"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.oprah.com/oprahshow/jk-rowlings-aha-moment-video_1",
+               "source" : "Oprah.com"
+            }
+         ],
+         "location" : ""
+      }
   ],
   "collections": [
     {
