@@ -1,6 +1,21 @@
 {
   "updated" : "2026-03-20",
-  "bestOf" : [
+  "bestOf": [
+    {
+      "title" : "YouTube comments: George R.R. Martin Answers Facebook Fans' Questions",
+      "summary" : "Viewers highlight the direct fan Q&A and his candid, unscripted tone.",
+      "url" : "https://www.youtube.com/watch?v=WbaslypgyWk"
+    },
+    {
+      "title" : "YouTube comments: J.K. Rowling on the Rosie O'Donnell Show (2000)",
+      "summary" : "Commenters note the early-career vibe and relaxed chat.",
+      "url" : "https://www.youtube.com/watch?v=SeoqgGlfdLw"
+    },
+    {
+      "title" : "YouTube comments: 60 Minutes Australia — The Secret to Harry Potter",
+      "summary" : "Viewers point to the early-2000s snapshot of Rowling’s rise.",
+      "url" : "https://www.youtube.com/watch?v=g46_o2gH7gE"
+    },
     {
       "title" : "YouTube comments: \"It was Painful\" — George R. R. Martin (TIFF Rewind)",
       "summary" : "Commenters call out the candid craft talk and the TIFF Q&A atmosphere.",
@@ -598,7 +613,17 @@
       "url" : "https://www.youtube.com/watch?v=v6ymvBa7Gbc"
     }
   ],
-  "factoids" : [
+  "factoids": [
+    {
+      "text" : "In a 2000 60 Minutes Australia interview, Rowling reflects on the sudden early success of Harry Potter.",
+      "source" : "60 Minutes Australia (2000)",
+      "url" : "https://www.youtube.com/watch?v=g46_o2gH7gE"
+    },
+    {
+      "text" : "In an Amazon Books Facebook fan Q&A video, Martin answers reader questions about his writing process and the series.",
+      "source" : "Amazon Books (2012-01-12)",
+      "url" : "https://www.youtube.com/watch?v=WbaslypgyWk"
+    },
     {
       "text" : "In a 2019 60 Minutes interview, Martin said the direwolf pups in the summer snows were the first scene he wrote for A Game of Thrones.",
       "source" : "CBS News / 60 Minutes (2019-04-14)",
@@ -677,6 +702,45 @@
     }
   ],
   "entries": [
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin Answers Facebook Fans' Questions",
+      "date" : "2012-01-12",
+      "source" : "Amazon Books (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=WbaslypgyWk",
+      "summary" : "Amazon Books video where Martin answers Facebook fan questions about his writing and the series.",
+      "tags" : [
+        "Q&A",
+        "fan",
+        "video"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling on the Rosie O'Donnell Show",
+      "date" : "2000-10-18",
+      "source" : "The Rosie O'Donnell Show (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=SeoqgGlfdLw",
+      "summary" : "Early-era TV interview during the Goblet of Fire promotion.",
+      "tags" : [
+        "TV",
+        "interview",
+        "archive"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "The Secret to Harry Potter (60 Minutes Australia)",
+      "date" : "2000",
+      "source" : "60 Minutes Australia (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=g46_o2gH7gE",
+      "summary" : "Australian 60 Minutes profile during the early Harry Potter boom.",
+      "tags" : [
+        "TV",
+        "interview",
+        "archive"
+      ]
+    },
     {
       "author" : "George R. R. Martin",
       "title" : "The World of Ice & Fire (92nd Street Y)",
