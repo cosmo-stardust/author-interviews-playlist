@@ -42,6 +42,11 @@
   <main>
     <div id="count" class="sub" style="margin:6px 0 10px 0;"></div>
     <div id="stats" class="sub" style="margin:0 0 16px 0;"></div>
+
+    <h2>Newly Added</h2>
+    <div id="entries" class="grid"></div>
+
+    <h2>All Interviews</h2>
     <div id="grid" class="grid"></div>
 
     <h2>Best Of (curated)</h2>
@@ -68,6 +73,27 @@ fetch('data.json')
   .then(data => {
     document.getElementById('updated').textContent = data.updated;
     const events = data.events || [];
+    const entries = data.entries || [];
+
+    const entriesGrid = document.getElementById('entries');
+    entriesGrid.innerHTML = '';
+    for (const e of entries) {
+      const card = document.createElement('div');
+      card.className = 'card';
+      const thumb = e.url ? YT_THUMB(e.url) : '';
+      const tags = (e.tags || []).map(t=>`#${t}`).join(' ');
+      card.innerHTML = `
+        <div class="thumb">${thumb ? `<img src="${thumb}" alt="${e.title}" />` : ''}</div>
+        <div class="content">
+          <div class="meta">${e.author} · ${e.date || 'Unknown date'} ${e.source ? '· '+e.source : ''}</div>
+          <div class="title">${e.title}</div>
+          <div class="summary">${e.summary || ''}</div>
+          ${tags ? `<div class="meta">${tags}</div>` : ''}
+          ${e.url ? `<div class="meta"><a href="${e.url}" target="_blank" rel="noopener">Watch</a></div>` : ''}
+        </div>
+      `;
+      entriesGrid.appendChild(card);
+    }
 
     const render = () => {
       const author = document.getElementById('authorFilter').value;

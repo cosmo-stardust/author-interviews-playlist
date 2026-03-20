@@ -433,8 +433,23 @@
     },
     {
       "title" : "YouTube comments: J.K. Rowling on NBC (post–Deathly Hallows interview)",
-      "summary" : "Commenters appreciate the wrap‑up reflections after finishing the series.",
+      "summary" : "Commenters appreciate the wrap-up reflections after finishing the series.",
       "url" : "https://www.youtube.com/watch?v=fI1zmz4mWIg"
+    },
+    {
+      "title" : "YouTube comments: George R.R. Martin Q&A (Worldcon Dublin 2019)",
+      "summary" : "Commenters highlight the long audience Q&A and his candid fandom answers.",
+      "url" : "https://www.youtube.com/watch?v=Ney7lP5my2g"
+    },
+    {
+      "title" : "YouTube comments: George R.R. Martin Interview | Nerdist Podcast (Episode 388)",
+      "summary" : "Fans call out the deep craft talk and his no-bullshit writing-process answers.",
+      "url" : "https://www.youtube.com/watch?v=NLM8NMdNflU"
+    },
+    {
+      "title" : "YouTube comments: J.K. Rowling in conversation with Eddie Redmayne at Carnegie Hall (2016)",
+      "summary" : "Commenters point to the warm on-stage chemistry and the behind-the-scenes Fantastic Beasts notes.",
+      "url" : "https://www.youtube.com/watch?v=ca5HYNFuNQk"
     }
   ],
   "entries": [
@@ -449,6 +464,58 @@
         "university",
         "longform",
         "best"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin Q&A (Worldcon Dublin 2019)",
+      "date" : "2019-08-19",
+      "source" : "Worldcon Dublin 2019 (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=Ney7lP5my2g",
+      "summary" : "Audience Q&A after a screening, covering writing process, fandom, and current projects.",
+      "tags" : [
+        "worldcon",
+        "Q&A",
+        "festival"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin Interview | Nerdist Podcast (Episode 388)",
+      "date" : "2017-09-17",
+      "source" : "Nerdist Podcast (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=NLM8NMdNflU",
+      "summary" : "Longform podcast interview on craft, worldbuilding, and adapting ASOIAF.",
+      "tags" : [
+        "podcast",
+        "interview",
+        "writing"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "On Writing — Part Two",
+      "date" : "2024-05-07",
+      "source" : "J.K. Rowling (official YouTube)",
+      "url" : "https://www.youtube.com/watch?v=vFntT7G4e_g",
+      "summary" : "Second episode of the official On Writing series, continuing her craft discussion.",
+      "tags" : [
+        "official",
+        "writing",
+        "series"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "On Writing — Part Three",
+      "date" : "2024-05-08",
+      "source" : "J.K. Rowling (official YouTube)",
+      "url" : "https://www.youtube.com/watch?v=-2eZ6gmHgf8",
+      "summary" : "Third installment with more detail on process, planning, and research.",
+      "tags" : [
+        "official",
+        "writing",
+        "series"
       ]
     },
     {
