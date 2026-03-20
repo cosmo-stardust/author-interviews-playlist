@@ -360,6 +360,152 @@
       "title" : "YouTube comments: J.K. Rowling Harvard Commencement Address (2008)",
       "summary" : "Commenters quote the failure-and-imagination lines and recommend it as her best longform talk.",
       "url" : "https://www.youtube.com/watch?v=UibfDUPJAEU"
+    },
+    {
+      "title" : "r/asoiaf: George R.R. Martin at WorldCon panel officially up on YouTube",
+      "summary" : "Thread flags the official WorldCon panel upload and notes the missing Q&A section.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/1nijyuz/george_rr_martin_at_worldcon_panel_officially_up/"
+    },
+    {
+      "title" : "r/asoiaf: (Spoilers Extended)Author George RR Martin Interview at the Oxford Union",
+      "summary" : "Discussion thread sharing the Oxford Union longform interview and crowd reactions.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/1qigcxo/spoilers_extendedauthor_george_rr_martin/"
+    },
+    {
+      "title" : "r/asoiaf: (Spoilers Extended)George R. R. Martin in Oxford",
+      "summary" : "Fans react to the Oxford Writers’ House event and compare it to other longform talks.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/1ev6iol/spoilers_extendedgeorge_r_r_martin_in_oxford/"
+    },
+    {
+      "title" : "r/books: George R.R. Martin: \"Don't be too impatient, it's only been 12 years since the last one\"",
+      "summary" : "Thread calls the quote a wry highlight and says seeing him do interviews is \"encouraging\".",
+      "url" : "https://www.reddit.com/r/books/comments/14tc0oa/george_rr_martin_dont_be_too_impatient_its_only/"
+    },
+    {
+      "title" : "r/cormoran_strike: new and very short Rowling interview clip (Instagram)",
+      "summary" : "Thread shares the clip and quotes the exchange: \"Q: is it now or never for Strike and Robin? A: A little…\".",
+      "url" : "https://www.reddit.com/r/cormoran_strike/comments/1mjuizt/spoiler_the_new_and_very_short_rowling_interview/"
+    },
+    {
+      "title" : "r/JKRowling: The Witch Trials of J.K. Rowling",
+      "summary" : "Discussion thread reacts to the longform interview/documentary series and flags standout episodes.",
+      "url" : "https://www.reddit.com/r/JKRowling/comments/14bvdp1/the_witch_trials_of_jk_rowling/"
+    }
+  ],
+  "entries": [
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Author George R.R. Martin Interview at the Oxford Union",
+      "date" : "2026-01-20",
+      "source" : "Oxford Union (YouTube)",
+      "url" : "https://youtu.be/YbU5imNyDaU",
+      "summary" : "Full Oxford Union interview covering his career, ASOIAF, and adaptations in a longform university setting.",
+      "tags" : [
+        "university",
+        "longform",
+        "best"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin in Conversation (History of Westeros)",
+      "date" : "2022-08-18",
+      "source" : "History of Westeros (YouTube)",
+      "url" : "https://youtu.be/5M39Cq8vSKc",
+      "summary" : "Longform interview recorded in his Santa Fe office with deep craft, fandom, and lore questions.",
+      "tags" : [
+        "fan",
+        "longform",
+        "writing"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Extended Interview with George R.R. Martin (The Late Show)",
+      "date" : "2022-10-26",
+      "source" : "CBS / The Late Show (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=QgCxVdsQH_k",
+      "summary" : "Extended TV sit‑down on writing process, The Rise of the Dragon, and reader expectations.",
+      "tags" : [
+        "TV",
+        "interview",
+        "writing"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Harvard Commencement Address: The Fringe Benefits of Failure",
+      "date" : "2008-06-05",
+      "source" : "Harvard University (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=UibfDUPJAEU",
+      "summary" : "Rowling’s commencement speech on failure, imagination, and the responsibilities of success.",
+      "tags" : [
+        "speech",
+        "university",
+        "best"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "On Writing — Part One",
+      "date" : "2024-05-06",
+      "source" : "J.K. Rowling (official YouTube)",
+      "url" : "https://www.youtube.com/watch?v=3uLa3WKXwLg",
+      "summary" : "Official On Writing series kickoff focused on origins, habits, and planning.",
+      "tags" : [
+        "official",
+        "writing",
+        "series"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling: Creating Harry Potter’s Fantasy Empire",
+      "date" : "2015-02-02",
+      "source" : "Bloomberg Originals (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=X2adjz-KG9Y",
+      "summary" : "Business-profile interview covering Rowling’s rise and franchise scale.",
+      "tags" : [
+        "TV",
+        "profile",
+        "business"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "In Conversation: George R.R. Martin with Dan Jones (Full Event)",
+      "date" : "2019-09-30",
+      "source" : "Fane (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=ysRorXaGbG0",
+      "summary" : "Full event on Fire & Blood and medieval history influences.",
+      "tags" : ["festival", "longform", "history"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Talk To Al Jazeera (Al Jazeera America)",
+      "date" : "2016-02-23",
+      "source" : "Al Jazeera America (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=GaPZGDlm2F4",
+      "summary" : "TV interview covering writing, imagination, and Game of Thrones.",
+      "tags" : ["TV", "interview"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Harry Potter and Me (BBC)",
+      "date" : "2001-12-28",
+      "source" : "BBC (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=SrJiAG8GmnQ",
+      "summary" : "BBC documentary interview covering the early Harry Potter phenomenon.",
+      "tags" : ["BBC", "documentary", "TV", "interview"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "A Conversation between J.K. Rowling and Steve Kloves",
+      "date" : "2016-11-20",
+      "source" : "Warner Bros. / Harry Potter (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=LoBPOZznSvY",
+      "summary" : "Rowling and screenwriter Steve Kloves reflect on the films and adaptation process.",
+      "tags" : ["conversation", "film", "Harry Potter"]
     }
   ],
   "events": [
@@ -5640,7 +5786,6 @@
          ],
          "location" : ""
       },
-
       {
          "id" : "evt-0236",
          "author" : "George R. R. Martin",
