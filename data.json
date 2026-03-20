@@ -390,6 +390,36 @@
       "title" : "r/JKRowling: The Witch Trials of J.K. Rowling",
       "summary" : "Discussion thread reacts to the longform interview/documentary series and flags standout episodes.",
       "url" : "https://www.reddit.com/r/JKRowling/comments/14bvdp1/the_witch_trials_of_jk_rowling/"
+    },
+    {
+      "title" : "YouTube comments: George R.R. Martin on Conversations with Richard Fidler (ABC Radio National, 2013)",
+      "summary" : "Commenters call it one of his most thoughtful longform chats and praise the early‑career stories.",
+      "url" : "https://www.youtube.com/watch?v=LG9YFF_gZ7A"
+    },
+    {
+      "title" : "YouTube comments: J.K. Rowling in conversation with Eddie Redmayne at Carnegie Hall (2016)",
+      "summary" : "Fans highlight the behind‑the‑scenes Fantastic Beasts talk and warm on‑stage chemistry.",
+      "url" : "https://www.youtube.com/watch?v=ca5HYNFuNQk"
+    },
+    {
+      "title" : "YouTube comments: BBC Radio 4 Bookclub — J.K. Rowling (2015)",
+      "summary" : "Listeners recommend this as a rare, reader‑question‑heavy deep dive into the series.",
+      "url" : "https://www.youtube.com/watch?v=HGnQbydfYXg"
+    },
+    {
+      "title" : "r/asoiaf: Best GRRM video interview? (comment picks)",
+      "summary" : "\"For length I would suggest these two\" — recommends the TIFF Higher Learning master class and the TIFF Bell Lightbox conversation.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/2rh7p3/spoilers_all_best_grrm_video_interview/"
+    },
+    {
+      "title" : "r/harrypotter: Best JK interviews? (Leaky Cauldron nod)",
+      "summary" : "\"I quite like the one she gave for The Leaky Cauldron\" — commenters point to the classic fan‑site interview.",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/9azppa/best_jk_interviews/"
+    },
+    {
+      "title" : "A Forum of Ice and Fire: New interview with George R.R. Martin (Glasgow Worldcon)",
+      "summary" : "\"A fun and interesting discussion of George’s history in fandom\" — forum thread highlighting the Worldcon sit‑down.",
+      "url" : "https://asoiaf.westeros.org/index.php?/topic/164465-new-interview-with-george-rr-martin/"
     }
   ],
   "entries": [
@@ -506,6 +536,96 @@
       "url" : "https://www.youtube.com/watch?v=LoBPOZznSvY",
       "summary" : "Rowling and screenwriter Steve Kloves reflect on the films and adaptation process.",
       "tags" : ["conversation", "film", "Harry Potter"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin Q&A (Worldcon Dublin 2019)",
+      "date" : "2019-08-19",
+      "source" : "Worldcon Dublin 2019 (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=Ney7lP5my2g",
+      "summary" : "Worldcon Dublin audience Q&A covering writing process, fandom, and current projects.",
+      "tags" : ["worldcon", "Q&A", "festival"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin: Book Fest 05",
+      "date" : "2005-09-24",
+      "source" : "Library of Congress",
+      "url" : "https://loc.gov/item/webcast-3749",
+      "summary" : "Library of Congress National Book Festival talk and Q&A about the series and writing life.",
+      "tags" : ["festival", "library", "talk"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "How J.K. Rowling’s fear led her to charity (Full Interview)",
+      "date" : "2017-07-10",
+      "source" : "CNN",
+      "url" : "https://edition.cnn.com/videos/entertainment/2017/07/10/j-k-rowling-harry-potter-author-amanpour-full-intv.cnn",
+      "summary" : "Full Amanpour interview about Lumos, writing under Robert Galbraith, and navigating fame.",
+      "tags" : ["TV", "interview", "charity"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling on NBC (post–Deathly Hallows interview)",
+      "date" : "2007-07",
+      "source" : "NBC (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=fI1zmz4mWIg",
+      "summary" : "NBC sit‑down after the Deathly Hallows release reflecting on finishing the series.",
+      "tags" : ["TV", "interview", "Harry Potter"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "A Dance with Dragons | Talks at Google",
+      "date" : "2011-08-07",
+      "source" : "Talks at Google (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=QTTW8M_etko",
+      "summary" : "Live Google interview with audience Q&A on A Dance with Dragons and his writing process.",
+      "tags" : ["talks", "longform", "writing"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin on Conversations with Richard Fidler",
+      "date" : "2013-11-08",
+      "source" : "ABC Radio National (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=LG9YFF_gZ7A",
+      "summary" : "Longform radio interview on his early career, storytelling habits, and ASOIAF craft.",
+      "tags" : ["radio", "longform", "writing"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin on On Point (WBUR)",
+      "date" : "2011-07-12",
+      "source" : "WBUR On Point (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=DKIh0geO96c",
+      "summary" : "Radio interview around A Dance with Dragons and his writing routine.",
+      "tags" : ["radio", "interview", "writing"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "BBC Archive 1997: J.K. Rowling talks Harry Potter",
+      "date" : "1997",
+      "source" : "BBC Archive",
+      "url" : "https://www.bbc.co.uk/videos/crgg732e7l8o",
+      "summary" : "Short BBC archive clip from 1997 about the first Harry Potter book hitting shops.",
+      "tags" : ["BBC", "archive", "TV"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling on Desert Island Discs (BBC Radio 4)",
+      "date" : "2000",
+      "source" : "BBC Radio 4 (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=bM1AVXyqzTY",
+      "summary" : "Radio interview where Rowling discusses early fame and personal influences via her music picks.",
+      "tags" : ["radio", "BBC", "interview"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling on Blue Peter (BBC1)",
+      "date" : "2007",
+      "source" : "BBC Blue Peter (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=VAouj7qimbA",
+      "summary" : "Blue Peter interview with audience questions after the series finale.",
+      "tags" : ["TV", "BBC", "interview"]
     }
   ],
   "events": [
