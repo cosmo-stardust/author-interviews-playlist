@@ -450,6 +450,21 @@
       "title" : "YouTube comments: J.K. Rowling in conversation with Eddie Redmayne at Carnegie Hall (2016)",
       "summary" : "Commenters point to the warm on-stage chemistry and the behind-the-scenes Fantastic Beasts notes.",
       "url" : "https://www.youtube.com/watch?v=ca5HYNFuNQk"
+    },
+    {
+      "title" : "r/books: George R.R. Martin interview on NPR's \"Wait, Wait, Don't Tell Me ...\"",
+      "summary" : "\"Love George R.R. Martin. Love Wait, Wait, Don't Tell Me.\" — thread sharing the NPR interview for its humor and banter.",
+      "url" : "https://www.reddit.com/r/books/comments/zxlnk/george_rr_martin_interview_on_nprs_wait_wait_dont/"
+    },
+    {
+      "title" : "r/harrypotter: JK Rowling's writing process",
+      "summary" : "\"Here’s a really great interview with her and Steve Kloves.\" — commenters swap interview recommendations and writing-process links.",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/uff5nn/jk_rowlings_writing_process/"
+    },
+    {
+      "title" : "r/books: In interview, George R.R. Martin says that he doesn't want to abandon Winds of Winter",
+      "summary" : "\"doesn't want to abandon Winds of Winter\" — thread links the interview and debates the update.",
+      "url" : "https://www.reddit.com/r/books/comments/1qdx50c/in_interview_george_rr_martin_says_that_he_doesnt/"
     }
   ],
   "entries": [
@@ -726,6 +741,60 @@
       "url" : "https://www.youtube.com/watch?v=TbvJbbgFhrQ",
       "summary" : "Festival conversation about writing as Robert Galbraith and the Cormoran Strike series, with audience Q&A.",
       "tags" : ["festival", "interview", "Robert Galbraith", "Cormoran Strike"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Curious George: An Evening with George R.R. Martin and Kevin Smith",
+      "date" : "2022-11-03",
+      "source" : "Kevin Smith (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=o8TP9B2LoSM",
+      "summary" : "Livestreamed conversation covering fandom, comics, TV work, and creative influences.",
+      "tags" : ["conversation", "livestream", "fandom"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin Teases Elden Ring Movie and In the Lost Lands | IGN Fan Fest 2025",
+      "date" : "2025-02-25",
+      "source" : "IGN (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=UPaE35432To",
+      "summary" : "IGN Fan Fest interview about the Elden Ring movie tease and In the Lost Lands adaptation talk.",
+      "tags" : ["interview", "gaming", "film", "adaptation"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin + Joe Abercrombie Interview at the Kimo Theatre",
+      "date" : "2025-05-20",
+      "source" : "Kimo Theatre (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=WxM9cbxciw0",
+      "summary" : "On-stage conversation about craft, fantasy, and fandom during their Albuquerque event.",
+      "tags" : ["book-event", "conversation", "fantasy"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Robert Galbraith Interview | The Running Grave",
+      "date" : "2023-10-19",
+      "source" : "Robert Galbraith (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=SmqQvRIjDBw",
+      "summary" : "Official interview on The Running Grave and the Strike series.",
+      "tags" : ["interview", "writing", "Cormoran Strike"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling answers 20 questions about The Running Grave",
+      "date" : "2023-10-19",
+      "source" : "Robert Galbraith / J.K. Rowling (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=-gT-jAUJ6t0",
+      "summary" : "Q&A with reader-submitted questions about The Running Grave.",
+      "tags" : ["Q&A", "writing", "Cormoran Strike"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "The Witch Trials of J.K. Rowling — Chapter 1: Plotted In Darkness",
+      "date" : "2023-02-23",
+      "source" : "The Free Press (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=FA62Bf6qgxU",
+      "summary" : "First episode clip from the interview/documentary series introducing Rowling's story.",
+      "tags" : ["podcast", "interview", "documentary"]
     }
   ],
   "events": [
