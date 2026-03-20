@@ -420,6 +420,21 @@
       "title" : "A Forum of Ice and Fire: New interview with George R.R. Martin (Glasgow Worldcon)",
       "summary" : "\"A fun and interesting discussion of George’s history in fandom\" — forum thread highlighting the Worldcon sit‑down.",
       "url" : "https://asoiaf.westeros.org/index.php?/topic/164465-new-interview-with-george-rr-martin/"
+    },
+    {
+      "title" : "YouTube comments: George R.R. Martin On Strombo — Full Extended Interview",
+      "summary" : "Commenters praise the longform writing‑process discussion and Martin’s candid answers.",
+      "url" : "https://www.youtube.com/watch?v=fHfip4DefG4"
+    },
+    {
+      "title" : "YouTube comments: Val McDermid interviews J.K. Rowling (Robert Galbraith) — Harrogate International Festival 2014",
+      "summary" : "Fans call it a standout Robert Galbraith‑era talk and highlight the festival Q&A vibe.",
+      "url" : "https://www.youtube.com/watch?v=TbvJbbgFhrQ"
+    },
+    {
+      "title" : "YouTube comments: J.K. Rowling on NBC (post–Deathly Hallows interview)",
+      "summary" : "Commenters appreciate the wrap‑up reflections after finishing the series.",
+      "url" : "https://www.youtube.com/watch?v=fI1zmz4mWIg"
     }
   ],
   "entries": [
@@ -626,6 +641,24 @@
       "url" : "https://www.youtube.com/watch?v=VAouj7qimbA",
       "summary" : "Blue Peter interview with audience questions after the series finale.",
       "tags" : ["TV", "BBC", "interview"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin On Strombo: Full Extended Interview",
+      "date" : "2012-03-14",
+      "source" : "Strombo (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=fHfip4DefG4",
+      "summary" : "Extended TV interview with George Stroumboulopoulos covering writing, storytelling, and Game of Thrones.",
+      "tags" : ["TV", "interview", "longform", "writing"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Val McDermid interviews J.K. Rowling (Robert Galbraith) — Harrogate International Festival 2014",
+      "date" : "2014-12-01",
+      "source" : "Harrogate International Festival (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=TbvJbbgFhrQ",
+      "summary" : "Festival conversation about writing as Robert Galbraith and the Cormoran Strike series, with audience Q&A.",
+      "tags" : ["festival", "interview", "Robert Galbraith", "Cormoran Strike"]
     }
   ],
   "events": [
