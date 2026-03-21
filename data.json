@@ -1,10 +1,25 @@
 {
-  "updated" : "2026-03-20",
+  "updated" : "2026-03-21",
   "bestOf": [
     {
       "title" : "YouTube comments: George R.R. Martin Answers Facebook Fans' Questions",
       "summary" : "Viewers highlight the direct fan Q&A and his candid, unscripted tone.",
       "url" : "https://www.youtube.com/watch?v=WbaslypgyWk"
+    },
+    {
+      "title" : "YouTube comments: 1998 San Jose interview with George R.R. Martin",
+      "summary" : "Commenters call it a rare early-archive interview and appreciate the pre-series-boom context.",
+      "url" : "https://www.youtube.com/watch?v=FNzlJT0sG9k"
+    },
+    {
+      "title" : "YouTube comments: Think Hero Video Interview (2011)",
+      "summary" : "Viewers cite it as a quick early-season press snapshot.",
+      "url" : "https://www.youtube.com/watch?v=C3-fdbbeiu0"
+    },
+    {
+      "title" : "YouTube comments: Donny & Marie Osmond Talk Show (1999)",
+      "summary" : "Commenters note the early US TV appearance and relaxed talk-show vibe.",
+      "url" : "https://www.youtube.com/watch?v=F1I6CR5NGa8"
     },
     {
       "title" : "A Forum of Ice and Fire: Adria's News — G R.R. Martin Interview",
@@ -715,6 +730,21 @@
       "url" : "https://www.youtube.com/watch?v=g46_o2gH7gE"
     },
     {
+      "text" : "The Donny & Marie Osmond Talk Show clip is dated 1999-11-09 in its upload listing.",
+      "source" : "Donny & Marie (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=F1I6CR5NGa8"
+    },
+    {
+      "text" : "The A&E Biography version of Harry Potter and Me is dated 2002-11-13 in its upload listing.",
+      "source" : "A&E Biography (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=qIJaIynFAHI"
+    },
+    {
+      "text" : "The Think Hero video interview is labeled 2011-04-09 in its upload metadata.",
+      "source" : "Think Hero (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=C3-fdbbeiu0"
+    },
+    {
       "text" : "In a 2015 TODAY show interview, Rowling discusses Lumos and the Harry Potter legacy.",
       "source" : "TODAY (2015-04-10)",
       "url" : "https://www.youtube.com/watch?v=hGn5qrg8Ds4"
@@ -889,6 +919,71 @@
         "festival",
         "adaptation",
         "longform"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Our interview with George R.R. Martin in San Jose",
+      "date" : "1998",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=FNzlJT0sG9k",
+      "summary" : "Early on-camera interview recorded in San Jose, archived on YouTube.",
+      "tags" : [
+        "archive",
+        "interview",
+        "video"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Think Hero Video Interview",
+      "date" : "2011-04-09",
+      "source" : "Think Hero (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=C3-fdbbeiu0",
+      "summary" : "Brief video interview from early Game of Thrones press coverage.",
+      "tags" : [
+        "interview",
+        "video",
+        "press"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling on 60 Minutes (1999)",
+      "date" : "1999-09-12",
+      "source" : "CBS 60 Minutes (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=FZtjVi5fH1M",
+      "summary" : "60 Minutes interview from Edinburgh during the early Harry Potter boom.",
+      "tags" : [
+        "TV",
+        "interview",
+        "archive"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Donny & Marie Osmond Talk Show",
+      "date" : "1999-11-09",
+      "source" : "Donny & Marie (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=F1I6CR5NGa8",
+      "summary" : "Talk-show interview during the early Harry Potter boom.",
+      "tags" : [
+        "TV",
+        "interview",
+        "archive"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Harry Potter and Me (A&E Biography)",
+      "date" : "2002-11-13",
+      "source" : "A&E Biography (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=qIJaIynFAHI",
+      "summary" : "A&E Biography cut of the BBC special focusing on Rowling’s story and the Harry Potter phenomenon.",
+      "tags" : [
+        "TV",
+        "documentary",
+        "interview"
       ]
     },
     {
