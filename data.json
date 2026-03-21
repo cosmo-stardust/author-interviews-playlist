@@ -736,6 +736,21 @@
       "title" : "Westeros.org (SSM): Oxford Union Speech",
       "summary" : "Westeros fan archive entry frequently cited in forum discussions as a standout longform talk.",
       "url" : "https://www.westeros.org/Citadel/SSM/Entry/Oxford_Union_Speech"
+    },
+    {
+      "title" : "SFF Chronicles: Rolling Stone Interview with Martin (forum thread)",
+      "summary" : "Forum discussion highlighting favorite lines and why the Rolling Stone longform interview is worth reading.",
+      "url" : "https://www.sffchronicles.com/threads/548451/"
+    },
+    {
+      "title" : "A Forum of Ice and Fire: Oxford Writers House Q&A event (video)",
+      "summary" : "Fans point to the longform Oxford Q&A and timestamp highlights in the thread.",
+      "url" : "https://asoiaf.westeros.org/index.php?/topic/164406-oxford-writers-house-qa-event-starring-george-r-r-martin-video/"
+    },
+    {
+      "title" : "Narkive (alt.fan.harry-potter): MuggleNet chat thread",
+      "summary" : "Usenet community reactions to the MuggleNet chat interview and the tidbits people surfaced.",
+      "url" : "https://alt.fan.harry-potter.narkive.com/XlOR20GI/mugglenet-chat"
     }
   ],
   "factoids": [
@@ -934,6 +949,21 @@
       "text" : "The Charlie Rose excerpt with Rowling is dated 2012-10-19 on its official YouTube upload.",
       "source" : "Charlie Rose (YouTube)",
       "url" : "https://www.youtube.com/watch?v=gZ1s-YkraXY"
+    },
+    {
+      "text" : "The Oprah Winfrey Show upload labels the full J.K. Rowling interview as a 2010 clip.",
+      "source" : "The Oprah Winfrey Show (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=51s9WTix4XM"
+    },
+    {
+      "text" : "The Wheeler Centre upload lists the 2013-11-13 event date for the Martin + Michelle Fairley conversation.",
+      "source" : "The Wheeler Centre (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=vLkvLpPWWvI"
+    },
+    {
+      "text" : "HarperCollins' YouTube upload presents an exclusive interview with Martin hosted by Robin Hobb.",
+      "source" : "HarperCollins (YouTube)",
+      "url" : "https://youtu.be/tXLYSnMIrXM"
     }
   ],
   "entries": [
@@ -1907,8 +1937,52 @@
       "url" : "https://www.youtube.com/watch?v=gZ1s-YkraXY",
       "summary" : "Excerpt from the Charlie Rose sit\u2011down during the Casual Vacancy era, focusing on writing and fame.",
       "tags" : ["TV", "interview", "archive"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Game of Thrones with George R.R. Martin and Michelle Fairley",
+      "date" : "2013-11-13",
+      "source" : "The Wheeler Centre (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=vLkvLpPWWvI",
+      "summary" : "Wheeler Centre on-stage conversation about the show and adaptation, with audience Q&A.",
+      "tags" : ["festival", "conversation", "panel"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "An Evening with George R. R. Martin and Publisher Tom Doherty",
+      "date" : "2014-10-23",
+      "source" : "Brown University Library (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=TB5AU_bCZJg",
+      "summary" : "Brown University Library event featuring the Harris Collection award presentation and a longform interview.",
+      "tags" : ["university", "conversation", "publishing"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "HarperCollins London Exclusive (with Robin Hobb)",
+      "date" : "2014",
+      "source" : "HarperCollins (YouTube)",
+      "url" : "https://youtu.be/tXLYSnMIrXM",
+      "summary" : "Publisher interview with Robin Hobb covering fantasy writing and series craft.",
+      "tags" : ["publisher", "interview", "conversation"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Oprah Interviews J.K. Rowling",
+      "date" : "2010",
+      "source" : "The Oprah Winfrey Show (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=51s9WTix4XM",
+      "summary" : "Full Oprah sit-down reflecting on fame, writing, and family life.",
+      "tags" : ["TV", "interview", "archive"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling - A Year in the Life",
+      "date" : "2007",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=0nCCsT30A8A",
+      "summary" : "Documentary-style interview about her life during the final Harry Potter era.",
+      "tags" : ["TV", "documentary", "interview"]
     }
-
   ],
   "events": [
       {
