@@ -766,6 +766,21 @@
       "title" : "YouTube comments: J.K. Rowling on getting Harry Potter published (BBC News Scotland, 1997)",
       "summary" : "Commenters note the origin-story details about getting the book published.",
       "url" : "https://www.youtube.com/watch?v=Do2jy90Q1SI"
+    },
+    {
+      "title" : "YouTube comments: J.K. Rowling on BBC Bookclub (1999)",
+      "summary" : "Viewers highlight the reader questions and the rare early radio-session vibe.",
+      "url" : "https://www.youtube.com/watch?v=wKNFXxNG8Xk"
+    },
+    {
+      "title" : "YouTube comments: J.K. Rowling French TV interview (2000)",
+      "summary" : "Commenters note the early-boom time capsule and the French-language questions.",
+      "url" : "https://www.youtube.com/watch?v=NEzZfsmJCXI"
+    },
+    {
+      "title" : "YouTube comments: Comic-Con Avatar Panel (2014)",
+      "summary" : "Fans point to the Comic-Con Q&A energy and cross-fandom panel format.",
+      "url" : "https://youtu.be/IYTGSzeeb44"
     }
   ],
   "factoids": [
@@ -773,6 +788,16 @@
       "text" : "In a 2000 60 Minutes Australia interview, Rowling reflects on the sudden early success of Harry Potter.",
       "source" : "60 Minutes Australia (2000)",
       "url" : "https://www.youtube.com/watch?v=g46_o2gH7gE"
+    },
+    {
+      "text" : "BBC Radio 4's Bookclub session with Rowling aired on 1999-08-01 and focused on Philosopher's Stone.",
+      "source" : "BBC Radio 4 Bookclub (1999-08-01)",
+      "url" : "https://www.bbc.co.uk/programmes/p00fpv7t"
+    },
+    {
+      "text" : "George R.R. Martin appeared on the Comic-Con Avatar Panel in July 2014.",
+      "source" : "George R.R. Martin — Interviews index (July 2014)",
+      "url" : "https://georgerrmartin.com/for-fans/interviews/"
     },
     {
       "text" : "The Donny & Marie Osmond Talk Show clip is dated 1999-11-09 in its upload listing.",
@@ -2048,6 +2073,42 @@
       "url" : "https://www.youtube.com/watch?v=Do2jy90Q1SI",
       "summary" : "BBC News Scotland clip about how she got Harry Potter published.",
       "tags" : ["BBC", "archive", "TV", "interview"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Comic-Con Avatar Panel",
+      "date" : "2014-07",
+      "source" : "Comic-Con International (YouTube)",
+      "url" : "https://youtu.be/IYTGSzeeb44",
+      "summary" : "Comic-Con Avatar Press panel appearance with fan Q&A.",
+      "tags" : ["Comic-Con", "panel", "fan"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Comic-Con Marvel Interview",
+      "date" : "2014-07",
+      "source" : "Comic-Con International (YouTube)",
+      "url" : "https://youtu.be/PJay1xPU71s",
+      "summary" : "Short Comic-Con interview focused on his Marvel work and storytelling.",
+      "tags" : ["Comic-Con", "interview", "video"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling on BBC Bookclub (Philosopher's Stone)",
+      "date" : "1999-08-01",
+      "source" : "BBC Radio 4 Bookclub (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=wKNFXxNG8Xk",
+      "summary" : "Rowling answers reader questions and reads from Philosopher's Stone in the BBC Bookclub session.",
+      "tags" : ["radio", "BBC", "interview", "readers"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Entrevue avec J.K. Rowling (French TV, 2000)",
+      "date" : "2000",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=NEzZfsmJCXI",
+      "summary" : "French-language TV interview from 2000 about the early Harry Potter boom.",
+      "tags" : ["TV", "interview", "archive"]
     }
   ],
   "events": [
@@ -7416,6 +7477,98 @@
             {
                "type" : "video",
                "url" : "https://www.youtube.com/watch?v=NJaEY02Vs6U",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0240",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Comic-Con Avatar Press panel appearance with fan Q&A.",
+         "date" : "2014-07",
+         "format" : "Panel",
+         "outlet" : "Comic-Con International",
+         "title" : "Comic-Con Avatar Panel",
+         "tags" : [
+            "Comic-Con",
+            "panel",
+            "fan"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://youtu.be/IYTGSzeeb44",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "San Diego, CA"
+      },
+      {
+         "id" : "evt-0241",
+         "author" : "George R. R. Martin",
+         "host" : "",
+         "summary" : "Short Comic-Con interview focused on his Marvel work and storytelling.",
+         "date" : "2014-07",
+         "format" : "Interview",
+         "outlet" : "Comic-Con International",
+         "title" : "Comic-Con Marvel Interview",
+         "tags" : [
+            "Comic-Con",
+            "interview"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://youtu.be/PJay1xPU71s",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "San Diego, CA"
+      },
+      {
+         "id" : "evt-0242",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Rowling answers reader questions and reads from Philosopher's Stone in the BBC Bookclub session.",
+         "date" : "1999-08-01",
+         "format" : "Radio interview",
+         "outlet" : "BBC Radio 4 Bookclub",
+         "title" : "J.K. Rowling on BBC Bookclub (Philosopher's Stone)",
+         "tags" : [
+            "radio",
+            "BBC",
+            "interview",
+            "readers"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=wKNFXxNG8Xk",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
+      },
+      {
+         "id" : "evt-0243",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "French-language TV interview from 2000 about the early Harry Potter boom.",
+         "date" : "2000",
+         "format" : "TV interview",
+         "outlet" : "French TV (YouTube)",
+         "title" : "Entrevue avec J.K. Rowling (French TV, 2000)",
+         "tags" : [
+            "TV",
+            "interview",
+            "archive"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=NEzZfsmJCXI",
                "source" : "YouTube"
             }
          ],
