@@ -751,6 +751,21 @@
       "title" : "Narkive (alt.fan.harry-potter): MuggleNet chat thread",
       "summary" : "Usenet community reactions to the MuggleNet chat interview and the tidbits people surfaced.",
       "url" : "https://alt.fan.harry-potter.narkive.com/XlOR20GI/mugglenet-chat"
+    },
+    {
+      "title" : "YouTube comments: Oldest George RR Martin Interview (1991)",
+      "summary" : "Commenters call it a rare pre-ASOIAF time capsule.",
+      "url" : "https://www.youtube.com/watch?v=M1uYQLEPkjw"
+    },
+    {
+      "title" : "YouTube comments: J.K. Rowling talks Harry Potter (Blue Peter, 1997)",
+      "summary" : "Viewers highlight the early-career warmth and the kid-focused Q&A.",
+      "url" : "https://www.youtube.com/watch?v=kwLFm0uocCo"
+    },
+    {
+      "title" : "YouTube comments: J.K. Rowling on getting Harry Potter published (BBC News Scotland, 1997)",
+      "summary" : "Commenters note the origin-story details about getting the book published.",
+      "url" : "https://www.youtube.com/watch?v=Do2jy90Q1SI"
     }
   ],
   "factoids": [
@@ -964,6 +979,21 @@
       "text" : "HarperCollins' YouTube upload presents an exclusive interview with Martin hosted by Robin Hobb.",
       "source" : "HarperCollins (YouTube)",
       "url" : "https://youtu.be/tXLYSnMIrXM"
+    },
+    {
+      "text" : "The Blue Peter clip title labels the interview as December 17, 1997.",
+      "source" : "BBC Blue Peter (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=kwLFm0uocCo"
+    },
+    {
+      "text" : "The BBC News Scotland clip title labels the segment as November 1997 about getting Harry Potter published.",
+      "source" : "BBC News Scotland (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=Do2jy90Q1SI"
+    },
+    {
+      "text" : "The YouTube upload title labels the Oldest George RR Martin Interview as 1991.",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=M1uYQLEPkjw"
     }
   ],
   "entries": [
@@ -1982,6 +2012,42 @@
       "url" : "https://www.youtube.com/watch?v=0nCCsT30A8A",
       "summary" : "Documentary-style interview about her life during the final Harry Potter era.",
       "tags" : ["TV", "documentary", "interview"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Oldest George RR Martin Interview (1991)",
+      "date" : "1991",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=M1uYQLEPkjw",
+      "summary" : "Early-era interview recorded in 1991 and preserved on YouTube.",
+      "tags" : ["archive", "interview", "video"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Flashback Friday - George R.R. Martin Interview (1991)",
+      "date" : "1991",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=ZO1EHuSnJWo",
+      "summary" : "Flashback Friday upload of a 1991 interview with Martin.",
+      "tags" : ["archive", "interview", "video"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling talks Harry Potter, Blue Peter (BBC One)",
+      "date" : "1997-12-17",
+      "source" : "BBC Blue Peter (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=kwLFm0uocCo",
+      "summary" : "BBC Blue Peter clip from 1997 featuring Rowling on early Harry Potter success.",
+      "tags" : ["BBC", "archive", "TV", "interview"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling on getting Harry Potter published (BBC News Scotland)",
+      "date" : "1997",
+      "source" : "BBC News Scotland (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=Do2jy90Q1SI",
+      "summary" : "BBC News Scotland clip about how she got Harry Potter published.",
+      "tags" : ["BBC", "archive", "TV", "interview"]
     }
   ],
   "events": [
