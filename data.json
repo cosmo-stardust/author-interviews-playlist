@@ -2,6 +2,22 @@
   "updated" : "2026-03-21",
   "bestOf": [
     {
+      "title" : "HP-Lexicon: Interviews archive",
+      "summary" : "Fan-maintained index of Rowling interviews used to track down classic Q&A sources.",
+      "url" : "https://www.hp-lexicon.org/source/interviews/"
+    },
+    {
+      "title" : "Accio Quote: Interview transcripts & quotes",
+      "summary" : "Fan archive compiling interview transcripts and quote excerpts for quick canon cross-checks.",
+      "url" : "https://www.accio-quote.org/articles/"
+    },
+    {
+      "title" : "Westeros.org: So Spake Martin interview archive",
+      "summary" : "Fan community archive collecting Martin interview quotes and Q&A sources over the years.",
+      "url" : "https://www.westeros.org/Citadel/SSM/"
+    },
+
+    {
       "title" : "r/books: George R.R. Martin on 'Winds of Winter': 'You guys don’t have to pester me about it'",
       "summary" : "Thread highlights a candid interview quote and links the source for context.",
       "url" : "https://www.reddit.com/r/books/comments/17fppzd/george_rr_martin_on_winds_of_winter_you_guys_dont/"
@@ -1106,6 +1122,74 @@
     }
   ],
   "entries": [
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R. R. Martin Still Uses A DOS Word Processor (CONAN)",
+      "date" : "2014-05-13",
+      "source" : "Team Coco / CONAN (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=X5REM-3nWHg",
+      "summary" : "Late-night clip where Martin explains writing on WordStar 4.0 in DOS.",
+      "tags" : [
+        "TV",
+        "clip",
+        "writing",
+        "CONAN"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin Is Working Hard On His Next Book (CONAN)",
+      "date" : "2015-07-11",
+      "source" : "Team Coco / CONAN (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=lle4t4o8EDk",
+      "summary" : "CONAN segment checking in on Winds progress and his writing routine.",
+      "tags" : [
+        "TV",
+        "clip",
+        "interview",
+        "CONAN"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Game of Thrones to have a bittersweet ending (Channel 4 News)",
+      "date" : "2014-08-15",
+      "source" : "Channel 4 News (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=HaFViB8mZ9I",
+      "summary" : "Channel 4 News interview about Game of Thrones and his planned ending tone.",
+      "tags" : [
+        "TV",
+        "news",
+        "interview"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "The Casual Vacancy interview (ABC News)",
+      "date" : "2012-09-26",
+      "source" : "ABC News (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=Y461sAi_Blw",
+      "summary" : "ABC News clip about The Casual Vacancy and writing for adult audiences.",
+      "tags" : [
+        "TV",
+        "interview",
+        "The Casual Vacancy"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Fantastic Beasts and Where to Find Them interview",
+      "date" : "2016-11-16",
+      "source" : "Fantastic Beasts (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=7Dvv4IVeP_E",
+      "summary" : "Behind-the-scenes interview about writing the Fantastic Beasts screenplay.",
+      "tags" : [
+        "film",
+        "interview",
+        "Fantastic Beasts"
+      ]
+    },
+
     {
       "author" : "George R. R. Martin",
       "title" : "George R. R. Martin in Conversation with John Hodgman (Books Are Magic)",
