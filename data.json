@@ -721,6 +721,21 @@
       "title" : "r/harrypotter: Carnegie Hall 2007 interview trivia",
       "summary" : "Readers rediscover the Carnegie Hall Q&A and share the trivia nuggets they hadn't known.",
       "url" : "https://www.reddit.com/r/harrypotter/comments/izrhl0/came_across_this_link_from_2007_of_j_k_rowlings/"
+    },
+    {
+      "title" : "MuggleNet: 'Potter' author J.K. Rowling interviewed on Charlie Rose",
+      "summary" : "Fan community post flags the Charlie Rose sit\u2011down as revealing \u201clots of new information.\u201d",
+      "url" : "https://www.mugglenet.com/2012/10/potter-author-j-k-rowling-interviewed-on-charlie-rose-reveals-lots-of-new-information/"
+    },
+    {
+      "title" : "The Rowling Library: Interviews",
+      "summary" : "Fan\u2011run index that readers share as the fastest way to dive into Rowling interview archives.",
+      "url" : "https://www.therowlinglibrary.com/category/interviews/"
+    },
+    {
+      "title" : "Westeros.org (SSM): Oxford Union Speech",
+      "summary" : "Westeros fan archive entry frequently cited in forum discussions as a standout longform talk.",
+      "url" : "https://www.westeros.org/Citadel/SSM/Entry/Oxford_Union_Speech"
     }
   ],
   "factoids": [
@@ -904,6 +919,21 @@
       "text" : "Rowling appears alongside Stephen Fry in the BBC special "Fantastic Beasts: A Natural History" discussing wizarding creatures and lore.",
       "source" : "BBC One (2022-02-27)",
       "url" : "https://www.youtube.com/watch?v=HIcQrUXwxO0"
+    },
+    {
+      "text" : "PBS\u2019s Finding Your Roots clip about Martin\u2019s Jewish roots is dated 2019-05-06 in its YouTube listing.",
+      "source" : "PBS Finding Your Roots (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=CjCdPVnIguw"
+    },
+    {
+      "text" : "The BBC interview about The Casual Vacancy with Rowling is dated 2012-09-26 in the YouTube upload.",
+      "source" : "BBC (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=qu4RBrr5ZVM"
+    },
+    {
+      "text" : "The Charlie Rose excerpt with Rowling is dated 2012-10-19 on its official YouTube upload.",
+      "source" : "Charlie Rose (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=gZ1s-YkraXY"
     }
   ],
   "entries": [
@@ -1850,6 +1880,33 @@
       "text" : "Rowling appears alongside Stephen Fry in the BBC special "Fantastic Beasts: A Natural History" discussing wizarding creatures and lore.",
       "source" : "BBC One (2022-02-27)",
       "url" : "https://www.youtube.com/watch?v=HIcQrUXwxO0"
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin Learns About His Jewish Roots (Finding Your Roots clip)",
+      "date" : "2019-05-06",
+      "source" : "PBS Finding Your Roots (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=CjCdPVnIguw",
+      "summary" : "PBS Finding Your Roots clip where Martin explores family history and heritage.",
+      "tags" : ["PBS", "interview", "clip", "family-history"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling interview about The Casual Vacancy (BBC)",
+      "date" : "2012-09-26",
+      "source" : "BBC (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=qu4RBrr5ZVM",
+      "summary" : "BBC interview about The Casual Vacancy and writing for adults.",
+      "tags" : ["TV", "BBC", "interview", "The Casual Vacancy"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Excerpt of Charlie Rose with author J.K. Rowling",
+      "date" : "2012-10-19",
+      "source" : "Charlie Rose (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=gZ1s-YkraXY",
+      "summary" : "Excerpt from the Charlie Rose sit\u2011down during the Casual Vacancy era, focusing on writing and fame.",
+      "tags" : ["TV", "interview", "archive"]
     }
 
   ],
