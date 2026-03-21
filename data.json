@@ -781,6 +781,21 @@
       "title" : "YouTube comments: Comic-Con Avatar Panel (2014)",
       "summary" : "Fans point to the Comic-Con Q&A energy and cross-fandom panel format.",
       "url" : "https://youtu.be/IYTGSzeeb44"
+    },
+    {
+      "title" : "YouTube comments: George R.R. Martin Second Life appearance",
+      "summary" : "Viewers highlight the novelty of the virtual-world Q&A and his candid fan answers.",
+      "url" : "https://www.youtube.com/watch?v=tYonVhBqh1Q"
+    },
+    {
+      "title" : "YouTube comments: George R.R. Martin spotlight panel (NYCC)",
+      "summary" : "Commenters call out the craft talk and Joe Hill’s hosting chemistry.",
+      "url" : "https://www.youtube.com/watch?v=hGm2x8T0PBQ"
+    },
+    {
+      "title" : "YouTube comments: Robert Galbraith NPR interview (Career of Evil)",
+      "summary" : "Listeners note the rare audio-style interview and the Strike-series craft details.",
+      "url" : "https://www.youtube.com/watch?v=gHPVrmWtoRY"
     }
   ],
   "factoids": [
@@ -798,6 +813,16 @@
       "text" : "George R.R. Martin appeared on the Comic-Con Avatar Panel in July 2014.",
       "source" : "George R.R. Martin — Interviews index (July 2014)",
       "url" : "https://georgerrmartin.com/for-fans/interviews/"
+    },
+    {
+      "text" : "In a 2007 Second Life appearance, Martin answered fan questions in a virtual-world Q&A session.",
+      "source" : "Second Life (2007-05-31)",
+      "url" : "https://www.youtube.com/watch?v=tYonVhBqh1Q"
+    },
+    {
+      "text" : "In a 2015 NPR interview as Robert Galbraith, Rowling discussed the Strike series and Career of Evil.",
+      "source" : "NPR (2015-11-02)",
+      "url" : "https://www.youtube.com/watch?v=gHPVrmWtoRY"
     },
     {
       "text" : "The Donny & Marie Osmond Talk Show clip is dated 1999-11-09 in its upload listing.",
@@ -2109,6 +2134,33 @@
       "url" : "https://www.youtube.com/watch?v=NEzZfsmJCXI",
       "summary" : "French-language TV interview from 2000 about the early Harry Potter boom.",
       "tags" : ["TV", "interview", "archive"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Second Life Appearance (virtual Q&A)",
+      "date" : "2007-05-31",
+      "source" : "Second Life (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=tYonVhBqh1Q",
+      "summary" : "Virtual-world Q&A session with fan questions in Second Life.",
+      "tags" : ["virtual", "Q&A", "fan"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin spotlight (NYCC)",
+      "date" : "2025-12-17",
+      "source" : "Popverse (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=hGm2x8T0PBQ",
+      "summary" : "NYCC spotlight panel hosted by Joe Hill covering craft, fandom, and current projects.",
+      "tags" : ["panel", "comic-con", "conversation"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Robert Galbraith interview on Career of Evil (NPR)",
+      "date" : "2015-11-02",
+      "source" : "NPR (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=gHPVrmWtoRY",
+      "summary" : "Radio interview (as Robert Galbraith) about the Strike series and Career of Evil.",
+      "tags" : ["radio", "interview", "Cormoran Strike"]
     }
   ],
   "events": [
