@@ -2,6 +2,36 @@
   "updated" : "2026-03-21",
   "bestOf": [
     {
+      "title" : "r/books: George R.R. Martin on 'Winds of Winter': 'You guys don’t have to pester me about it'",
+      "summary" : "Thread highlights a candid interview quote and links the source for context.",
+      "url" : "https://www.reddit.com/r/books/comments/17fppzd/george_rr_martin_on_winds_of_winter_you_guys_dont/"
+    },
+    {
+      "title" : "r/books: George R.R. Martin has written 1,100 pages of The Winds of Winter",
+      "summary" : "Discussion thread points to interview coverage and debates the progress update.",
+      "url" : "https://www.reddit.com/r/books/comments/17zrv9s/george_rr_martin_has_written_1100_pages_of_the/"
+    },
+    {
+      "title" : "r/Gamingcirclejerk: The Onion’s Exclusive Interview With J.K. Rowling",
+      "summary" : "Satirical thread that still points readers to interview-style coverage and reactions.",
+      "url" : "https://www.reddit.com/r/Gamingcirclejerk/comments/119ub6z/the_onions_exclusive_interview_with_jk_rowling/"
+    },
+    {
+      "title" : "r/television: George R.R. Martin and Neil Gaiman on adaptation changes",
+      "summary" : "Thread highlights their interview comments about staying faithful to source material.",
+      "url" : "https://www.reddit.com/r/television/comments/yfvfr5/george_rr_martin_and_neil_gaiman_hate_when/"
+    },
+    {
+      "title" : "Oh No They Didn't: JK Rowling interview from 1999 released",
+      "summary" : "Community discussion reacting to the resurfaced 60 Minutes interview clip.",
+      "url" : "https://ohnotheydidnt.livejournal.com/53228146.html"
+    },
+    {
+      "title" : "The Leaky Cauldron: Video: 1999 \"60 Minutes Overtime\" Interview with J.K. Rowling",
+      "summary" : "Fan community highlight post resurfacing the 1999 Lesley Stahl sit-down.",
+      "url" : "http://www.the-leaky-cauldron.org/2010/11/11/video-1999-interview-with-jk-rowling/"
+    },
+    {
       "title" : "YouTube comments: George R.R. Martin Answers Facebook Fans' Questions",
       "summary" : "Viewers highlight the direct fan Q&A and his candid, unscripted tone.",
       "url" : "https://www.youtube.com/watch?v=WbaslypgyWk"
@@ -796,9 +826,38 @@
       "title" : "YouTube comments: Robert Galbraith NPR interview (Career of Evil)",
       "summary" : "Listeners note the rare audio-style interview and the Strike-series craft details.",
       "url" : "https://www.youtube.com/watch?v=gHPVrmWtoRY"
-    }
-  ],
+    }  ],
   "factoids": [
+    {
+      "text" : "Books Are Magic hosted a longform John Hodgman + George R.R. Martin conversation in October 2025.",
+      "source" : "Books Are Magic (2025-10-18)",
+      "url" : "https://www.youtube.com/watch?v=PzA0Iun1Vcc"
+    },
+    {
+      "text" : "BBC Radio 2’s Graham Norton interview about The Ickabog aired on November 14, 2020.",
+      "source" : "BBC Radio 2 (2020-11-14)",
+      "url" : "https://www.youtube.com/watch?v=QpgO49n3qD4"
+    },
+    {
+      "text" : "The Ink Black Heart interactive Q&A video was released on September 22, 2022.",
+      "source" : "Robert Galbraith (2022-09-22)",
+      "url" : "https://www.youtube.com/watch?v=TziSL7_ysMQ"
+    },
+    {
+      "text" : "Netflix posted a short conversation between George R.R. Martin and Neil Gaiman about The Sandman adaptation.",
+      "source" : "Netflix (2022-08-06)",
+      "url" : "https://www.youtube.com/watch?v=i_Ff48cS9jM"
+    },
+    {
+      "text" : "CBS News reposted a 60 Minutes archive clip of Lesley Stahl’s 1999 interview with Rowling in May 2020.",
+      "source" : "CBS News / 60 Minutes (2020-05-28)",
+      "url" : "https://www.cbsnews.com/video/from-the-60-minutes-archives-j-k-rowling/"
+    },
+    {
+      "text" : "Rowling’s 2012 Harry Potter: Beyond the Page virtual author visit features reader Q&A from Edinburgh.",
+      "source" : "Harry Potter: Beyond the Page (2012-10-11)",
+      "url" : "https://www.youtube.com/watch?v=aA_QYZBWQ88"
+    },
     {
       "text" : "In a 2000 60 Minutes Australia interview, Rowling reflects on the sudden early success of Harry Potter.",
       "source" : "60 Minutes Australia (2000)",
@@ -1047,6 +1106,123 @@
     }
   ],
   "entries": [
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R. R. Martin in Conversation with John Hodgman (Books Are Magic)",
+      "date" : "2025-10-18",
+      "source" : "Books Are Magic (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=PzA0Iun1Vcc",
+      "summary" : "Full event conversation hosted by Books Are Magic, with John Hodgman guiding a longform craft discussion.",
+      "tags" : [
+        "conversation",
+        "book-event",
+        "longform"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin spotlight panel (NYCC)",
+      "date" : "2025-12-17",
+      "source" : "Popverse (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=hGm2x8T0PBQ",
+      "summary" : "NYCC spotlight panel with Joe Hill, covering craft, fandom, and current projects.",
+      "tags" : [
+        "panel",
+        "comic-con",
+        "conversation"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Stephen King and George R. R. Martin in Conversation",
+      "date" : "2025-08-22",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=EEsBtdl9Y7Y",
+      "summary" : "Longform author-to-author conversation covering writing habits, genre, and storytelling craft.",
+      "tags" : [
+        "conversation",
+        "authors",
+        "longform"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling with Graham Norton on The Ickabog",
+      "date" : "2020-11-14",
+      "source" : "BBC Radio 2 (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=QpgO49n3qD4",
+      "summary" : "BBC Radio 2 interview about The Ickabog and writing for children.",
+      "tags" : [
+        "radio",
+        "interview",
+        "The Ickabog"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "The Ink Black Heart full interactive Q&A",
+      "date" : "2022-09-22",
+      "source" : "Robert Galbraith (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=TziSL7_ysMQ",
+      "summary" : "Interactive Q&A with reader-submitted questions tied to The Ink Black Heart release.",
+      "tags" : [
+        "Q&A",
+        "Cormoran Strike",
+        "writing"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "1999: J.K. Rowling and Harry Potter (60 Minutes Overtime)",
+      "date" : "2015-10-10",
+      "source" : "CBS News / 60 Minutes Overtime",
+      "url" : "https://www.cbsnews.com/video/1999-j-k-rowling-and-harry-potter/",
+      "summary" : "CBS News archive clip revisiting the 1999 Lesley Stahl interview as the film era ramped up.",
+      "tags" : [
+        "TV",
+        "archive",
+        "interview"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin with Neil Gaiman (The Sandman, Netflix)",
+      "date" : "2022-08-06",
+      "source" : "Netflix (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=i_Ff48cS9jM",
+      "summary" : "Netflix conversation where Martin and Gaiman discuss The Sandman and adaptation choices.",
+      "tags" : [
+        "conversation",
+        "adaptation",
+        "video"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "From the 60 Minutes Archives: J.K. Rowling",
+      "date" : "2020-05-28",
+      "source" : "CBS News / 60 Minutes",
+      "url" : "https://www.cbsnews.com/video/from-the-60-minutes-archives-j-k-rowling/",
+      "summary" : "CBS News archive repost of Lesley Stahl’s 1999 interview during the early Harry Potter boom.",
+      "tags" : [
+        "TV",
+        "archive",
+        "interview"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Harry Potter: Beyond the Page — Virtual Author Visit",
+      "date" : "2012-10-11",
+      "source" : "Scholastic / Harry Potter: Beyond the Page (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=aA_QYZBWQ88",
+      "summary" : "Virtual author visit from Edinburgh with reader questions about writing and Harry Potter.",
+      "tags" : [
+        "virtual",
+        "Q&A",
+        "fan"
+      ]
+    },
     {
       "author" : "George R. R. Martin",
       "title" : "George R.R. Martin | Master Class | Higher Learning (TIFF)",
