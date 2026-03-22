@@ -1,6 +1,21 @@
 {
-  "updated" : "2026-03-21",
+  "updated" : "2026-03-22",
   "bestOf": [
+    {
+      "title" : "YouTube comments: Talking to George R.R. Martin About His Favorite Book",
+      "summary" : "Commenters highlight the Zelazny/Amber deep-dive and the rare bookstore-style chat.",
+      "url" : "https://www.youtube.com/watch?v=V56WRApNUzM"
+    },
+    {
+      "title" : "YouTube comments: Living with Harry Potter (Stephen Fry interview)",
+      "summary" : "Listeners call it a candid early-career audio interview with longform answers.",
+      "url" : "https://www.youtube.com/watch?v=YXYQqoTxAyM"
+    },
+    {
+      "title" : "YouTube comments: J.K. Rowling: On Writing (Preview)",
+      "summary" : "Viewers treat it as a quick primer before the full On Writing series.",
+      "url" : "https://www.youtube.com/watch?v=Jm1DIbzS_2U"
+    },
     {
       "title" : "HP-Lexicon: Interviews archive",
       "summary" : "Fan-maintained index of Rowling interviews used to track down classic Q&A sources.",
@@ -845,6 +860,16 @@
     }  ],
   "factoids": [
     {
+      "text" : "Dominic Noble uploaded a Reginald's Book Club interview with Martin about Nine Princes in Amber on 2023-07-01.",
+      "source" : "Dominic Noble (YouTube) (2023-07-01)",
+      "url" : "https://www.youtube.com/watch?v=V56WRApNUzM"
+    },
+    {
+      "text" : "The Times posted the On Writing preview clip featuring Rowling on 2024-05-05.",
+      "source" : "The Times (YouTube) (2024-05-05)",
+      "url" : "https://www.youtube.com/watch?v=Jm1DIbzS_2U"
+    },
+    {
       "text" : "Books Are Magic hosted a longform John Hodgman + George R.R. Martin conversation in October 2025.",
       "source" : "Books Are Magic (2025-10-18)",
       "url" : "https://www.youtube.com/watch?v=PzA0Iun1Vcc"
@@ -1122,6 +1147,60 @@
     }
   ],
   "entries": [
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Talking to George R.R. Martin About His Favorite Book",
+      "date" : "2023-07-01",
+      "source" : "Dominic Noble (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=V56WRApNUzM",
+      "summary" : "Dominic Noble's Reginald's Book Club sit-down on Nine Princes in Amber and Martin's reading tastes.",
+      "tags" : [
+        "interview",
+        "fan",
+        "bookstore",
+        "longform"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George RR Martin on House Baratheon",
+      "date" : "2021-03-03",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=jeZ-XSCyB78A",
+      "summary" : "Short interview clip focused on House Baratheon lore and ASOIAF worldbuilding.",
+      "tags" : [
+        "interview",
+        "clip",
+        "lore"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Living with Harry Potter (Stephen Fry interview)",
+      "date" : "2005-12-10",
+      "source" : "BBC Radio 4 (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=YXYQqoTxAyM",
+      "summary" : "BBC Radio 4 Christmas special with Stephen Fry reflecting on the series and her writing life.",
+      "tags" : [
+        "radio",
+        "BBC",
+        "interview",
+        "archive"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling: On Writing (Preview)",
+      "date" : "2024-05-05",
+      "source" : "The Times (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=Jm1DIbzS_2U",
+      "summary" : "Preview clip teasing her On Writing series and craft focus.",
+      "tags" : [
+        "writing",
+        "preview",
+        "official"
+      ]
+    },
     {
       "author" : "George R. R. Martin",
       "title" : "George R. R. Martin Still Uses A DOS Word Processor (CONAN)",
