@@ -208,6 +208,21 @@
       "url" : "https://www.reddit.com/r/harrypotter/comments/s2swfg/good_jk_rowling_interviews/"
     },
     {
+      "title" : "r/harrypotter: Unedited JK Rowling Interview on the Birth of Harry Potter (1998)",
+      "summary" : "Thread shares the unedited 1998 interview clip and points out the early-era context.",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/15tffqk/unedited_jk_rowling_interview_on_the_birth_of/"
+    },
+    {
+      "title" : "r/cormoran_strike: J.K. Rowling: 'I've got six more books in my head. Two more Strikes and 3 new stories'",
+      "summary" : "Strike readers highlight the interview quote about future books and discuss what it implies for the series.",
+      "url" : "https://www.reddit.com/r/cormoran_strike/comments/1cldgqn/jk_rowling_ive_got_six_more_books_in_my_head_two/"
+    },
+    {
+      "title" : "r/asoiaf: In an interview with The Hollywood Reporter, George R.R. Martin gives his opinion on a certain scene",
+      "summary" : "Thread links the Hollywood Reporter interview and debates his comments on the show adaptation.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/1qgwlhn/in_an_interview_with_the_hollywood_reporter/"
+    },
+    {
       "title" : "r/harrypotter: Anyone have a nice list of J.K. Rowling interviews?",
       "summary" : "Fans point to Accio Quote and share a few longform picks.",
       "url" : "https://www.reddit.com/r/harrypotter/comments/r2qlm/anyone_have_a_nice_list_of_jk_rowling_interviews/"
@@ -872,9 +887,60 @@
       "title" : "YouTube comments: J.K. Rowling 'The Casual Vacancy' Interview Excerpt (GMA)",
       "summary" : "Comments highlight her pivot to adult fiction and the talk-show framing of the shift.",
       "url" : "https://www.youtube.com/watch?v=h3FE_R2Vz8w"
+    },
+    {
+      "title" : "r/cormoran_strike: Robert Galbraith in conversation with Mark Billingham + Reading from Troubled Blood",
+      "summary" : "Commenters latch onto new-series hints: \"First hint about Book 6!\"",
+      "url" : "https://www.reddit.com/r/cormoran_strike/comments/j7og5z/robert_galbraith_in_conversation_with_mark/"
+    },
+    {
+      "title" : "r/asoiaf: (spoilers extended) yes it really did happen, here's the video for it",
+      "summary" : "Thread points to the Worldcon panel clip: \"Link to the OG … timestamp 2:09:23.\"",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/1msz40s/spoilers_extended_yes_it_really_did_happen_heres/"
+    },
+    {
+      "title" : "StrikeFans.com: Robert Galbraith in Conversation with Mark Billingham",
+      "summary" : "Fan recap highlights standout answers, including Rowling’s line: \"it’s not bravery unless you’re scared.\"",
+      "url" : "https://strikefans.com/robert-galbraith-in-conversation-with-mark-billingham/"
     }
   ],
   "factoids": [
+
+    {
+      "text" : "Robert Galbraith uploaded the Mark Billingham Troubled Blood conversation on 2020-10-08.",
+      "source" : "Robert Galbraith (YouTube) (2020-10-08)",
+      "url" : "https://www.youtube.com/watch?v=Ag2kU2u6wv0"
+    },
+    {
+      "text" : "Robert Galbraith posted a short Q&A about the next Strike novel on 2021-08-21.",
+      "source" : "Robert Galbraith (YouTube) (2021-08-21)",
+      "url" : "https://www.youtube.com/watch?v=szBY2vCKHyM"
+    },
+    {
+      "text" : "TIFF Rewind published a clip from Martin's 2012 TIFF Bell Lightbox conversation on 2026-01-15.",
+      "source" : "TIFF Rewind (YouTube) (2026-01-15)",
+      "url" : "https://www.youtube.com/watch?v=nmDBgsMetno"
+    },
+    {
+      "text" : "The Wall Street Journal's interview with George R.R. Martin about The World of Ice & Fire is dated 2014-10-30 in the YouTube listing.",
+      "source" : "The Wall Street Journal (YouTube) (2014-10-30)",
+      "url" : "https://www.youtube.com/watch?v=FBbHCGxmh2c"
+    },
+    {
+      "text" : "The Late Show clip "Earliest Inspiration Of All" featuring Martin is dated 2018-11-22 on YouTube.",
+      "source" : "CBS / The Late Show (YouTube) (2018-11-22)",
+      "url" : "https://www.youtube.com/watch?v=4RaehHesOTE"
+    },
+    {
+      "text" : "BBC News labels the 1997 clip of Rowling discussing the first Harry Potter book in shops as a 1997 archive segment.",
+      "source" : "BBC News (YouTube) (1997)",
+      "url" : "https://www.youtube.com/watch?v=zHb-CyXy4Sw"
+    },
+    {
+      "text" : "C-SPAN archived Rowling's testimony during the British phone-hacking inquiry on 2011-11-24.",
+      "source" : "C-SPAN (2011-11-24)",
+      "url" : "https://www.c-span.org/program/international-telecasts/british-phone-hacking-scandal-inquiry-jk-rowling-testimony/265976"
+    },
 
     {
       "text" : "Dominic Noble uploaded a Reginald's Book Club interview with Martin about Nine Princes in Amber on 2023-07-01.",
@@ -1192,6 +1258,60 @@
         "fan",
         "bookstore",
         "longform"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin on 'The World of Ice & Fire'",
+      "date" : "2014-10-30",
+      "source" : "The Wall Street Journal (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=FBbHCGxmh2c",
+      "summary" : "Wall Street Journal interview on The World of Ice & Fire, fantasy history, and the future of the series.",
+      "tags" : [
+        "interview",
+        "press",
+        "video"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Earliest Inspiration Of All (The Late Show clip)",
+      "date" : "2018-11-22",
+      "source" : "CBS / The Late Show (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=4RaehHesOTE",
+      "summary" : "Short Late Show clip where Martin recounts the earliest inspiration for his story.",
+      "tags" : [
+        "TV",
+        "clip",
+        "interview"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "What J.K. Rowling said about the first Harry Potter book (BBC News)",
+      "date" : "1997",
+      "source" : "BBC News (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=zHb-CyXy4Sw",
+      "summary" : "BBC News clip from 1997 about seeing the first Harry Potter book in shops and the early success.",
+      "tags" : [
+        "BBC",
+        "archive",
+        "TV",
+        "interview"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "British Phone-Hacking Scandal Inquiry: J.K. Rowling Testimony",
+      "date" : "2011-11-24",
+      "source" : "C-SPAN",
+      "url" : "https://www.c-span.org/program/international-telecasts/british-phone-hacking-scandal-inquiry-jk-rowling-testimony/265976",
+      "summary" : "Public testimony during the phone-hacking inquiry, covering press intrusion and privacy concerns.",
+      "tags" : [
+        "C-SPAN",
+        "public testimony",
+        "archive",
+        "UK"
       ]
     },
     {
@@ -8034,6 +8154,79 @@
             }
          ],
          "location" : ""
+      },
+      {
+         "id" : "evt-0244",
+         "author" : "George R. R. Martin",
+         "host" : "TIFF Bell Lightbox",
+         "summary" : "TIFF Rewind clip from Martin’s 2012 TIFF Bell Lightbox conversation about a chapter he refused to write.",
+         "date" : "2012",
+         "format" : "Festival conversation (clip)",
+         "outlet" : "TIFF Rewind (YouTube)",
+         "title" : "\"It was Painful\": George R. R. Martin on the Chapter He Refused to Write",
+         "tags" : [
+            "festival",
+            "interview",
+            "clip",
+            "writing"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=nmDBgsMetno",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "Toronto, ON"
+      },
+      {
+         "id" : "evt-0245",
+         "author" : "J.K. Rowling",
+         "host" : "Mark Billingham",
+         "summary" : "Rowling (as Robert Galbraith) reads from Troubled Blood and answers questions in a video hosted by crime writer Mark Billingham.",
+         "date" : "2020-10-08",
+         "format" : "Author interview / Q&A",
+         "outlet" : "Robert Galbraith (YouTube)",
+         "title" : "Robert Galbraith in conversation with Mark Billingham + Reading from Troubled Blood",
+         "tags" : [
+            "conversation",
+            "Q&A",
+            "Cormoran Strike",
+            "Robert Galbraith",
+            "reading"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=Ag2kU2u6wv0",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : "London (Duke of York pub)"
+      },
+      {
+         "id" : "evt-0246",
+         "author" : "J.K. Rowling",
+         "host" : "",
+         "summary" : "Short official Q&A clip teasing the next Strike novel.",
+         "date" : "2021-08-21",
+         "format" : "Video Q&A",
+         "outlet" : "Robert Galbraith (YouTube)",
+         "title" : "Robert Galbraith: What you can tell us about the next #Strike?",
+         "tags" : [
+            "Q&A",
+            "Cormoran Strike",
+            "Robert Galbraith",
+            "clip"
+         ],
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=szBY2vCKHyM",
+               "source" : "YouTube"
+            }
+         ],
+         "location" : ""
       }
   ],
   "collections": [
@@ -8131,6 +8324,49 @@
       "text" : "Rowling appears alongside Stephen Fry in the BBC special "Fantastic Beasts: A Natural History" discussing wizarding creatures and lore.",
       "source" : "BBC One (2022-02-27)",
       "url" : "https://www.youtube.com/watch?v=HIcQrUXwxO0"
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "\"It was Painful\": George R. R. Martin on the Chapter He Refused to Write",
+      "date" : "2012",
+      "source" : "TIFF Rewind (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=nmDBgsMetno",
+      "summary" : "TIFF Rewind clip from his 2012 TIFF Bell Lightbox conversation about a chapter he refused to write.",
+      "tags" : [
+        "festival",
+        "interview",
+        "clip",
+        "writing"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Robert Galbraith in conversation with Mark Billingham + Reading from Troubled Blood",
+      "date" : "2020-10-08",
+      "source" : "Robert Galbraith (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=Ag2kU2u6wv0",
+      "summary" : "Rowling (as Robert Galbraith) reads from Troubled Blood and answers fan questions with Mark Billingham.",
+      "tags" : [
+        "conversation",
+        "Q&A",
+        "Cormoran Strike",
+        "Robert Galbraith",
+        "reading"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Robert Galbraith: What you can tell us about the next #Strike?",
+      "date" : "2021-08-21",
+      "source" : "Robert Galbraith (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=szBY2vCKHyM",
+      "summary" : "Short official Q&A clip teasing the next Strike novel.",
+      "tags" : [
+        "Q&A",
+        "Cormoran Strike",
+        "Robert Galbraith",
+        "clip"
+      ]
     }
   ]
 }
