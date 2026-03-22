@@ -857,8 +857,25 @@
       "title" : "YouTube comments: Robert Galbraith NPR interview (Career of Evil)",
       "summary" : "Listeners note the rare audio-style interview and the Strike-series craft details.",
       "url" : "https://www.youtube.com/watch?v=gHPVrmWtoRY"
-    }  ],
+    },
+    {
+      "title" : "YouTube comments: George R.R. Martin's Game of Thrones: The Mad King (RSC interview)",
+      "summary" : "Commenters call out the stage-adaptation details and how candid Martin sounds about the play.",
+      "url" : "https://www.youtube.com/watch?v=xwBDEryzk8I"
+    },
+    {
+      "title" : "YouTube comments: Hollywood Reporter Interview Commentary (Clip)",
+      "summary" : "Viewers frame it as a quick adaptation update and trade favorite quotes in the replies.",
+      "url" : "https://www.youtube.com/watch?v=jke1KaPAxVo"
+    },
+    {
+      "title" : "YouTube comments: J.K. Rowling 'The Casual Vacancy' Interview Excerpt (GMA)",
+      "summary" : "Comments highlight her pivot to adult fiction and the talk-show framing of the shift.",
+      "url" : "https://www.youtube.com/watch?v=h3FE_R2Vz8w"
+    }
+  ],
   "factoids": [
+
     {
       "text" : "Dominic Noble uploaded a Reginald's Book Club interview with Martin about Nine Princes in Amber on 2023-07-01.",
       "source" : "Dominic Noble (YouTube) (2023-07-01)",
@@ -1144,9 +1161,25 @@
       "text" : "The YouTube upload title labels the Oldest George RR Martin Interview as 1991.",
       "source" : "YouTube",
       "url" : "https://www.youtube.com/watch?v=M1uYQLEPkjw"
+    },
+    {
+      "text" : "The YouTube listing for the RSC interview about the Game of Thrones stage adaptation is dated 2026-02-19.",
+      "source" : "Royal Shakespeare Company (YouTube) (2026-02-19)",
+      "url" : "https://www.youtube.com/watch?v=xwBDEryzk8I"
+    },
+    {
+      "text" : "The Good Morning America excerpt with Rowling about The Casual Vacancy is dated 2012-09-27 on YouTube.",
+      "source" : "ABC News / Good Morning America (YouTube) (2012-09-27)",
+      "url" : "https://www.youtube.com/watch?v=h3FE_R2Vz8w"
+    },
+    {
+      "text" : "The Hollywood Reporter interview commentary clip with Martin is dated 2026-01-16 on YouTube.",
+      "source" : "The Hollywood Reporter (YouTube) (2026-01-16)",
+      "url" : "https://www.youtube.com/watch?v=jke1KaPAxVo"
     }
   ],
   "entries": [
+
     {
       "author" : "George R. R. Martin",
       "title" : "Talking to George R.R. Martin About His Favorite Book",
@@ -2500,9 +2533,46 @@
       "url" : "https://www.youtube.com/watch?v=gHPVrmWtoRY",
       "summary" : "Radio interview (as Robert Galbraith) about the Strike series and Career of Evil.",
       "tags" : ["radio", "interview", "Cormoran Strike"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R. R. Martin's Game of Thrones: The Mad King (RSC / Play Interview)",
+      "date" : "2026-02-19",
+      "source" : "Royal Shakespeare Company (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=xwBDEryzk8I",
+      "summary" : "RSC interview clip covering the stage adaptation announcement and Martin's involvement.",
+      "tags" : ["interview", "theater", "adaptation", "clip"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Hollywood Reporter Interview Commentary (Clip)",
+      "date" : "2026-01-16",
+      "source" : "The Hollywood Reporter (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=jke1KaPAxVo",
+      "summary" : "Short Hollywood Reporter clip with Martin reacting to recent adaptations and projects.",
+      "tags" : ["interview", "press", "clip"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling 'The Casual Vacancy' Interview Excerpt (GMA)",
+      "date" : "2012-09-27",
+      "source" : "ABC News / Good Morning America (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=h3FE_R2Vz8w",
+      "summary" : "Good Morning America excerpt on The Casual Vacancy and her shift to adult fiction.",
+      "tags" : ["TV", "interview", "The Casual Vacancy"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling reads The Casual Vacancy live (Southbank Centre)",
+      "date" : "2012-09-27",
+      "source" : "Southbank Centre (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=XVEw_hsL7G0",
+      "summary" : "Launch reading and short on-stage remarks for The Casual Vacancy at Southbank Centre.",
+      "tags" : ["reading", "festival", "The Casual Vacancy"]
     }
   ],
   "events": [
+
       {
          "id" : "evt-0001",
          "host" : "",
