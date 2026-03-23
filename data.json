@@ -1039,6 +1039,21 @@
       "title" : "YouTube comments: George RR Martin on People Who hate his Books",
       "summary" : "Commenters quote his candid response to criticism and recommend it as a must-watch writing clip.",
       "url" : "https://www.youtube.com/watch?v=H_8kNvFcvEA"
+    },
+    {
+      "title" : "r/gameofthrones: Great George R.R. Martin Interview",
+      "summary" : "\"great interview\" — thread sharing a favorite GRRM sit-down and pointing newcomers to the link.",
+      "url" : "https://www.reddit.com/r/gameofthrones/comments/11hgdc/great_george_rr_martin_interview/"
+    },
+    {
+      "title" : "r/gameofthrones: New George RR Martin Interview",
+      "summary" : "\"new ... interview\" — fans discuss highlights and why it’s worth a watch.",
+      "url" : "https://www.reddit.com/r/gameofthrones/comments/v0a46/new_george_rr_martin_interview/"
+    },
+    {
+      "title" : "r/gameofthrones: [ALL SPOILERS] A great George R.R. Martin interview",
+      "summary" : "\"great interview\" — spoiler thread recommending a longform GRRM chat.",
+      "url" : "https://www.reddit.com/r/gameofthrones/comments/3tpldg/all_spoilers_a_great_george_rr_martin_interview/"
     }
 
   ],
@@ -1052,6 +1067,26 @@
       "text" : "C-SPAN aired Rowling appearance tied to Harry Potter and the Prisoner of Azkaban on 1999-10-20.",
       "source" : "C-SPAN (1999-10-20)",
       "url" : "https://www.c-span.org/program/book-tv/harry-potter-and-the-prisoner-of-azkaban/134878"
+    },
+    {
+      "text" : "The YouTube clip \"George RR Martin Says he will Kill Many More Important Characters\" is dated 2018-03-10.",
+      "source" : "YouTube (2018-03-10)",
+      "url" : "https://www.youtube.com/watch?v=ZWnw5wqqEfE"
+    },
+    {
+      "text" : "The YouTube clip \"George R.R. Martin on J.R.R. Tolkien and Cliché Fantasy\" is dated 2018-03-13.",
+      "source" : "YouTube (2018-03-13)",
+      "url" : "https://www.youtube.com/watch?v=u18fCuUDLiI"
+    },
+    {
+      "text" : "Rowling read \"The Tale of the Three Brothers\" for the Lumos Global Gala on 2021-10-01.",
+      "source" : "The Rowling Library (YouTube) (2021-10-01)",
+      "url" : "https://www.youtube.com/watch?v=pFv23l75W7U"
+    },
+    {
+      "text" : "Rowling's Channel 4 interview for the Lumos charity event at WB Studio Tour is dated 2013-11-10.",
+      "source" : "The Rowling Library (YouTube) (2013-11-10)",
+      "url" : "https://www.youtube.com/watch?v=tjGADw5qc70"
     },
     {
       "text" : "The YouTube upload \"George RR Martin Northwestern Graduation Speech 2021\" is dated 2021-06-21.",
@@ -3361,6 +3396,60 @@
       "url" : "https://www.youtube.com/watch?v=cmZLl6EeJMg",
       "summary" : "Early STV cafe interview at The Elephant House about the first book's success.",
       "tags" : ["TV", "interview", "archive"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George RR Martin Says he will Kill Many More Important Characters",
+      "date" : "2018-03-10",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=ZWnw5wqqEfE",
+      "summary" : "Clip where Martin discusses killing major characters and the stakes of the story.",
+      "tags" : ["clip", "interview", "writing"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin on J.R.R. Tolkien and Cliché Fantasy",
+      "date" : "2018-03-13",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=u18fCuUDLiI",
+      "summary" : "Short clip on Tolkien’s influence and the fantasy tropes Martin tries to avoid.",
+      "tags" : ["clip", "interview", "writing"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R. R. Martin on the Inspiration for the Wall",
+      "date" : "2018-03-20",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=bhpQwiz0Gq0",
+      "summary" : "Clip discussing the real-world inspiration behind The Wall.",
+      "tags" : ["clip", "interview", "worldbuilding"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George RR Martin on the George Bush Head in Game of Thrones",
+      "date" : "2018-03-28",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=qd9btOXKX3M",
+      "summary" : "Short clip on the George W. Bush head prop story from Game of Thrones.",
+      "tags" : ["clip", "interview", "behind-the-scenes"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling reads The Tale of the Three Brothers (Lumos Global Gala 2021)",
+      "date" : "2021-10-01",
+      "source" : "The Rowling Library (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=pFv23l75W7U",
+      "summary" : "Rowling reads \"The Tale of the Three Brothers\" for the Lumos Global Gala.",
+      "tags" : ["reading", "charity", "Lumos"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling's Channel 4 Interview for Lumos Charity Event at WB Studio Tour",
+      "date" : "2013-11-10",
+      "source" : "The Rowling Library (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=tjGADw5qc70",
+      "summary" : "Channel 4 interview tied to a Lumos charity event at the Warner Bros. Studio Tour.",
+      "tags" : ["TV", "interview", "charity", "Lumos"]
     }
   ],
   "events": [
