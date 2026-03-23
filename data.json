@@ -7,6 +7,22 @@
       "url" : "https://www.reddit.com/r/JKRowling/comments/xppwsm/i_wish_she_did_more_interviews/"
     },
     {
+      "title" : "r/asoiaf: (Spoilers Extended) Considering the Interview, Who Rules Winterfell?",
+      "summary" : "Thread debates a specific interview and what it implies for Winterfell succession.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/1qdtqlh/spoilers_extended_considering_the_interview_who/"
+    },
+    {
+      "title" : "r/asoiaf: I did an audio interview with George R.R. Martin and Christopher Paolini at SDCC",
+      "summary" : "OP shares an SDCC audio interview link; commenters compare highlights and audio quality.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/jzc5x/i_did_an_audio_interview_with_george_rr_martin/"
+    },
+    {
+      "title" : "A Forum of Ice and Fire: Maybe all the lies and secrets are the point",
+      "summary" : "Forum thread reacting to an interview quote about secrets, themes, and interpretation.",
+      "url" : "https://asoiaf.westeros.org/index.php?/topic/163824-maybe-all-the-lies-and-secrets-are-the-point/"
+    },
+    {
+
       "title" : "r/harrypotter: Any little known JK Rowling interviews or transcripts out there?",
       "summary" : "\"There are links to old interviews here\" — commenters point to the HP‑Lexicon archive.",
       "url" : "https://www.reddit.com/r/harrypotter/comments/bbso50/any_little_known_jk_rowling_interviews_or/"
@@ -1561,6 +1577,47 @@
     }
   ],
   "entries" : [
+    {
+      "author" : "George R. R. Martin",
+      "title" : "An Evening with George R. R. Martin and Publisher Tom Doherty",
+      "date" : "2014-10-23",
+      "source" : "Brown University Library (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=TB5AU_bCZJg",
+      "summary" : "Brown University Harris Collection award event featuring a longform interview with Martin and his editor Tom Doherty.",
+      "tags" : [
+        "university",
+        "conversation",
+        "publishing",
+        "longform"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling - Personal Interests & Writing The Casual Vacancy",
+      "date" : "2014-08-15",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=fwmZIZHKJGI",
+      "summary" : "Interview clip focused on her personal interests and the shift to writing The Casual Vacancy.",
+      "tags" : [
+        "interview",
+        "The Casual Vacancy",
+        "clip"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "The Women of Harry Potter",
+      "date" : "2014-08-15",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=_KzMA1SitnA",
+      "summary" : "Short interview feature highlighting the women of the Harry Potter series.",
+      "tags" : [
+        "feature",
+        "interview",
+        "Harry Potter",
+        "archive"
+      ]
+    },
     {
       "author" : "George R. R. Martin",
       "title" : "Author George R.R. Martin Interview at the Oxford Union (full video)",
