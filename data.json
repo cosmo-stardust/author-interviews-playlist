@@ -2,6 +2,21 @@
   "updated" : "2026-03-23",
   "bestOf": [
     {
+      "title" : "r/JKRowling: I wish she did more interviews.",
+      "summary" : "\"my personal favorite interview is the WaPo interview from 2008\" — commenter recommendation.",
+      "url" : "https://www.reddit.com/r/JKRowling/comments/xppwsm/i_wish_she_did_more_interviews/"
+    },
+    {
+      "title" : "r/harrypotter: Any little known JK Rowling interviews or transcripts out there?",
+      "summary" : "\"There are links to old interviews here\" — commenters point to the HP‑Lexicon archive.",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/bbso50/any_little_known_jk_rowling_interviews_or/"
+    },
+    {
+      "title" : "r/asoiaf: (No Spoilers) Best/most interesting interviews with George?",
+      "summary" : "Thread collects craft‑heavy picks and longform recommendations (Nerdist gets a nod).",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/3ff859/no_spoilers_bestmost_interesting_interviews_with/"
+    },
+    {
       "title" : "r/asoiaf: (Spoilers All) Best GRRM video interview?",
       "summary" : "For length I would suggest these two — commenters highlight longform video interviews as must-watch picks."",
       "url" : "https://www.reddit.com/r/asoiaf/comments/2rh7p3/spoilers_all_best_grrm_video_interview/"
@@ -1059,6 +1074,16 @@
   ],
   "factoids": [
     {
+      "text" : "BBC broadcast the documentary interview "Harry Potter and Me" on 2001-12-28.",
+      "source" : "BBC (2001-12-28)",
+      "url" : "https://www.youtube.com/watch?v=SrJiAG8GmnQ"
+    },
+    {
+      "text" : "Oxford Union2019s full interview with Martin is dated 2026-01-20 on YouTube.",
+      "source" : "Oxford Union (YouTube) (2026-01-20)",
+      "url" : "https://youtu.be/YbU5imNyDaU"
+    },
+    {
       "text" : "C-SPAN Book TV coverage of the Harry Potter book release aired on 2000-07-08.",
       "source" : "C-SPAN (2000-07-08)",
       "url" : "https://www.c-span.org/program/book-tv/harry-potter-book-release/174429"
@@ -1536,6 +1561,32 @@
     }
   ],
   "entries" : [
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Author George R.R. Martin Interview at the Oxford Union (full video)",
+      "date" : "2026-01-20",
+      "source" : "Oxford Union (YouTube)",
+      "url" : "https://youtu.be/YbU5imNyDaU",
+      "summary" : "Longform Oxford Union Q&A covering his career, ASOIAF, and adaptation questions.",
+      "tags" : [
+        "university",
+        "longform",
+        "best"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Unedited interview on the birth of Harry Potter (ITN Archive, Internet Archive)",
+      "date" : "1998-07-23",
+      "source" : "ITN Archive (Internet Archive)",
+      "url" : "https://archive.org/details/youtube-uTO9TUa797E",
+      "summary" : "Unedited raw interview footage from the Nicolson2019s Cafe session during the early Potter boom.",
+      "tags" : [
+        "TV",
+        "archive",
+        "interview"
+      ]
+    },
     {
       "author" : "George R. R. Martin",
       "title" : "Authors on Authors: George R.R. Martin interviews Josh Gad (Beastly Books)",
