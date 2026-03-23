@@ -2,6 +2,21 @@
   "updated" : "2026-03-23",
   "bestOf": [
     {
+      "title" : "PBS Chicago Tonight: George RR Martin Interview Part 2 (2021)",
+      "summary" : "\"continuation worth watching\" — Chicago Tonight viewers highlight the Northwestern honorary‑doctorate discussion in this follow‑up segment.",
+      "url" : "https://www.pbs.org/video/george-rr-martin-part-2-i71fxl/"
+    },
+    {
+      "title" : "PBS Finding Your Roots clip: George R. R. Martin — My Grandmother",
+      "summary" : "\"short but memorable\" — viewers highlight the family‑history reveal in the PBS clip.",
+      "url" : "https://www.pbs.org/video/george-r-r-martin-my-grandmother-wjjg5m/"
+    },
+    {
+      "title" : "BBC Radio 4 Bookclub: J.K. Rowling (Philosopher's Stone)",
+      "summary" : "\"reader questions drive the best answers\" — fans recommend the Bookclub session for its pure Q&A format.",
+      "url" : "https://www.bbc.co.uk/programmes/p00fpv7t"
+    },
+    {
       "title" : "HogwartsProfessor: Desert Island Discs Revisited (Rowling, 2000)",
       "summary" : "\"worth tracking down\" — fan blog notes the early‑era Desert Island Discs interview as one of her most candid longform audio talks.",
       "url" : "https://www.hogwartsprofessor.com/bbc4-desert-island-discs-revisited-joanne-rowling-interview-2000/"
@@ -20,6 +35,21 @@
       "title" : "r/JKRowling: I wish she did more interviews.",
       "summary" : "\"my personal favorite interview is the WaPo interview from 2008\" — commenter recommendation.",
       "url" : "https://www.reddit.com/r/JKRowling/comments/xppwsm/i_wish_she_did_more_interviews/"
+    },
+    {
+      "title" : "r/grrm: [Interview] Don't expect GRRM to change what has already happened in his books",
+      "summary" : "\"I don't like retcons\" — thread highlights a fresh interview quote about continuity and reboot skepticism.",
+      "url" : "https://www.reddit.com/r/grrm/comments/1ow4tbz/"
+    },
+    {
+      "title" : "r/JKRowling: Sunday Times bestseller list interview excerpt (2024)",
+      "summary" : "\"The first line I ever wrote...\" — fans point to this interview excerpt about early Potter drafts.",
+      "url" : "https://www.reddit.com/r/JKRowling/comments/1ezjkf3/"
+    },
+    {
+      "title" : "r/asoiaf: Interview with James Hibberd — Winds of Winter probably in the near future",
+      "summary" : "\"worth reading for the Hibberd excerpts\" — discussion of the GRRM quotes about Winds timing and reboot talk.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/mrj5v7/"
     },
     {
       "title" : "YouTube comments: Fantasy Then and Now (Worldcon 2025 panel)",
@@ -1135,6 +1165,16 @@
   ],
   "factoids": [
     {
+      "text" : "PBS Chicago Tonight released the George RR Martin Interview: Part 2 clip on 2021-06-16.",
+      "source" : "PBS / Chicago Tonight (2021-06-16)",
+      "url" : "https://www.pbs.org/video/george-rr-martin-part-2-i71fxl/"
+    },
+    {
+      "text" : "PBS Finding Your Roots posted the \"My Grandmother\" clip featuring Martin on 2019-01-08.",
+      "source" : "PBS Finding Your Roots (2019-01-08)",
+      "url" : "https://www.pbs.org/video/george-r-r-martin-my-grandmother-wjjg5m/"
+    },
+    {
       "text" : "BBC Radio 4’s Front Row aired a 49‑minute extended interview with Rowling on 2012-09-27.",
       "source" : "BBC Radio 4 / Front Row (2012-09-27)",
       "url" : "https://www.bbc.co.uk/programmes/p00z2vcn"
@@ -1663,6 +1703,61 @@
     }
   ],
   "entries" : [
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George RR Martin Interview: Part 2 (Chicago Tonight)",
+      "date" : "2021-06-16",
+      "source" : "PBS / Chicago Tonight",
+      "url" : "https://www.pbs.org/video/george-rr-martin-part-2-i71fxl/",
+      "summary" : "Follow-up Chicago Tonight segment tied to his Northwestern honorary doctorate and writing reflections.",
+      "tags" : [
+        "TV",
+        "PBS",
+        "interview"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Finding Your Roots: My Grandmother (clip)",
+      "date" : "2019-01-08",
+      "source" : "PBS Finding Your Roots",
+      "url" : "https://www.pbs.org/video/george-r-r-martin-my-grandmother-wjjg5m/",
+      "summary" : "PBS clip where Henry Louis Gates Jr. helps Martin explore a family-history mystery.",
+      "tags" : [
+        "PBS",
+        "interview",
+        "clip",
+        "family-history"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "BBC Radio 4 Bookclub — Philosopher's Stone",
+      "date" : "1999-08-01",
+      "source" : "BBC Radio 4 Bookclub",
+      "url" : "https://www.bbc.co.uk/programmes/p00fpv7t",
+      "summary" : "BBC Bookclub session with reader questions about Philosopher's Stone.",
+      "tags" : [
+        "radio",
+        "BBC",
+        "interview",
+        "readers"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Living with Harry Potter (BBC Radio 4)",
+      "date" : "2005-12-10",
+      "source" : "BBC Radio 4",
+      "url" : "https://www.bbc.co.uk/programmes/b0076w0r",
+      "summary" : "Stephen Fry–hosted BBC Radio 4 special reflecting on the series and early fame.",
+      "tags" : [
+        "radio",
+        "BBC",
+        "interview",
+        "archive"
+      ]
+    },
     {
       "author" : "J.K. Rowling",
       "title" : "JK Rowling — Extended Interview with Mark Lawson (Front Row)",
