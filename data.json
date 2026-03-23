@@ -1,5 +1,5 @@
 {
-  "updated" : "2026-03-22",
+  "updated" : "2026-03-23",
   "bestOf": [
     {
       "title" : "YouTube comments: Talking to George R.R. Martin About His Favorite Book",
@@ -979,6 +979,22 @@
       "summary" : "\"I don't think ... gonna be that different\" — discussion thread dissecting his 60 Minutes quote.",
       "url" : "https://www.reddit.com/r/asoiaf/comments/bdhgrr/spoilers_extended_george_rr_martin_i_dont_think/"
     }
+,
+    {
+      "title" : "YouTube comments: JK Rowling interviewed for Comic Relief",
+      "summary" : "Commenters praise the kid-led Q&A and call the charity-book discussion a sweet time capsule.",
+      "url" : "https://www.youtube.com/watch?v=v6ymvBa7Gbc"
+    },
+    {
+      "title" : "YouTube comments: George R. R. Martin on Sothoryos",
+      "summary" : "Viewers highlight the quick lore dump and his off-the-cuff worldbuilding answers.",
+      "url" : "https://www.youtube.com/watch?v=DcfeygptQ2M"
+    },
+    {
+      "title" : "YouTube comments: George RR Martin on People Who hate his Books",
+      "summary" : "Commenters quote his candid response to criticism and recommend it as a must-watch writing clip.",
+      "url" : "https://www.youtube.com/watch?v=H_8kNvFcvEA"
+    }
 
   ],
   "factoids": [
@@ -1381,8 +1397,65 @@
       "source" : "YouTube (2018-03-04)",
       "url" : "https://www.youtube.com/watch?v=zZVocW12twg"
     }
+    ,
+    {
+      "text" : "The YouTube upload titled \"George R. R. Martin on Sothoryos\" is dated 2018-03-05.",
+      "source" : "YouTube (2018-03-05)",
+      "url" : "https://www.youtube.com/watch?v=DcfeygptQ2M"
+    },
+    {
+      "text" : "The YouTube upload titled \"George RR Martin on People Who hate his Books\" is dated 2018-03-12.",
+      "source" : "YouTube (2018-03-12)",
+      "url" : "https://www.youtube.com/watch?v=H_8kNvFcvEA"
+    },
+    {
+      "text" : "The Comic Relief interview clip with Rowling is labeled as a 2001 segment in the YouTube listing.",
+      "source" : "Comic Relief (YouTube) (2001)",
+      "url" : "https://www.youtube.com/watch?v=v6ymvBa7Gbc"
+    }
   ],
   "entries": [
+
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R. R. Martin on Sothoryos",
+      "date" : "2018-03-05",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=DcfeygptQ2M",
+      "summary" : "Short clip where Martin answers a lore question about Sothoryos and the edges of his world.",
+      "tags" : [
+        "clip",
+        "interview",
+        "lore"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George RR Martin on People Who hate his Books",
+      "date" : "2018-03-12",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=H_8kNvFcvEA",
+      "summary" : "Short interview clip responding to criticism and reader backlash, with a candid take on fan reactions.",
+      "tags" : [
+        "clip",
+        "interview",
+        "writing"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "JK Rowling interviewed for Comic Relief",
+      "date" : "2001",
+      "source" : "Comic Relief (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=v6ymvBa7Gbc",
+      "summary" : "Comic Relief sit-down with a 10-year-old fan about the charity companion books and early Potter success.",
+      "tags" : [
+        "TV",
+        "interview",
+        "charity",
+        "archive"
+      ]
+    },
 
     {
       "author" : "George R. R. Martin",
