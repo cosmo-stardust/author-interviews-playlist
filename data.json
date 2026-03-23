@@ -2,6 +2,22 @@
   "updated" : "2026-03-23",
   "bestOf": [
     {
+      "title" : "The Rowling Library: Adeel Amini interview (2008)",
+      "summary" : "\"rare student-era sit-down\" — fan community highlight preserving a hard-to-find university interview.",
+      "url" : "https://www.therowlinglibrary.com/2024/08/28/the-adeel-amini-interview-with-j-k-rowling-2008/"
+    },
+    {
+      "title" : "The Rowling Library: Rowling on philanthropy and Volant (Sunday Times recap)",
+      "summary" : "\"worth the read for the Volant focus\" — fan community highlights her explanation of charitable priorities.",
+      "url" : "https://www.therowlinglibrary.com/2025/05/18/j-k-rowling-speaks-out-on-her-philanthropy-and-the-causes-close-to-hear-heart/"
+    },
+    {
+      "title" : "Sidequesting.com: Random Battle interview with George R.R. Martin",
+      "summary" : "\"short but revealing\" — community interview about influences and adaptation-era writing habits.",
+      "url" : "http://www.sidequesting.com/2012/02/random-battle-george-rr-martin-interview/"
+    },
+
+    {
       "title" : "PBS Chicago Tonight: George RR Martin Interview Part 2 (2021)",
       "summary" : "\"continuation worth watching\" — Chicago Tonight viewers highlight the Northwestern honorary‑doctorate discussion in this follow‑up segment.",
       "url" : "https://www.pbs.org/video/george-rr-martin-part-2-i71fxl/"
@@ -1175,10 +1191,52 @@
       "title" : "YouTube comments: A Conversation with J.K. Rowling & Daniel Radcliffe",
       "summary" : "\"their rapport is the highlight\" — commenters point to the on‑stage chemistry and film‑era reflections.",
       "url" : "https://www.youtube.com/watch?v=JKYZoLw1EYs"
+    },
+    {
+      "title" : "MuggleNet: Exclusive 2005 Interview (fan community highlight)",
+      "summary" : "\"one of the most in-depth interviews examining all things Potter\" — fan community write‑up of the 2005 sit‑down.",
+      "url" : "https://mugglenet.com/muggle-world-j-k-rowling/jkr-interview-mugglenet-leaky-cauldron/"
+    },
+    {
+      "title" : "The Leaky Cauldron: J.K. Rowling Interview (Part One)",
+      "summary" : "\"Harry Potter and the Half‑Blood Prince publication day\" — fan community hub for the 2005 interview transcript.",
+      "url" : "https://www.the-leaky-cauldron.org/2007/09/10/jkr1/"
+    },
+    {
+      "title" : "The Leaky Cauldron: J.K. Rowling Interview (Part Two)",
+      "summary" : "\"WARNING: The entirety of this interview is colored by book six\" — fan community highlights and transcript section.",
+      "url" : "https://www.the-leaky-cauldron.org/2007/09/10/jkr2/"
     }
 
   ],
   "factoids": [
+    {
+      "text" : "The MuggleNet/Leaky Cauldron exclusive interview with Rowling took place on 2005-07-16, the day Half-Blood Prince was released.",
+      "source" : "MuggleNet (2005-07-16)",
+      "url" : "https://mugglenet.com/muggle-world-j-k-rowling/jkr-interview-mugglenet-leaky-cauldron/"
+    },
+    {
+      "text" : "In the 2011 ArtsBeat interview, Martin said he was still finishing the last few chapters of A Dance with Dragons.",
+      "source" : "The New York Times ArtsBeat (2011-04-01)",
+      "url" : "https://archive.nytimes.com/artsbeat.blogs.nytimes.com/2011/04/01/his-beautiful-dark-twisted-fantasy-george-r-r-martin-talks-game-of-thrones/"
+    },
+    {
+      "text" : "The Independent interview notes Martin was guest of honor at the Neuchâtel International Film Festival and introduced a screening of Psycho.",
+      "source" : "The Independent (2014-08)",
+      "url" : "https://www.the-independent.com/arts-entertainment/books/features/song-of-ice-and-fire-author-george-rr-martin-on-success-chess-and-the-wrath-of-superfans-9652448.html"
+    },
+
+    {
+      "text" : "HitFix ran a quick on-location interview with Martin at the Game of Thrones food truck on 2011-04-10.",
+      "source" : "HitFix (2011-04-10)",
+      "url" : "http://www.hitfix.com/blogs/the-fien-print/posts/hitfix-interview-a-few-minutes-with-george-r-r-martin-at-the-game-of-thrones-food-truck"
+    },
+    {
+      "text" : "The Adeel Amini student interview with Rowling was conducted in 2008 and later preserved by The Rowling Library.",
+      "source" : "The Rowling Library (2024-08-28)",
+      "url" : "https://www.therowlinglibrary.com/2024/08/28/the-adeel-amini-interview-with-j-k-rowling-2008/"
+    },
+
     {
       "text" : "PBS Chicago Tonight released the George RR Martin Interview: Part 2 clip on 2021-06-16.",
       "source" : "PBS / Chicago Tonight (2021-06-16)",
@@ -1718,6 +1776,153 @@
     }
   ],
   "entries" : [
+    {
+      "author" : "J.K. Rowling",
+      "title" : "MuggleNet & The Leaky Cauldron exclusive interview",
+      "date" : "2005-07-16",
+      "source" : "MuggleNet / The Leaky Cauldron",
+      "url" : "https://mugglenet.com/muggle-world-j-k-rowling/jkr-interview-mugglenet-leaky-cauldron/",
+      "summary" : "Fan-site exclusive conducted in Edinburgh on Half-Blood Prince release day, covering canon, writing process, and reader questions.",
+      "tags" : [
+        "interview",
+        "text",
+        "fan",
+        "Harry Potter"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "His Beautiful Dark Twisted Fantasy: George R. R. Martin Talks Game of Thrones",
+      "date" : "2011-04-01",
+      "source" : "The New York Times ArtsBeat",
+      "url" : "https://archive.nytimes.com/artsbeat.blogs.nytimes.com/2011/04/01/his-beautiful-dark-twisted-fantasy-george-r-r-martin-talks-game-of-thrones/",
+      "summary" : "ArtsBeat interview on the HBO adaptation, his TV writing past, and finishing A Dance with Dragons.",
+      "tags" : [
+        "interview",
+        "text",
+        "press",
+        "Game of Thrones"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Song of Ice and Fire author George RR Martin on success, chess and the wrath of superfans",
+      "date" : "2014-08",
+      "source" : "The Independent",
+      "url" : "https://www.the-independent.com/arts-entertainment/books/features/song-of-ice-and-fire-author-george-rr-martin-on-success-chess-and-the-wrath-of-superfans-9652448.html",
+      "summary" : "Festival-week interview from Neuchâtel covering fandom, film influences, and his career path.",
+      "tags" : [
+        "interview",
+        "text",
+        "press",
+        "festival"
+      ]
+    },
+
+    {
+      "author" : "George R. R. Martin",
+      "title" : "An Evening with George R. R. Martin (Chicago Humanities Festival)",
+      "date" : "2019-11-12",
+      "source" : "Chicago Humanities Festival (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=IfIpY0eEA84",
+      "summary" : "Chicago Humanities Festival on-stage interview covering writing, fandom, and Game of Thrones reflections.",
+      "tags" : [
+        "festival",
+        "longform",
+        "interview"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "GRRM interview with John Picacio in Redwood City at the Fox Theater",
+      "date" : "2018-08-14",
+      "source" : "Fox Theater (Redwood City) / YouTube",
+      "url" : "https://www.youtube.com/watch?v=ThdsQtp1Sxw",
+      "summary" : "On-stage interview with illustrator John Picacio at the Fox Theater in Redwood City.",
+      "tags" : [
+        "interview",
+        "event"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling announces The Ickabog (ITV News)",
+      "date" : "2020-05-26",
+      "source" : "ITV News (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=dJP5nBJjC9A",
+      "summary" : "ITV News segment on Rowling releasing The Ickabog for kids during lockdown.",
+      "tags" : [
+        "TV",
+        "news",
+        "The Ickabog"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "CNN raw footage interview (train tour) — Part 1",
+      "date" : "2000-07-08",
+      "source" : "CNN / YouTube",
+      "url" : "https://www.youtube.com/watch?v=dwKFxxMFMJ8",
+      "summary" : "First part of raw CNN train-tour interview footage recorded on July 8th, 2000.",
+      "tags" : [
+        "archive",
+        "interview",
+        "train tour"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "HitFix interview: A few minutes with George R.R. Martin at the Game of Thrones food truck",
+      "date" : "2011-04-10",
+      "source" : "HitFix",
+      "url" : "http://www.hitfix.com/blogs/the-fien-print/posts/hitfix-interview-a-few-minutes-with-george-r-r-martin-at-the-game-of-thrones-food-truck",
+      "summary" : "Short Q&A from the early Game of Thrones publicity tour, focused on the series launch and his writing routine.",
+      "tags" : [
+        "interview",
+        "press",
+        "text"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Sidequesting.com interview (Random Battle)",
+      "date" : "2012-02",
+      "source" : "Sidequesting.com",
+      "url" : "http://www.sidequesting.com/2012/02/random-battle-george-rr-martin-interview/",
+      "summary" : "Interview covering influences, writing habits, and the early TV adaptation buzz.",
+      "tags" : [
+        "interview",
+        "text",
+        "writing"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "The Adeel Amini interview (University of Edinburgh, 2008)",
+      "date" : "2008",
+      "source" : "The Rowling Library (Adeel Amini interview)",
+      "url" : "https://www.therowlinglibrary.com/2024/08/28/the-adeel-amini-interview-with-j-k-rowling-2008/",
+      "summary" : "Rowling Library post preserving a 2008 student interview from the University of Edinburgh newspaper.",
+      "tags" : [
+        "interview",
+        "text",
+        "archive"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Sunday Times interview on philanthropy and Volant",
+      "date" : "2025-05-18",
+      "source" : "The Sunday Times (via The Rowling Library)",
+      "url" : "https://www.therowlinglibrary.com/2025/05/18/j-k-rowling-speaks-out-on-her-philanthropy-and-the-causes-close-to-hear-heart/",
+      "summary" : "Rowling discusses her philanthropic focus and the causes supported by her Volant trust.",
+      "tags" : [
+        "interview",
+        "text",
+        "philanthropy"
+      ]
+    },
+
     {
       "author" : "George R. R. Martin",
       "title" : "George RR Martin Interview: Part 2 (Chicago Tonight)",
