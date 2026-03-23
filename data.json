@@ -2,9 +2,39 @@
   "updated" : "2026-03-23",
   "bestOf": [
     {
+      "title" : "r/asoiaf: (Spoilers All) Best GRRM video interview?",
+      "summary" : "For length I would suggest these two — commenters highlight longform video interviews as must-watch picks."",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/2rh7p3/spoilers_all_best_grrm_video_interview/"
+    },
+    {
+      "title" : "r/harrypotter: Good JK Rowling interviews?",
+      "summary" : "Thread asks for the strongest interviews; commenters trade favorites and why they stand out.",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/s2swfg/good_jk_rowling_interviews/"
+    },
+    {
+      "title" : "r/harrypotter: Best JK interviews?",
+      "summary" : "I quite like the one she gave for The Leaky Cauldron — recommendations focused on longform Q&As."",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/9azppa/best_jk_interviews/"
+    },
+    {
       "title" : "YouTube comments: Talking to George R.R. Martin About His Favorite Book",
       "summary" : "Commenters highlight the Zelazny/Amber deep-dive and the rare bookstore-style chat.",
       "url" : "https://www.youtube.com/watch?v=V56WRApNUzM"
+    },
+    {
+      "title" : "StrikeFans.com: Robert Galbraith Interview With Graham Norton (BBC Radio 2)",
+      "summary" : ""only a small handful of Strike-focused interviews" - fan recap explains why the audio is worth tracking down.",
+      "url" : "https://strikefans.com/robert-galbraiths-interview-with-graham-norton-bbc-radio-2/"
+    },
+    {
+      "title" : "StrikeFans.com: Robert Galbraith on the Graham Norton Podcast (Lethal White)",
+      "summary" : ""On 6th October 2018" - fans flag the rare longform Strike chat as essential listening.",
+      "url" : "https://strikefans.com/robert-galbraith-on-the-graham-norton-podcast-lethal-white-interview/"
+    },
+    {
+      "title" : "WinterIsComing.net: The George R.R. Martin interview on fandom, writing, and work beyond Westeros",
+      "summary" : ""exclusive, in-depth discussion" - fan community highlight recommending the longform chat.",
+      "url" : "https://winteriscoming.net/posts/the-george-r-r-martin-interview-on-fandom-writing-and-his-work-beyond-westeros-exclusive-01j7snre072g"
     },
     {
       "title" : "YouTube comments: Living with Harry Potter (Stephen Fry interview)",
@@ -998,6 +1028,32 @@
 
   ],
   "factoids": [
+    {
+      "text" : "C-SPAN Book TV coverage of the Harry Potter book release aired on 2000-07-08.",
+      "source" : "C-SPAN (2000-07-08)",
+      "url" : "https://www.c-span.org/program/book-tv/harry-potter-book-release/174429"
+    },
+    {
+      "text" : "C-SPAN aired Rowling appearance tied to Harry Potter and the Prisoner of Azkaban on 1999-10-20.",
+      "source" : "C-SPAN (1999-10-20)",
+      "url" : "https://www.c-span.org/program/book-tv/harry-potter-and-the-prisoner-of-azkaban/134878"
+    },
+    {
+      "text" : "The YouTube upload \"George RR Martin Northwestern Graduation Speech 2021\" is dated 2021-06-21.",
+      "source" : "YouTube (2021-06-21)",
+      "url" : "https://www.youtube.com/watch?v=QRbKkKtjeYo"
+    },
+    {
+      "text" : "The YouTube upload \"George R.R. Martin: The Show Wont Influence the Books\" is dated 2019-05-14.",
+      "source" : "YouTube (2019-05-14)",
+      "url" : "https://www.youtube.com/watch?v=oX2p66j_pXA"
+    },
+    {
+      "text" : "The YouTube upload \"Robert Galbraith on The Graham Norton Podcast | Lethal White Interview\" is dated 2022-10-28.",
+      "source" : "Graham Norton Podcast (YouTube) (2022-10-28)",
+      "url" : "https://www.youtube.com/watch?v=Af1fpfyXvLE"
+    },
+
 
     {
       "text" : "CBS News published a 60 Minutes clip about the Red Wedding on 2019-06-16.",
@@ -1414,7 +1470,113 @@
       "url" : "https://www.youtube.com/watch?v=v6ymvBa7Gbc"
     }
   ],
-  "entries": [
+  "entries" : [
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Authors on Authors: George R.R. Martin interviews Josh Gad (Beastly Books)",
+      "date" : "2024-09-18",
+      "source" : "Patreon / Authors on Authors",
+      "url" : "https://www.patreon.com/posts/authors-on-josh-113234802",
+      "summary" : "Santa Fe sit-down recorded at the Jean Cocteau for Josh Gad Pictureface Lizzy tour stop.",
+      "tags" : [
+        "conversation",
+        "book-event",
+        "video"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Harry Potter Book Release (C-SPAN Book TV)",
+      "date" : "2000-07-08",
+      "source" : "C-SPAN Book TV",
+      "url" : "https://www.c-span.org/program/book-tv/harry-potter-book-release/174429",
+      "summary" : "Book TV coverage of the Harry Potter book release event featuring Rowling.",
+      "tags" : [
+        "book-release",
+        "archive",
+        "C-SPAN"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Harry Potter Book Release (C-SPAN Public Affairs Event)",
+      "date" : "2000-07-08",
+      "source" : "C-SPAN",
+      "url" : "https://www.c-span.org/program/public-affairs-event/harry-potter-book-release/139566",
+      "summary" : "Public affairs event coverage from the Harry Potter book release night.",
+      "tags" : [
+        "book-release",
+        "archive",
+        "C-SPAN"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Harry Potter and the Prisoner of Azkaban (C-SPAN Book TV)",
+      "date" : "1999-10-20",
+      "source" : "C-SPAN Book TV",
+      "url" : "https://www.c-span.org/program/book-tv/harry-potter-and-the-prisoner-of-azkaban/134878",
+      "summary" : "Festival appearance and Q&A tied to Prisoner of Azkaban, recorded for Book TV.",
+      "tags" : [
+        "festival",
+        "archive",
+        "C-SPAN"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin Northwestern Graduation Speech",
+      "date" : "2021-06-21",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=QRbKkKtjeYo",
+      "summary" : "Commencement-style speech to Northwestern graduates, with reflections on storytelling and persistence.",
+      "tags" : [
+        "speech",
+        "university",
+        "video"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin: The Show Wont Influence the Books",
+      "date" : "2019-05-14",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=oX2p66j_pXA",
+      "summary" : "Interview clip about keeping the novels direction separate from the TV adaptation.",
+      "tags" : [
+        "clip",
+        "interview",
+        "adaptation"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Robert Galbraith on The Graham Norton Podcast (Lethal White)",
+      "date" : "2022-10-28",
+      "source" : "Graham Norton Podcast (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=Af1fpfyXvLE",
+      "summary" : "Podcast interview about Lethal White and the Cormoran Strike series (uploaded as a video).",
+      "tags" : [
+        "podcast",
+        "interview",
+        "Cormoran Strike",
+        "Robert Galbraith"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling: Writing for Adults (clip)",
+      "date" : "2012",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=zl5rMBt4uig",
+      "summary" : "Clip about shifting from Harry Potter to adult fiction during The Casual Vacancy era.",
+      "tags" : [
+        "clip",
+        "interview",
+        "The Casual Vacancy"
+      ]
+    },
+
 
     {
       "author" : "George R. R. Martin",
