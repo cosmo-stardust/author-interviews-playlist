@@ -17,6 +17,21 @@
       "url" : "https://www.youtube.com/watch?v=Jm1DIbzS_2U"
     },
     {
+      "title" : "YouTube comments: J.K. Rowling: On Writing - Part One",
+      "summary" : "Commenters focus on her early influences and notes on building stories.",
+      "url" : "https://www.youtube.com/watch?v=3uLa3WKXwLg"
+    },
+    {
+      "title" : "YouTube comments: J.K. Rowling: On Writing - Part Two",
+      "summary" : "Viewers call out her practical process notes and habit talk.",
+      "url" : "https://www.youtube.com/watch?v=vFntT7G4e_g"
+    },
+    {
+      "title" : "YouTube comments: Official Game of Thrones Podcast interview with George R.R. Martin",
+      "summary" : "Fans point to the behind-the-scenes takeaways and pre-House of the Dragon context.",
+      "url" : "https://www.youtube.com/watch?v=AEheZ7lFW9s"
+    },
+    {
       "title" : "HP-Lexicon: Interviews archive",
       "summary" : "Fan-maintained index of Rowling interviews used to track down classic Q&A sources.",
       "url" : "https://www.hp-lexicon.org/source/interviews/"
@@ -902,7 +917,39 @@
       "title" : "StrikeFans.com: Robert Galbraith in Conversation with Mark Billingham",
       "summary" : "Fan recap highlights standout answers, including Rowling’s line: \"it’s not bravery unless you’re scared.\"",
       "url" : "https://strikefans.com/robert-galbraith-in-conversation-with-mark-billingham/"
+    },
+    {
+      "title" : "r/asoiaf: 2011 interview note on Robert and the Lady dispute",
+      "summary" : "Quote highlight: Robert doesn't like that kind of conflict; he likes conflict he can win with a warhammer.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/1568gan/spoilers_extended_in_a_2011_interview_george_rr/"
+    },
+    {
+      "title" : "r/cormoran_strike: JK speaks briefly about Strike and Robin's relationship",
+      "summary" : "Fans call for the full clip, asking for the entire interview unedited.",
+      "url" : "https://www.reddit.com/r/cormoran_strike/comments/1pc1de6/jk_speaks_briefly_about_strike_and_robins/"
+    },
+    {
+      "title" : "MuggleNet: 'Potter' author J.K. Rowling interviewed on Charlie Rose",
+      "summary" : "Fan community post calls it lots of new information and points to the longform sit-down.",
+      "url" : "https://www.mugglenet.com/2012/10/potter-author-j-k-rowling-interviewed-on-charlie-rose-reveals-lots-of-new-information/"
     }
+,
+    {
+      "title" : "r/asoiaf: (Spoilers All) A Scary Quote from the Best Interview with GRRM",
+      "summary" : "Thread pulls a chilling excerpt from the Observation Deck interview and argues it’s worth reading in full.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/2plv7v/spoilers_all_a_scary_quote_from_the_best/"
+    },
+    {
+      "title" : "r/harrypotter: J.K. Rowling on writing ‘Harry Potter’ — Chapter 9 nearly finished me",
+      "summary" : "Fans highlight her interview quote about rewriting Goblet of Fire Chapter 9 and link the source.",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/8m44p8/jk_rowling_on_writing_harry_potter_chapter_9_of/"
+    },
+    {
+      "title" : "The Rowling Library: 2004 J.K. Rowling at the Edinburgh Book Festival",
+      "summary" : "Fan-site recap highlights the 2004 festival Q&A and points to the transcript source.",
+      "url" : "https://www.therowlinglibrary.com/2016/11/07/2004-j-k-rowling-at-the-edinburgh-book-festival/"
+    }
+
   ],
   "factoids": [
 
@@ -915,6 +962,26 @@
       "text" : "Robert Galbraith posted a short Q&A about the next Strike novel on 2021-08-21.",
       "source" : "Robert Galbraith (YouTube) (2021-08-21)",
       "url" : "https://www.youtube.com/watch?v=szBY2vCKHyM"
+    },
+    {
+      "text" : "J.K. Rowling uploaded On Writing - Part One on 2024-05-06.",
+      "source" : "J.K. Rowling (YouTube) (2024-05-06)",
+      "url" : "https://www.youtube.com/watch?v=3uLa3WKXwLg"
+    },
+    {
+      "text" : "J.K. Rowling uploaded On Writing - Part Three on 2024-05-08.",
+      "source" : "J.K. Rowling (YouTube) (2024-05-08)",
+      "url" : "https://www.youtube.com/watch?v=-2eZ6gmHgf8"
+    },
+    {
+      "text" : "NBC's Late Night with Seth Meyers clip Game of Thrones Author George R.R. Martin Has Observant Fans is dated 2014-10-29.",
+      "source" : "NBC / Late Night with Seth Meyers (2014-10-29)",
+      "url" : "https://www.nbc.com/late-night-with-seth-meyers/video/game-of-thrones-author-george-rr-martin-has-observant-fans/2822811"
+    },
+    {
+      "text" : "The Graham Norton Show upload of Rowling's Ink Black Heart interview is dated 2022-08-27.",
+      "source" : "The Graham Norton Show (YouTube) (2022-08-27)",
+      "url" : "https://www.youtube.com/watch?v=HdKPOwCR_sg"
     },
     {
       "text" : "TIFF Rewind published a clip from Martin's 2012 TIFF Bell Lightbox conversation on 2026-01-15.",
@@ -1262,6 +1329,20 @@
     },
     {
       "author" : "George R. R. Martin",
+      "title" : "An Interview with George R.R. Martin | Official Game of Thrones Podcast (Episode 3)",
+      "date" : "2022-08-17",
+      "source" : "HBO / Official Game of Thrones Podcast (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=AEheZ7lFW9s",
+      "summary" : "Official Game of Thrones Podcast episode featuring an interview with Martin ahead of House of the Dragon, hosted by Greta Johnsen and Jason Concepcion.",
+      "tags" : [
+        "interview",
+        "podcast",
+        "HBO",
+        "video"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
       "title" : "George R.R. Martin on 'The World of Ice & Fire'",
       "date" : "2014-10-30",
       "source" : "The Wall Street Journal (YouTube)",
@@ -1352,6 +1433,48 @@
         "writing",
         "preview",
         "official"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling: On Writing - Part One",
+      "date" : "2024-05-06",
+      "source" : "J.K. Rowling (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=3uLa3WKXwLg",
+      "summary" : "Part one of her On Writing series, covering early influences and the craft of building stories.",
+      "tags" : [
+        "interview",
+        "writing",
+        "video",
+        "series"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling: On Writing - Part Two",
+      "date" : "2024-05-07",
+      "source" : "J.K. Rowling (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=vFntT7G4e_g",
+      "summary" : "Part two of the On Writing series, continuing her discussion of process and practice.",
+      "tags" : [
+        "interview",
+        "writing",
+        "video",
+        "series"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling: On Writing - Part Three",
+      "date" : "2024-05-08",
+      "source" : "J.K. Rowling (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=-2eZ6gmHgf8",
+      "summary" : "Part three closes the On Writing series with additional craft and career reflections.",
+      "tags" : [
+        "interview",
+        "writing",
+        "video",
+        "series"
       ]
     },
     {
@@ -2689,6 +2812,42 @@
       "url" : "https://www.youtube.com/watch?v=XVEw_hsL7G0",
       "summary" : "Launch reading and short on-stage remarks for The Casual Vacancy at Southbank Centre.",
       "tags" : ["reading", "festival", "The Casual Vacancy"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Game of Thrones Author George R.R. Martin Has Observant Fans",
+      "date" : "2014-10-29",
+      "source" : "NBC / Late Night with Seth Meyers",
+      "url" : "https://www.nbc.com/late-night-with-seth-meyers/video/game-of-thrones-author-george-rr-martin-has-observant-fans/2822811",
+      "summary" : "Late Night clip where Martin and Seth Meyers joke about hyper‑observant fans and show details.",
+      "tags" : ["TV", "interview", "clip"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin on the Status of His New Book 'The Winds of Winter'",
+      "date" : "2025-04-14",
+      "source" : "YouTube Shorts",
+      "url" : "https://www.youtube.com/shorts/9WxPeoi1Gz4",
+      "summary" : "Short interview clip focused on Winds of Winter progress.",
+      "tags" : ["clip", "writing", "updates"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Harry Potter - Interview with J.K. Rowling on the Films, Casting & Life After the Series",
+      "date" : "2012",
+      "source" : "Charlie Rose (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=z7KbRnUXXLU",
+      "summary" : "Longform sit‑down about the Harry Potter films, casting, and life after the series.",
+      "tags" : ["TV", "interview", "Harry Potter"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling with Graham Norton: The Ink Black Heart",
+      "date" : "2022-08-27",
+      "source" : "The Graham Norton Show (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=HdKPOwCR_sg",
+      "summary" : "Talk‑show interview about The Ink Black Heart and her recent writing.",
+      "tags" : ["TV", "interview", "Cormoran Strike"]
     }
   ],
   "events": [
@@ -8236,6 +8395,16 @@
       "title" : "George R.R. Martin Interviews (YouTube playlist)"
     },
     {
+      "text" : "NBC's Late Night with Seth Meyers clip Game of Thrones Author George R.R. Martin Has Observant Fans is dated 2014-10-29.",
+      "source" : "NBC / Late Night with Seth Meyers (2014-10-29)",
+      "url" : "https://www.nbc.com/late-night-with-seth-meyers/video/game-of-thrones-author-george-rr-martin-has-observant-fans/2822811"
+    },
+    {
+      "text" : "The Graham Norton Show upload of Rowling's Ink Black Heart interview is dated 2022-08-27.",
+      "source" : "The Graham Norton Show (YouTube) (2022-08-27)",
+      "url" : "https://www.youtube.com/watch?v=HdKPOwCR_sg"
+    },
+    {
       "author" : "J.K. Rowling",
       "title" : "J.K. Rowling Newsnight Interview",
       "date" : "2003",
@@ -8366,6 +8535,85 @@
         "Cormoran Strike",
         "Robert Galbraith",
         "clip"
+      ]
+    }
+    ,
+    {
+      "author" : "George R. R. Martin",
+      "title" : "FULL INTERVIEW: George R.R. Martin (George Stroumboulopoulos)",
+      "date" : "2012-03-14",
+      "source" : "CBC / George Stroumboulopoulos (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=b3Guf-T3U1U",
+      "summary" : "Full Strombo TV interview covering his writing habits, character work, and Game of Thrones adaptations.",
+      "tags" : [
+        "TV",
+        "interview",
+        "longform",
+        "writing"
+      ]
+    },
+    {
+      "text" : "NBC's Late Night with Seth Meyers clip Game of Thrones Author George R.R. Martin Has Observant Fans is dated 2014-10-29.",
+      "source" : "NBC / Late Night with Seth Meyers (2014-10-29)",
+      "url" : "https://www.nbc.com/late-night-with-seth-meyers/video/game-of-thrones-author-george-rr-martin-has-observant-fans/2822811"
+    },
+    {
+      "text" : "The Graham Norton Show upload of Rowling's Ink Black Heart interview is dated 2022-08-27.",
+      "source" : "The Graham Norton Show (YouTube) (2022-08-27)",
+      "url" : "https://www.youtube.com/watch?v=HdKPOwCR_sg"
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin: \"The Red Wedding was the Hardest Thing I ever Wrote\"",
+      "date" : "2018-03-24",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=M6LzFbS0ioI",
+      "summary" : "Short interview clip focused on crafting the Red Wedding and writing emotionally brutal scenes.",
+      "tags" : [
+        "clip",
+        "writing",
+        "interview"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J. K. Rowling - On 'The Charlie Rose Show' (2012)",
+      "date" : "2012",
+      "source" : "Charlie Rose (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=w9DOp6mhLFo",
+      "summary" : "Longer Charlie Rose sit-down around The Casual Vacancy era, reflecting on writing for adults and public attention.",
+      "tags" : [
+        "TV",
+        "interview",
+        "archive",
+        "The Casual Vacancy"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J. K. Rowling - Writing For Adults (2012)",
+      "date" : "2012",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=zl5rMBt4uig",
+      "summary" : "Segment focused on the shift to adult fiction and her writing process for The Casual Vacancy.",
+      "tags" : [
+        "TV",
+        "interview",
+        "The Casual Vacancy",
+        "writing"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J. K. Rowling - At 'The Bath Literature Festival' (2012)",
+      "date" : "2012",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=lS_xALKP5QE",
+      "summary" : "Festival conversation and reading about The Casual Vacancy and writing for adults.",
+      "tags" : [
+        "festival",
+        "interview",
+        "The Casual Vacancy"
       ]
     }
   ]
