@@ -62,6 +62,21 @@
       "url" : "https://www.youtube.com/watch?v=AEheZ7lFW9s"
     },
     {
+      "title" : "YouTube comments: George RR Martin vs Fan who thinks he found a Plot Hole",
+      "summary" : "Commenters highlight the calm breakdown of a fan theory and his quick clarification.",
+      "url" : "https://www.youtube.com/watch?v=3eS98D-pJiA"
+    },
+    {
+      "title" : "YouTube comments: George R. R. Martin on Cyvasse",
+      "summary" : "Viewers point to the concise lore explanation and the quick rules rundown.",
+      "url" : "https://www.youtube.com/watch?v=rtr7LbrXTUA"
+    },
+    {
+      "title" : "YouTube comments: J.K. Rowling - Announces Pottermore (2011)",
+      "summary" : "Fans treat it as a time-capsule announcement and call out the direct-to-readers tone.",
+      "url" : "https://www.youtube.com/watch?v=H3MkVla-VwI"
+    },
+    {
       "title" : "HP-Lexicon: Interviews archive",
       "summary" : "Fan-maintained index of Rowling interviews used to track down classic Q&A sources.",
       "url" : "https://www.hp-lexicon.org/source/interviews/"
@@ -1053,6 +1068,21 @@
       "source" : "Graham Norton Podcast (YouTube) (2022-10-28)",
       "url" : "https://www.youtube.com/watch?v=Af1fpfyXvLE"
     },
+    {
+      "text" : "The YouTube upload titled \"George RR Martin vs Fan who thinks he found a Plot Hole\" is dated 2018-03-08.",
+      "source" : "YouTube (2018-03-08)",
+      "url" : "https://www.youtube.com/watch?v=3eS98D-pJiA"
+    },
+    {
+      "text" : "The YouTube upload titled \"George R. R. Martin on Cyvasse\" is dated 2018-03-17.",
+      "source" : "YouTube (2018-03-17)",
+      "url" : "https://www.youtube.com/watch?v=rtr7LbrXTUA"
+    },
+    {
+      "text" : "The YouTube upload titled \"J.K. Rowling - Announces Pottermore (2011)\" is dated 2014-08-15.",
+      "source" : "YouTube (2014-08-15)",
+      "url" : "https://www.youtube.com/watch?v=H3MkVla-VwI"
+    },
 
 
     {
@@ -1481,6 +1511,84 @@
       "tags" : [
         "conversation",
         "book-event",
+        "video"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George RR Martin vs Fan who thinks he found a Plot Hole",
+      "date" : "2018-03-08",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=3eS98D-pJiA",
+      "summary" : "Short clip where Martin responds to a fan’s alleged plot hole and clarifies his intent.",
+      "tags" : [
+        "clip",
+        "Q&A",
+        "fan"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R. R. Martin on Cyvasse",
+      "date" : "2018-03-17",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=rtr7LbrXTUA",
+      "summary" : "Clip answering a lore question about Cyvasse and strategy in Westeros.",
+      "tags" : [
+        "clip",
+        "lore",
+        "worldbuilding"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R. R. Martin on Valyria",
+      "date" : "2018-03-26",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=pS_l9XMURj4",
+      "summary" : "Short clip on Valyria’s history and mysteries.",
+      "tags" : [
+        "clip",
+        "lore",
+        "worldbuilding"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling - Webcast (2012)",
+      "date" : "2014-08-15",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=tK4e0nNh5n8",
+      "summary" : "Archived webcast Q&A clip uploaded in 2014.",
+      "tags" : [
+        "webcast",
+        "Q&A",
+        "archive"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling - At 'The Bath Literature Festival' (2012)",
+      "date" : "2014-08-15",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=lS_xALKP5QE",
+      "summary" : "Festival talk clip uploaded in 2014 from her 2012 appearance.",
+      "tags" : [
+        "festival",
+        "talk",
+        "archive"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling - Announces Pottermore (2011)",
+      "date" : "2014-08-15",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=H3MkVla-VwI",
+      "summary" : "Announcement clip covering the Pottermore launch.",
+      "tags" : [
+        "announcement",
+        "archive",
         "video"
       ]
     },
