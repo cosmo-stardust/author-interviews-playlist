@@ -2,6 +2,21 @@
   "updated" : "2026-03-23",
   "bestOf": [
     {
+      "title" : "A Forum of Ice and Fire: Oxford Writers House Q&A event (video)",
+      "summary" : "\"timestamp highlights\" — forum thread pointing to the longform Oxford Q&A.",
+      "url" : "https://asoiaf.westeros.org/index.php?/topic/164406-oxford-writers-house-qa-event-starring-george-r-r-martin-video/"
+    },
+    {
+      "title" : "A Forum of Ice and Fire: Adria's News — G R.R. Martin Interview",
+      "summary" : "\"You have to dig in and get some good stuff out of him.\" — forum comment praising the longer interview.",
+      "url" : "https://asoiaf.westeros.org/index.php?/topic/75443-adrias-news-g-rr-martin-interview/"
+    },
+    {
+      "title" : "Narkive (rec.arts.books): Where I can find really good J.K. Rowling interviews?",
+      "summary" : "\"most revealing longform Q&As\" — readers trade favorites like PotterCast and the Leaky Cauldron webchat.",
+      "url" : "https://books.arts.narkive.com/yArfUkSK/where-i-can-find-really-good-j-k-rowling-interviews"
+    },
+    {
       "title" : "The Rowling Library: Adeel Amini interview (2008)",
       "summary" : "\"rare student-era sit-down\" — fan community highlight preserving a hard-to-find university interview.",
       "url" : "https://www.therowlinglibrary.com/2024/08/28/the-adeel-amini-interview-with-j-k-rowling-2008/"
@@ -1211,6 +1226,21 @@
   ],
   "factoids": [
     {
+      "text" : "Rowling delivered the Harvard commencement address The Fringe Benefits of Failure on 2008-06-05.",
+      "source" : "Harvard University (2008-06-05)",
+      "url" : "https://www.youtube.com/watch?v=UibfDUPJAEU"
+    },
+    {
+      "text" : "Talks at Google hosted Martin's A Dance with Dragons interview on 2011-08-07.",
+      "source" : "Talks at Google (2011-08-07)",
+      "url" : "https://www.youtube.com/watch?v=QTTW8M_etko"
+    },
+    {
+      "text" : "The Library of Congress hosted Martin at the National Book Festival on 2005-09-24.",
+      "source" : "Library of Congress (2005-09-24)",
+      "url" : "https://loc.gov/item/webcast-3749"
+    },
+    {
       "text" : "The MuggleNet/Leaky Cauldron exclusive interview with Rowling took place on 2005-07-16, the day Half-Blood Prince was released.",
       "source" : "MuggleNet (2005-07-16)",
       "url" : "https://mugglenet.com/muggle-world-j-k-rowling/jkr-interview-mugglenet-leaky-cauldron/"
@@ -1776,6 +1806,59 @@
     }
   ],
   "entries" : [
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Interview & Writing Tips from G.R.R. Martin",
+      "date" : "2013",
+      "source" : "Fantasy-Faction",
+      "url" : "https://fantasy-faction.com/2013/grr-martin-interview-and-writing-tips",
+      "summary" : "Text interview focused on writing habits, craft advice, and long-running series management.",
+      "tags" : [
+        "interview",
+        "text",
+        "writing"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Transcript of new J.K. Rowling interview (Stephen Fry, BBC Radio 4)",
+      "date" : "2005",
+      "source" : "MuggleNet",
+      "url" : "https://mugglenet.com/2005/12/transcript-of-new-j-k-rowling-interview/",
+      "summary" : "Transcript of the Stephen Fry BBC Radio 4 interview covering Harry Potter, fame, and writing reflections.",
+      "tags" : [
+        "interview",
+        "transcript",
+        "radio",
+        "BBC"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George RR Martin - Meet the Writers",
+      "date" : "2011-07-12",
+      "source" : "Barnes & Noble Studio (YouTube, archived at Internet Archive)",
+      "url" : "https://archive.org/details/youtube-LhWE3gXoDUw",
+      "summary" : "Barnes & Noble Studio interview tied to A Dance with Dragons, covering the book, TV adaptation, and his reading habits.",
+      "tags" : [
+        "interview",
+        "video",
+        "Barnes & Noble"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Fantastic Beasts and Where to Find Them — J.K. Rowling, David Heyman & Lionel Wigram (On-Set Interview)",
+      "date" : "2016-11-20",
+      "source" : "FilmIsNow Movie Bloopers & Extras (YouTube, archived at Internet Archive)",
+      "url" : "https://archive.org/details/youtube-nXB469sNqo8",
+      "summary" : "On-set interview with Rowling, producer David Heyman, and Lionel Wigram about bringing Fantastic Beasts to film.",
+      "tags" : [
+        "interview",
+        "video",
+        "Fantastic Beasts"
+      ]
+    },
     {
       "author" : "J.K. Rowling",
       "title" : "MuggleNet & The Leaky Cauldron exclusive interview",
