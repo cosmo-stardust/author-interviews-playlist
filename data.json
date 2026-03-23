@@ -7,6 +7,21 @@
       "url" : "https://www.reddit.com/r/JKRowling/comments/xppwsm/i_wish_she_did_more_interviews/"
     },
     {
+      "title" : "r/harrypotter: J.K. Rowling quote on Harry's Horcrux status",
+      "summary" : "Thread points to the PotterCast interview transcript as the source of the Horcrux detail.",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/1innn57/jk_rowling_quote_on_harrys_horcrux_status/"
+    },
+    {
+      "title" : "r/harrypotter: What is the most obscure piece of Potter knowledge you have?",
+      "summary" : "Comments cite the PotterCast interview (and the Dawlish name story) as a favorite interview nugget.",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/1pxcezn/what_is_the_most_obscure_piece_of_potter/"
+    },
+    {
+      "title" : "r/harrypottertheories: J.K. Rowling Horcrux interview discussion",
+      "summary" : "Thread links the PotterCast interview for the \"gross Horcrux process\" detail and debates the implications.",
+      "url" : "https://www.reddit.com/r/harrypottertheories/comments/1d0c028/jk_rowling_has_said_her_editor_looked_like_she/"
+    },
+    {
       "title" : "r/asoiaf: (Spoilers Extended) Considering the Interview, Who Rules Winterfell?",
       "summary" : "Thread debates a specific interview and what it implies for Winterfell succession.",
       "url" : "https://www.reddit.com/r/asoiaf/comments/1qdtqlh/spoilers_extended_considering_the_interview_who/"
@@ -1571,6 +1586,32 @@
       "url" : "https://www.youtube.com/watch?v=H_8kNvFcvEA"
     },
     {
+    {
+      "text" : "The YouTube upload \"George RR Martin on the Lord of Light\" is dated 2018-03-15.",
+      "source" : "YouTube (2018-03-15)",
+      "url" : "https://www.youtube.com/watch?v=amArH3ucEYU"
+    },
+    {
+      "text" : "The YouTube upload \"George RR Martin: The Red Wedding was the Hardest Thing I ever Wrote\" is dated 2018-03-24.",
+      "source" : "YouTube (2018-03-24)",
+      "url" : "https://www.youtube.com/watch?v=M6LzFbS0ioI"
+    },
+    {
+      "text" : "The YouTube upload \"George R. R. Martin on Drogon vs Smaug\" is dated 2018-03-30.",
+      "source" : "YouTube (2018-03-30)",
+      "url" : "https://www.youtube.com/watch?v=kAR8H7x8wac"
+    },
+    {
+      "text" : "The YouTube upload \"George R.R. Martin on How to Control Dragons\" is dated 2018-03-31.",
+      "source" : "YouTube (2018-03-31)",
+      "url" : "https://www.youtube.com/watch?v=rfTMP8tsFLw"
+    },
+    {
+      "text" : "The YouTube upload \"J.K. Rowling - Why I Started 'Lumos' Charity (2012)\" is dated 2014-08-15.",
+      "source" : "YouTube (2014-08-15)",
+      "url" : "https://www.youtube.com/watch?v=gHMSD-P_vfI"
+    },
+    {
       "text" : "The Comic Relief interview clip with Rowling is labeled as a 2001 segment in the YouTube listing.",
       "source" : "Comic Relief (YouTube) (2001)",
       "url" : "https://www.youtube.com/watch?v=v6ymvBa7Gbc"
@@ -1589,6 +1630,86 @@
         "conversation",
         "publishing",
         "longform"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George RR Martin on the Lord of Light",
+      "date" : "2018-03-15",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=amArH3ucEYU",
+      "summary" : "Short clip where Martin answers a lore question about the Lord of Light and faith in Westeros.",
+      "tags" : [
+        "clip",
+        "lore",
+        "worldbuilding"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George RR Martin: The Red Wedding was the Hardest Thing I ever Wrote",
+      "date" : "2018-03-24",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=M6LzFbS0ioI",
+      "summary" : "Clip where Martin explains why writing the Red Wedding chapter was so difficult.",
+      "tags" : [
+        "clip",
+        "writing",
+        "ASOIAF"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R. R. Martin on Drogon vs Smaug",
+      "date" : "2018-03-30",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=kAR8H7x8wac",
+      "summary" : "Playful clip comparing dragons across fantasy worlds.",
+      "tags" : [
+        "clip",
+        "lore",
+        "dragons"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin on How to Control Dragons",
+      "date" : "2018-03-31",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=rfTMP8tsFLw",
+      "summary" : "Short Q&A clip on dragon‑riding and controlling dragons in Westeros.",
+      "tags" : [
+        "clip",
+        "Q&A",
+        "dragons"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling - Why I Started 'Lumos' Charity (2012)",
+      "date" : "2012",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=gHMSD-P_vfI",
+      "summary" : "Interview clip explaining why she founded the Lumos charity.",
+      "tags" : [
+        "interview",
+        "charity",
+        "Lumos",
+        "clip"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling Announces eBook Version of 'The Tales of Beedle the Bard' to Benefit Lumos",
+      "date" : "2008",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=XnPacfW3JF0",
+      "summary" : "Short announcement video about releasing The Tales of Beedle the Bard eBook to support Lumos.",
+      "tags" : [
+        "announcement",
+        "charity",
+        "Lumos",
+        "clip"
       ]
     },
     {
