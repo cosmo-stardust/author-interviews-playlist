@@ -1160,6 +1160,21 @@
       "title" : "r/gameofthrones: [ALL SPOILERS] A great George R.R. Martin interview",
       "summary" : "\"great interview\" — spoiler thread recommending a longform GRRM chat.",
       "url" : "https://www.reddit.com/r/gameofthrones/comments/3tpldg/all_spoilers_a_great_george_rr_martin_interview/"
+    },
+    {
+      "title" : "YouTube comments: FULL INTERVIEW (George Stroumboulopoulos)",
+      "summary" : "\"longform and worth the time\" — comments praise the writing-process deep dive and relaxed TV vibe.",
+      "url" : "https://www.youtube.com/watch?v=b3Guf-T3U1U"
+    },
+    {
+      "title" : "YouTube comments: Origins of Harry Potter (1999 TV segment)",
+      "summary" : "\"pure time capsule\" — commenters recommend it for the early‑era glimpse and origin-story details.",
+      "url" : "https://www.youtube.com/watch?v=AWTwd511S6I"
+    },
+    {
+      "title" : "YouTube comments: A Conversation with J.K. Rowling & Daniel Radcliffe",
+      "summary" : "\"their rapport is the highlight\" — commenters point to the on‑stage chemistry and film‑era reflections.",
+      "url" : "https://www.youtube.com/watch?v=JKYZoLw1EYs"
     }
 
   ],
@@ -3863,6 +3878,42 @@
       "url" : "https://www.youtube.com/watch?v=tjGADw5qc70",
       "summary" : "Channel 4 interview tied to a Lumos charity event at the Warner Bros. Studio Tour.",
       "tags" : ["TV", "interview", "charity", "Lumos"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "FULL INTERVIEW (George Stroumboulopoulos)",
+      "date" : "2012-03-14",
+      "source" : "George Stroumboulopoulos (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=b3Guf-T3U1U",
+      "summary" : "Full-length TV interview covering Martin’s writing process, Game of Thrones, and career reflections.",
+      "tags" : ["TV", "interview", "longform"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Origins of Harry Potter (1999 TV segment)",
+      "date" : "1999",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=AWTwd511S6I",
+      "summary" : "Early TV segment about the origin of Harry Potter during the series’ initial rise.",
+      "tags" : ["TV", "interview", "archive"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Donny & Marie clip (1999)",
+      "date" : "1999",
+      "source" : "Donny & Marie (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=7FDDtRjsZ5Q",
+      "summary" : "Short 1999 talk‑show clip from the early Harry Potter boom.",
+      "tags" : ["TV", "interview", "archive"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "A Conversation with J.K. Rowling & Daniel Radcliffe",
+      "date" : "2014-08-15",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=JKYZoLw1EYs",
+      "summary" : "On‑stage conversation revisiting the films and their collaboration.",
+      "tags" : ["conversation", "film", "interview"]
     }
   ],
   "events": [
