@@ -948,6 +948,21 @@
       "title" : "The Rowling Library: 2004 J.K. Rowling at the Edinburgh Book Festival",
       "summary" : "Fan-site recap highlights the 2004 festival Q&A and points to the transcript source.",
       "url" : "https://www.therowlinglibrary.com/2016/11/07/2004-j-k-rowling-at-the-edinburgh-book-festival/"
+    },
+    {
+      "title" : "r/grrm: George RR Martin: I've Always Been a Slow Writer",
+      "summary" : "\"I've always been a slow writer\" — thread shares the interview clip and praises his honesty about process.",
+      "url" : "https://www.reddit.com/r/grrm/comments/pqu2hb/george_rr_martin_ive_always_been_a_slow_writer/"
+    },
+    {
+      "title" : "r/grrm: George RR Martin Northwestern Graduation Speech 2021",
+      "summary" : "\"George is such a great speaker.\" — thread recommends the graduation talk and interview bits.",
+      "url" : "https://www.reddit.com/r/grrm/comments/qadkbs/george_rr_martin_northwestern_graduation_speech/"
+    },
+    {
+      "title" : "r/asoiaf: (Spoilers extended) It's so over / we're so back — Winds updates",
+      "summary" : "\"a look back at this past year's Winds updates\" — thread links the interviews and highlights the most candid quotes.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/1pk43ro/spoilers_extended_its_so_over_were_so_back_a_look/"
     }
 
   ],
@@ -962,6 +977,16 @@
       "text" : "Robert Galbraith posted a short Q&A about the next Strike novel on 2021-08-21.",
       "source" : "Robert Galbraith (YouTube) (2021-08-21)",
       "url" : "https://www.youtube.com/watch?v=szBY2vCKHyM"
+    },
+    {
+      "text" : "The YouTube upload of \"J.K. Rowling interview: I bought my wedding dress in disguise\" is dated 2012-09-24.",
+      "source" : "YouTube (2012-09-24)",
+      "url" : "https://www.youtube.com/watch?v=Bzn7JWxq2s0"
+    },
+    {
+      "text" : "The YouTube upload of the Sydney Opera House conversation with Martin, Lena Headey, and Michelle Fairley is dated 2023-06-10.",
+      "source" : "YouTube (2023-06-10)",
+      "url" : "https://www.youtube.com/watch?v=k3-r4eKAQaw"
     },
     {
       "text" : "J.K. Rowling uploaded On Writing - Part One on 2024-05-06.",
@@ -2848,6 +2873,42 @@
       "url" : "https://www.youtube.com/watch?v=HdKPOwCR_sg",
       "summary" : "Talk‑show interview about The Ink Black Heart and her recent writing.",
       "tags" : ["TV", "interview", "Cormoran Strike"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "\"It Was Painful\" — George R.R. Martin (TIFF Rewind)",
+      "date" : "2026-01-15",
+      "source" : "TIFF Rewind (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=nmDBgsMetno",
+      "summary" : "TIFF Rewind clip pulling a candid moment from his 2012 TIFF Bell Lightbox conversation.",
+      "tags" : ["interview", "clip", "festival"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin with Lena Headey & Michelle Fairley (Sydney Opera House)",
+      "date" : "2023-06-10",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=k3-r4eKAQaw",
+      "summary" : "Sydney Opera House stage conversation with cast members and audience Q&A.",
+      "tags" : ["conversation", "festival", "panel"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling interview: \"I bought my wedding dress in disguise\"",
+      "date" : "2012-09-24",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=Bzn7JWxq2s0",
+      "summary" : "Short interview clip where Rowling reflects on fame and the early Harry Potter years.",
+      "tags" : ["interview", "clip", "archive"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Robert Galbraith in Conversation with Mark Billingham (Troubled Blood)",
+      "date" : "2020-10-08",
+      "source" : "Robert Galbraith (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=Ag2kU2u6wv0",
+      "summary" : "Longform conversation about Troubled Blood and the Cormoran Strike series.",
+      "tags" : ["interview", "conversation", "Cormoran Strike", "Robert Galbraith"]
     }
   ],
   "events": [
