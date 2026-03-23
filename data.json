@@ -963,10 +963,36 @@
       "title" : "r/asoiaf: (Spoilers extended) It's so over / we're so back — Winds updates",
       "summary" : "\"a look back at this past year's Winds updates\" — thread links the interviews and highlights the most candid quotes.",
       "url" : "https://www.reddit.com/r/asoiaf/comments/1pk43ro/spoilers_extended_its_so_over_were_so_back_a_look/"
+    },
+    {
+      "title" : "r/books: In a recent interview on 60 Minutes George R R Martin said that the ending will be similar",
+      "summary" : "\"... will be similar\" — thread debates his 60 Minutes comments about how the book ending compares to the show.",
+      "url" : "https://www.reddit.com/r/books/comments/bfn03p/in_a_recent_interview_on_60_minutes_george_r_r/"
+    },
+    {
+      "title" : "r/freefolk: 60 Minutes Interview with George R.R. Martin",
+      "summary" : "Thread reacts to the 60 Minutes sit-down, quoting the train-conductor bit and his ending remarks.",
+      "url" : "https://www.reddit.com/r/freefolk/comments/bd58la/60_minutes_interview_with_george_rr_martin/"
+    },
+    {
+      "title" : "r/asoiaf: George R.R. Martin: I don't think Dan and Dave's ending is gonna be that different (60 Minutes)",
+      "summary" : "\"I don't think ... gonna be that different\" — discussion thread dissecting his 60 Minutes quote.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/bdhgrr/spoilers_extended_george_rr_martin_i_dont_think/"
     }
 
   ],
   "factoids": [
+
+    {
+      "text" : "CBS News published a 60 Minutes clip about the Red Wedding on 2019-06-16.",
+      "source" : "CBS News / 60 Minutes (2019-06-16)",
+      "url" : "https://www.cbsnews.com/news/game-of-thrones-the-killing-scenes-george-rr-martin-and-the-red-wedding-60-minutes-2019-04-14/"
+    },
+    {
+      "text" : "The YouTube upload labeled 'J.K. Rowling - On The Charlie Rose Show (2012)' is dated 2014-08-30.",
+      "source" : "Charlie Rose (YouTube) (2014-08-30)",
+      "url" : "https://www.youtube.com/watch?v=w9DOp6mhLFo"
+    },
 
     {
       "text" : "Robert Galbraith uploaded the Mark Billingham Troubled Blood conversation on 2020-10-08.",
@@ -1334,9 +1360,56 @@
       "text" : "The Hollywood Reporter interview commentary clip with Martin is dated 2026-01-16 on YouTube.",
       "source" : "The Hollywood Reporter (YouTube) (2026-01-16)",
       "url" : "https://www.youtube.com/watch?v=jke1KaPAxVo"
+    },
+    {
+      "text" : "The YouTube upload title labels the 60 Minutes archive interview with Rowling as a 1999 clip.",
+      "source" : "CBS / 60 Minutes (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=gjWABn5imBw"
+    },
+    {
+      "text" : "The STV Elephant House interview upload labels the footage as a 1998 cafe interview with Rowling.",
+      "source" : "STV (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=cmZLl6EeJMg"
+    },
+    {
+      "text" : "The YouTube upload title labels the Stephen King & George R.R. Martin exchange about fast writing as a 2018-03-03 clip.",
+      "source" : "YouTube (2018-03-03)",
+      "url" : "https://www.youtube.com/watch?v=xR7XMkjDGw0"
+    },
+    {
+      "text" : "The YouTube upload title labels the Lands of Ice and Fire segment with Martin as 2018-03-04.",
+      "source" : "YouTube (2018-03-04)",
+      "url" : "https://www.youtube.com/watch?v=zZVocW12twg"
     }
   ],
   "entries": [
+
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Game of Thrones: George R.R. Martin and the Red Wedding (60 Minutes)",
+      "date" : "2019-06-16",
+      "source" : "CBS News / 60 Minutes",
+      "url" : "https://www.cbsnews.com/news/game-of-thrones-the-killing-scenes-george-rr-martin-and-the-red-wedding-60-minutes-2019-04-14/",
+      "summary" : "60 Minutes clip where Martin explains writing the Red Wedding and why it was hard to draft.",
+      "tags" : [
+        "TV",
+        "interview",
+        "clip"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling on The Charlie Rose Show (2012)",
+      "date" : "2014-08-30",
+      "source" : "Charlie Rose (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=w9DOp6mhLFo",
+      "summary" : "YouTube upload of the Charlie Rose sit-down covering The Casual Vacancy and writing for adults.",
+      "tags" : [
+        "TV",
+        "interview",
+        "The Casual Vacancy"
+      ]
+    },
 
     {
       "author" : "George R. R. Martin",
@@ -2909,6 +2982,42 @@
       "url" : "https://www.youtube.com/watch?v=Ag2kU2u6wv0",
       "summary" : "Longform conversation about Troubled Blood and the Cormoran Strike series.",
       "tags" : ["interview", "conversation", "Cormoran Strike", "Robert Galbraith"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George RR Martin asks Stephen King: \"How do you write so Fast?!\"",
+      "date" : "2018-03-03",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=xR7XMkjDGw0",
+      "summary" : "Short on-stage exchange from a joint appearance where Martin asks King about writing speed.",
+      "tags" : ["conversation", "clip", "authors"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George RR Martin on the Lands of Ice and Fire",
+      "date" : "2018-03-04",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=zZVocW12twg",
+      "summary" : "Short segment on the Lands of Ice and Fire atlas and his worldbuilding notes.",
+      "tags" : ["interview", "clip", "worldbuilding"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "60 Minutes interview (archive upload)",
+      "date" : "1999",
+      "source" : "CBS / 60 Minutes (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=gjWABn5imBw",
+      "summary" : "Archive upload of the 1999 60 Minutes interview filmed in Edinburgh during the early boom.",
+      "tags" : ["TV", "interview", "archive"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Elephant House interview (STV)",
+      "date" : "1998",
+      "source" : "STV (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=cmZLl6EeJMg",
+      "summary" : "Early STV cafe interview at The Elephant House about the first book's success.",
+      "tags" : ["TV", "interview", "archive"]
     }
   ],
   "events": [
