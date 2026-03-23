@@ -2,6 +2,21 @@
   "updated" : "2026-03-23",
   "bestOf": [
     {
+      "title" : "HogwartsProfessor: Desert Island Discs Revisited (Rowling, 2000)",
+      "summary" : "\"worth tracking down\" — fan blog notes the early‑era Desert Island Discs interview as one of her most candid longform audio talks.",
+      "url" : "https://www.hogwartsprofessor.com/bbc4-desert-island-discs-revisited-joanne-rowling-interview-2000/"
+    },
+    {
+      "title" : "r/Fantasy: Ryan Condal responds to George RR Martin’s criticism of House of the Dragon",
+      "summary" : "\"read the interview quotes in full\" — commenters recommend the original interview to get the adaptation context.",
+      "url" : "https://www.reddit.com/r/Fantasy/comments/1johyw8/ryan_condal_responds_to_george_rr_martins/"
+    },
+    {
+      "title" : "r/books: There is a world of difference between how the media portrays JK Rowling and her image among the public",
+      "summary" : "\"wish she did longer sit‑downs\" — thread points back to her major interviews as the best primary sources.",
+      "url" : "https://www.reddit.com/r/books/comments/1ld885l/there_is_a_world_of_difference_between_how_the/"
+    },
+    {
       "title" : "r/JKRowling: I wish she did more interviews.",
       "summary" : "\"my personal favorite interview is the WaPo interview from 2008\" — commenter recommendation.",
       "url" : "https://www.reddit.com/r/JKRowling/comments/xppwsm/i_wish_she_did_more_interviews/"
@@ -1120,6 +1135,21 @@
   ],
   "factoids": [
     {
+      "text" : "BBC Radio 4’s Front Row aired a 49‑minute extended interview with Rowling on 2012-09-27.",
+      "source" : "BBC Radio 4 / Front Row (2012-09-27)",
+      "url" : "https://www.bbc.co.uk/programmes/p00z2vcn"
+    },
+    {
+      "text" : "The Sound of Young America interview with Martin centers on A Dance with Dragons and the HBO adaptation.",
+      "source" : "Maximum Fun (2011-09)",
+      "url" : "https://maximumfun.org/episodes/bullseye-with-jesse-thorn/george-r-r-martin-author-song-ice-and-fire-series-interview-sound-young-america/"
+    },
+    {
+      "text" : "Feather Factor published a George R. R. Martin interview in February 2012.",
+      "source" : "Feather Factor (2012-02)",
+      "url" : "https://www.featherfactor.com/2012/02/interview-with-george-r-r-martin.html"
+    },
+    {
       "text" : "BBC broadcast the documentary interview "Harry Potter and Me" on 2001-12-28.",
       "source" : "BBC (2001-12-28)",
       "url" : "https://www.youtube.com/watch?v=SrJiAG8GmnQ"
@@ -1633,6 +1663,50 @@
     }
   ],
   "entries" : [
+    {
+      "author" : "J.K. Rowling",
+      "title" : "JK Rowling — Extended Interview with Mark Lawson (Front Row)",
+      "date" : "2012-09-27",
+      "source" : "BBC Radio 4",
+      "url" : "https://www.bbc.co.uk/programmes/p00z2vcn",
+      "summary" : "Extended Front Row interview on The Casual Vacancy, the Olympic opening ceremony, and whether she will return to Harry Potter.",
+      "tags" : [
+        "radio",
+        "interview",
+        "BBC",
+        "The Casual Vacancy",
+        "longform"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "The Sound of Young America: George R. R. Martin interview",
+      "date" : "2011-09",
+      "source" : "Maximum Fun",
+      "url" : "https://maximumfun.org/episodes/bullseye-with-jesse-thorn/george-r-r-martin-author-song-ice-and-fire-series-interview-sound-young-america/",
+      "summary" : "Longform audio interview with John Hodgman on A Dance with Dragons, Game of Thrones, and writing a fantasy universe.",
+      "tags" : [
+        "radio",
+        "interview",
+        "podcast",
+        "writing",
+        "longform"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Interview with George R. R. Martin (Feather Factor)",
+      "date" : "2012-02",
+      "source" : "Feather Factor",
+      "url" : "https://www.featherfactor.com/2012/02/interview-with-george-r-r-martin.html",
+      "summary" : "Text interview covering his reading tastes and Game of Thrones-era reflections.",
+      "tags" : [
+        "interview",
+        "text",
+        "writing",
+        "ASOIAF"
+      ]
+    },
     {
       "author" : "George R. R. Martin",
       "title" : "An Evening with George R. R. Martin and Publisher Tom Doherty",
