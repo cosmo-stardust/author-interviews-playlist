@@ -1,5 +1,5 @@
 {
-  "updated" : "2026-03-23",
+  "updated" : "2026-03-24",
   "bestOf": [
     {
       "title" : "A Forum of Ice and Fire: Oxford Writers House Q&A event (video)",
@@ -30,6 +30,21 @@
       "title" : "Sidequesting.com: Random Battle interview with George R.R. Martin",
       "summary" : "\"short but revealing\" — community interview about influences and adaptation-era writing habits.",
       "url" : "http://www.sidequesting.com/2012/02/random-battle-george-rr-martin-interview/"
+    },
+    {
+      "title" : "HP Lexicon: Newsround train‑tour interview transcript",
+      "summary" : "\"I quite liked that title\" — Rowling on the early working title for Chamber of Secrets.",
+      "url" : "https://www.hp-lexicon.org/source/interviews/nr/"
+    },
+    {
+      "title" : "HP Lexicon: AOL Live chat transcript",
+      "summary" : "\"I have got a notebook that reminds me what floor everything is on\" — Rowling on keeping Hogwarts layout straight.",
+      "url" : "https://www.hp-lexicon.org/source/interviews/aol/"
+    },
+    {
+      "title" : "HP Lexicon: Barnes & Noble chat transcript (1999)",
+      "summary" : "\"I collect unusual names. I have notebooks full of them.\" — Rowling on naming characters.",
+      "url" : "https://www.hp-lexicon.org/source/interviews/bn0/"
     },
 
     {
@@ -1221,10 +1236,50 @@
       "title" : "The Leaky Cauldron: J.K. Rowling Interview (Part Two)",
       "summary" : "\"WARNING: The entirety of this interview is colored by book six\" — fan community highlights and transcript section.",
       "url" : "https://www.the-leaky-cauldron.org/2007/09/10/jkr2/"
+    },
+    {
+      "title" : "YouTube comments: Game of Thrones author George R.R. Martin at the 2005 National Book Festival",
+      "summary" : "\"early-career time capsule\" — commenters highlight the pre-HBO context and the audience Q&A.",
+      "url" : "https://www.youtube.com/watch?v=1Lxv9DGxo3c"
+    },
+    {
+      "title" : "YouTube comments: Conversation between J.K. Rowling and Steve Kloves (2011)",
+      "summary" : "\"worth it for the adaptation talk\" — commenters point to the screenplay collaboration insights.",
+      "url" : "https://www.youtube.com/watch?v=Me3SbSWhICg"
+    },
+    {
+      "title" : "YouTube comments: Harry Potter: Beyond the Page — Virtual Author Visit",
+      "summary" : "\"reader questions make it shine\" — commenters recommend this for the Q&A-heavy format.",
+      "url" : "https://www.youtube.com/watch?v=aA_QYZBWQ88"
+    },
+    {
+      "title" : "YouTube comments: An Evening with George R.R. Martin (Chicago Humanities Festival)",
+      "summary" : "Commenters praise the craft-heavy Q&A and his candid answers about long-series writing.",
+      "url" : "https://www.youtube.com/watch?v=IfIpY0eEA84"
+    },
+    {
+      "title" : "YouTube comments: George R. R. Martin in Conversation with John Hodgman (Books Are Magic)",
+      "summary" : "Viewers highlight the Hodgman-hosted longform chat and the Fire & Blood deep cuts.",
+      "url" : "https://www.youtube.com/watch?v=PzA0Iun1Vcc"
+    },
+    {
+      "title" : "YouTube comments: Robert Galbraith in Conversation with Mark Billingham (Troubled Blood)",
+      "summary" : "Fans point to the process notes and the long audience Q&A as the standout section.",
+      "url" : "https://www.youtube.com/watch?v=Ag2kU2u6wv0"
     }
 
   ],
   "factoids": [
+    {
+      "text" : "Worldcon 2025’s \"Fantasy Then and Now\" panel features George R.R. Martin in a multi-author discussion recorded on YouTube.",
+      "source" : "Worldcon 2025 (YouTube) (2025)",
+      "url" : "https://www.youtube.com/watch?v=rl1sS8MXjFI"
+    },
+    {
+      "text" : "A YouTube upload preserves a BBC documentary clip of Rowling discussing the creation of the Harry Potter world.",
+      "source" : "BBC documentary clip (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=3qTKRZ9qilU"
+    },
     {
       "text" : "Rowling delivered the Harvard commencement address The Fringe Benefits of Failure on 2008-06-05.",
       "source" : "Harvard University (2008-06-05)",
@@ -1239,6 +1294,21 @@
       "text" : "The Library of Congress hosted Martin at the National Book Festival on 2005-09-24.",
       "source" : "Library of Congress (2005-09-24)",
       "url" : "https://loc.gov/item/webcast-3749"
+    },
+    {
+      "text" : "A YouTube upload preserves Martin’s 2005 National Book Festival appearance from the Library of Congress.",
+      "source" : "Humanoid History (YouTube) (2005-09-24)",
+      "url" : "https://www.youtube.com/watch?v=1Lxv9DGxo3c"
+    },
+    {
+      "text" : "A recorded conversation between J.K. Rowling and screenwriter Steve Kloves is archived on YouTube as a 2011-era talk.",
+      "source" : "YouTube (2011)",
+      "url" : "https://www.youtube.com/watch?v=Me3SbSWhICg"
+    },
+    {
+      "text" : "Rowling’s Carnegie Hall conversation with Eddie Redmayne about Fantastic Beasts took place on 2016-11-15.",
+      "source" : "Carnegie Hall (2016-11-15)",
+      "url" : "https://www.youtube.com/watch?v=ca5HYNFuNQk"
     },
     {
       "text" : "The MuggleNet/Leaky Cauldron exclusive interview with Rowling took place on 2005-07-16, the day Half-Blood Prince was released.",
@@ -1281,6 +1351,16 @@
       "text" : "BBC Radio 4’s Front Row aired a 49‑minute extended interview with Rowling on 2012-09-27.",
       "source" : "BBC Radio 4 / Front Row (2012-09-27)",
       "url" : "https://www.bbc.co.uk/programmes/p00z2vcn"
+    },
+    {
+      "text" : "In the 2000 Newsround interview aboard the Hogwarts Express, Rowling said the original working title of Chamber of Secrets was \"Harry Potter and the Half Blood Prince.\"",
+      "source" : "CBBC Newsround (HP Lexicon) (2000-07-08)",
+      "url" : "https://www.hp-lexicon.org/source/interviews/nr/"
+    },
+    {
+      "text" : "In the same Newsround interview, Rowling said she had the idea for Harry Potter on a train and that her parents met on a train.",
+      "source" : "CBBC Newsround (HP Lexicon) (2000-07-08)",
+      "url" : "https://www.hp-lexicon.org/source/interviews/nr/"
     },
     {
       "text" : "The Sound of Young America interview with Martin centers on A Dance with Dragons and the HBO adaptation.",
@@ -1808,6 +1888,34 @@
   "entries" : [
     {
       "author" : "George R. R. Martin",
+      "title" : "Game of Thrones author George R.R. Martin at the 2005 National Book Festival",
+      "date" : "2005-09-24",
+      "source" : "Library of Congress / Humanoid History (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=1Lxv9DGxo3c",
+      "summary" : "Library of Congress National Book Festival talk and Q&A focused on the series and his writing life.",
+      "tags" : [
+        "festival",
+        "Q&A",
+        "library",
+        "video"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Conversation between J.K. Rowling and Steve Kloves",
+      "date" : "2011",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=Me3SbSWhICg",
+      "summary" : "On-stage conversation about the Harry Potter films and adaptation choices.",
+      "tags" : [
+        "conversation",
+        "film",
+        "Harry Potter",
+        "video"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
       "title" : "Interview & Writing Tips from G.R.R. Martin",
       "date" : "2013",
       "source" : "Fantasy-Faction",
@@ -1980,6 +2088,21 @@
       ]
     },
     {
+      "title" : "HP Lexicon: Newsround train‑tour interview transcript",
+      "summary" : "\"I quite liked that title\" — Rowling on the early working title for Chamber of Secrets.",
+      "url" : "https://www.hp-lexicon.org/source/interviews/nr/"
+    },
+    {
+      "title" : "HP Lexicon: AOL Live chat transcript",
+      "summary" : "\"I have got a notebook that reminds me what floor everything is on\" — Rowling on keeping Hogwarts layout straight.",
+      "url" : "https://www.hp-lexicon.org/source/interviews/aol/"
+    },
+    {
+      "title" : "HP Lexicon: Barnes & Noble chat transcript (1999)",
+      "summary" : "\"I collect unusual names. I have notebooks full of them.\" — Rowling on naming characters.",
+      "url" : "https://www.hp-lexicon.org/source/interviews/bn0/"
+    },
+    {
       "author" : "J.K. Rowling",
       "title" : "The Adeel Amini interview (University of Edinburgh, 2008)",
       "date" : "2008",
@@ -2075,6 +2198,16 @@
         "The Casual Vacancy",
         "longform"
       ]
+    },
+    {
+      "text" : "In the 2000 Newsround interview aboard the Hogwarts Express, Rowling said the original working title of Chamber of Secrets was \"Harry Potter and the Half Blood Prince.\"",
+      "source" : "CBBC Newsround (HP Lexicon) (2000-07-08)",
+      "url" : "https://www.hp-lexicon.org/source/interviews/nr/"
+    },
+    {
+      "text" : "In the same Newsround interview, Rowling said she had the idea for Harry Potter on a train and that her parents met on a train.",
+      "source" : "CBBC Newsround (HP Lexicon) (2000-07-08)",
+      "url" : "https://www.hp-lexicon.org/source/interviews/nr/"
     },
     {
       "author" : "George R. R. Martin",
@@ -4203,8 +4336,81 @@
       "summary" : "On‑stage conversation revisiting the films and their collaboration.",
       "tags" : ["conversation", "film", "interview"]
     }
+    ,
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Fantasy Then and Now (Worldcon 2025 panel)",
+      "date" : "2025",
+      "source" : "Worldcon 2025 (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=rl1sS8MXjFI",
+      "summary" : "Worldcon multi-author panel with Martin reflecting on genre history and craft.",
+      "tags" : ["panel", "worldcon", "conversation", "video"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "An Evening with George R.R. Martin & Kim Stanley Robinson (UC San Diego)",
+      "date" : "2017",
+      "source" : "UC San Diego (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=zfbwx7RAJss",
+      "summary" : "University talk and Q&A featuring Martin and Robinson on science fiction and fantasy craft.",
+      "tags" : ["university", "conversation", "Q&A", "video"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling: Insights on Creating the Harry Potter World (BBC documentary clip)",
+      "date" : "2001",
+      "source" : "BBC documentary clip (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=3qTKRZ9qilU",
+      "summary" : "Short BBC documentary excerpt where Rowling discusses building the Harry Potter world.",
+      "tags" : ["BBC", "interview", "archive", "clip"]
+    }
+
   ],
   "events": [
+
+      {
+         "id" : "evt-0999",
+         "host" : "",
+         "author" : "George R. R. Martin",
+         "summary" : "National Book Festival appearance and Q&A at the Library of Congress.",
+         "date" : "2005-09-24",
+         "format" : "",
+         "outlet" : "Library of Congress",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=1Lxv9DGxo3c",
+               "source" : "YouTube"
+            },
+            {
+               "type" : "video",
+               "url" : "https://loc.gov/item/webcast-3749",
+               "source" : "Library of Congress"
+            }
+         ],
+         "title" : "George R.R. Martin: National Book Festival 2005",
+         "tags" : [],
+         "location" : ""
+      },
+      {
+         "id" : "evt-1000",
+         "host" : "Steve Kloves",
+         "author" : "J.K. Rowling",
+         "summary" : "Conversation about the Harry Potter films and adaptation decisions.",
+         "date" : "2011",
+         "format" : "",
+         "outlet" : "",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=Me3SbSWhICg",
+               "source" : "YouTube"
+            }
+         ],
+         "title" : "J.K. Rowling in conversation with Steve Kloves",
+         "tags" : [],
+         "location" : ""
+      },
 
       {
          "id" : "evt-0001",
@@ -9968,6 +10174,256 @@
         "festival",
         "interview",
         "The Casual Vacancy"
+      ]
+    }
+    ,
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin interview (nymag.com)",
+      "date" : "2011-10",
+      "source" : "New York Magazine",
+      "url" : "http://nymag.com/daily/entertainment/2011/10/george_rr_martin_on_his_favori.html",
+      "summary" : "Short text interview about his favorite reads and influences during the early Game of Thrones boom.",
+      "tags" : [
+        "interview",
+        "text",
+        "writing"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "The Bear Swarm Episode 136: George R.R. Martin and A Song of Ice and Fire",
+      "date" : "2010-11",
+      "source" : "The Bear Swarm (Podcast)",
+      "url" : "http://www.bearswarm.com/episode-136-george-r-r-martin-and-a-song-of-ice-and-fire",
+      "summary" : "Podcast interview covering the series, fandom, and his writing routine.",
+      "tags" : [
+        "podcast",
+        "interview",
+        "audio"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Portuguese-language interview (Calameo)",
+      "date" : "2011-05",
+      "source" : "Calameo",
+      "url" : "http://www.calameo.com/read/0003519067583d3259125",
+      "summary" : "Portuguese interview feature linked from GRRM’s official interview index.",
+      "tags" : [
+        "interview",
+        "text",
+        "international"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Gamer’s Haven Podcast interview",
+      "date" : "2010-04",
+      "source" : "Gamer’s Haven Podcast",
+      "url" : "http://www.gamershavenpodcast.com/eparchive/interview009georgerrmartin.mp3",
+      "summary" : "Audio interview about his writing life and the A Song of Ice and Fire series.",
+      "tags" : [
+        "podcast",
+        "interview",
+        "audio"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Newsarama interview about Wild Cards: The Hard Call",
+      "date" : "2010-03",
+      "source" : "Newsarama",
+      "url" : "http://www.newsarama.com/comics/Wild-Cards-Martin-Comic-100324.html",
+      "summary" : "Text interview with Martin and Daniel Abraham about Wild Cards and editing collaboration.",
+      "tags" : [
+        "interview",
+        "text",
+        "Wild Cards"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Pat’s Fantasy Hotlist interview (Busted Flush writers)",
+      "date" : "2008-12",
+      "source" : "Pat’s Fantasy Hotlist",
+      "url" : "http://fantasyhotlist.blogspot.com/2008/12/interview-with-george-r-r-martin-and.html",
+      "summary" : "Group interview focusing on Wild Cards and writing collaboration.",
+      "tags" : [
+        "interview",
+        "text",
+        "Wild Cards"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Wisconsin Public Radio interview with GRRM and Ursula K. Le Guin",
+      "date" : "2008-11",
+      "source" : "Wisconsin Public Radio",
+      "url" : "http://www.wpr.org/book/081123a.cfm",
+      "summary" : "Radio interview featuring Martin and Le Guin in conversation about fantasy and writing craft.",
+      "tags" : [
+        "radio",
+        "interview",
+        "audio"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Infinity Plus interview",
+      "date" : "2001-02",
+      "source" : "Infinity Plus",
+      "url" : "http://www.infinityplus.co.uk/nonfiction/intgrrm.htm",
+      "summary" : "Longform text interview about his writing career and A Song of Ice and Fire.",
+      "tags" : [
+        "interview",
+        "text",
+        "longform"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "CBBC Newsround: J.K. Rowling talks about Book Four",
+      "date" : "2000-07-08",
+      "source" : "CBBC Newsround (HP Lexicon transcript)",
+      "url" : "https://www.hp-lexicon.org/source/interviews/nr/",
+      "summary" : "Transcript of the Newsround train‑tour interview conducted on Goblet of Fire launch day.",
+      "tags" : [
+        "interview",
+        "transcript",
+        "archive"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Q&A at the National Press Club",
+      "date" : "1999-10-20",
+      "source" : "National Press Club (HP Lexicon)",
+      "url" : "https://www.hp-lexicon.org/source/interviews/npc/",
+      "summary" : "Press‑club Q&A transcript from Rowling’s 1999 U.S. media tour.",
+      "tags" : [
+        "interview",
+        "transcript",
+        "press"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Diane Rehm Show interview",
+      "date" : "1999-10-20",
+      "source" : "Diane Rehm Show (HP Lexicon)",
+      "url" : "https://www.hp-lexicon.org/source/interviews/drs/",
+      "summary" : "Radio interview transcript from the U.S. press tour around Prisoner of Azkaban.",
+      "tags" : [
+        "radio",
+        "interview",
+        "transcript"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Washington Post: Charmed, I'm Sure.",
+      "date" : "1999-10-20",
+      "source" : "Washington Post (HP Lexicon)",
+      "url" : "https://www.hp-lexicon.org/source/interviews/WP1/",
+      "summary" : "Washington Post profile/interview transcript from the 1999 U.S. publicity tour.",
+      "tags" : [
+        "interview",
+        "transcript",
+        "press"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Barnes & Noble.com interview",
+      "date" : "1999-03-19",
+      "source" : "Barnes & Noble (HP Lexicon)",
+      "url" : "https://www.hp-lexicon.org/source/interviews/bn0/",
+      "summary" : "Early online interview transcript during the U.S. breakout period.",
+      "tags" : [
+        "interview",
+        "transcript",
+        "online"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Barnes & Noble.com interview (September 1999)",
+      "date" : "1999-09-08",
+      "source" : "Barnes & Noble (HP Lexicon)",
+      "url" : "https://beta.hp-lexicon.org/source/interviews/bn1/",
+      "summary" : "Follow‑up Barnes & Noble online interview transcript later in 1999.",
+      "tags" : [
+        "interview",
+        "transcript",
+        "online"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Amazon.co.uk interview",
+      "date" : "1999",
+      "source" : "Amazon.co.uk (HP Lexicon)",
+      "url" : "https://www.hp-lexicon.org/source/interviews/amazonuk/",
+      "summary" : "Early Amazon UK interview transcript from spring 1999.",
+      "tags" : [
+        "interview",
+        "transcript",
+        "online"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "The Connection radio show interview",
+      "date" : "1999-10-12",
+      "source" : "The Connection (HP Lexicon)",
+      "url" : "https://www.hp-lexicon.org/source/interviews/con/",
+      "summary" : "Radio interview transcript from The Connection during the 1999 press run.",
+      "tags" : [
+        "radio",
+        "interview",
+        "transcript"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Scholastic.com interview",
+      "date" : "2000-02-03",
+      "source" : "Scholastic (HP Lexicon)",
+      "url" : "https://www.hp-lexicon.org/source/interviews/sch1/",
+      "summary" : "Scholastic online interview transcript focused on the early series growth.",
+      "tags" : [
+        "interview",
+        "transcript",
+        "online"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "AOL online chat interview",
+      "date" : "2000-10-19",
+      "source" : "AOL (HP Lexicon)",
+      "url" : "https://www.hp-lexicon.org/source/interviews/aol/",
+      "summary" : "AOL online chat transcript capturing reader Q&A from October 2000.",
+      "tags" : [
+        "interview",
+        "transcript",
+        "online",
+        "Q&A"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Desert Island Discs (BBC Radio 4)",
+      "date" : "2000-11-05",
+      "source" : "BBC Radio 4 (HP Lexicon)",
+      "url" : "https://www.hp-lexicon.org/source/interviews/did/",
+      "summary" : "BBC Radio 4 interview transcript from Desert Island Discs.",
+      "tags" : [
+        "radio",
+        "interview",
+        "transcript",
+        "BBC"
       ]
     }
   ]
