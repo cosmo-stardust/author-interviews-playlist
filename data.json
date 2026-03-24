@@ -2,6 +2,21 @@
   "updated" : "2026-03-24",
   "bestOf": [
     {
+      "title" : "YouTube comments: George RR Martin at New York Comic Con 2025 in 10 MINS!",
+      "summary" : ""quick highlight reel" — commenters recommend it as a fast way to sample the NYCC panel.",
+      "url" : "https://www.youtube.com/watch?v=b6QtYZAfWJE"
+    },
+    {
+      "title" : "YouTube comments: J.K. Rowling answers 20 questions about The Running Grave",
+      "summary" : ""reader questions are the best part" — viewers call out her process answers as the standout.",
+      "url" : "https://www.youtube.com/watch?v=-gT-jAUJ6t0"
+    },
+    {
+      "title" : "YouTube comments: J.K. Rowling — A Year in the Life",
+      "summary" : ""time-capsule feel" — viewers recommend it for the behind-the-scenes look at her routine.",
+      "url" : "https://www.youtube.com/watch?v=0nCCsT30A8A"
+    },
+    {
       "title" : "A Forum of Ice and Fire: Oxford Writers House Q&A event (video)",
       "summary" : "\"timestamp highlights\" — forum thread pointing to the longform Oxford Q&A.",
       "url" : "https://asoiaf.westeros.org/index.php?/topic/164406-oxford-writers-house-qa-event-starring-george-r-r-martin-video/"
@@ -1886,6 +1901,34 @@
     }
   ],
   "entries" : [
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin spotlight panel (NYCC 2025, Popverse VOD)",
+      "date" : "2025-11-12",
+      "source" : "Popverse / New York Comic Con",
+      "url" : "https://www.thepopverse.com/literary-george-rr-martin-nycc-2025-panel-video-watch-now-vod",
+      "summary" : "Popverse VOD page for the NYCC 2025 spotlight panel featuring a full-length on-stage conversation with Martin.",
+      "tags" : [
+        "panel",
+        "comic-con",
+        "video",
+        "longform"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Exclusive Interview with The Ickabog author (BBC Newsround)",
+      "date" : "2020-11-10",
+      "source" : "BBC Newsround",
+      "url" : "https://www.bbc.co.uk/newsround/54879079",
+      "summary" : "Newsround sit-down about The Ickabog, writing for children, and lockdown creativity.",
+      "tags" : [
+        "TV",
+        "BBC",
+        "interview",
+        "The Ickabog"
+      ]
+    },
     {
       "author" : "George R. R. Martin",
       "title" : "Game of Thrones author George R.R. Martin at the 2005 National Book Festival",
