@@ -2,6 +2,36 @@
   "updated" : "2026-03-24",
   "bestOf": [
     {
+      "title" : "YouTube comments: George R. R. Martin on the Inspiration for the Wall",
+      "summary" : ""good lore bite" — commenters highlight the Hadrian’s Wall reference and history nugget.",
+      "url" : "https://www.youtube.com/watch?v=bhpQwiz0Gq0"
+    },
+    {
+      "title" : "YouTube comments: George RR Martin on the George Bush Head in Game of Thrones",
+      "summary" : ""fun behind‑the‑scenes story" — commenters point to the prop anecdote as the standout.",
+      "url" : "https://www.youtube.com/watch?v=qd9btOXKX3M"
+    },
+    {
+      "title" : "YouTube comments: J.K. Rowling interview at the last ever Harry Potter premiere",
+      "summary" : ""end-of-series reflections" — commenters recommend it for the quick red‑carpet wrap‑up.",
+      "url" : "https://www.youtube.com/watch?v=Uh0809-l8qs"
+    },
+    {
+      "title" : "Sci‑Fi & Fantasy Stack Exchange: Bloomsbury written chat (Umbridge sentenced)",
+      "summary" : "\"She was arrested, interrogated and imprisoned for crimes against Muggleborns.\" — thread cites the 2007 Bloomsbury chat as the definitive interview source.",
+      "url" : "https://scifi.stackexchange.com/questions/53547/in-what-interview-does-rowling-say-umbridge-is-sentenced-to-prison"
+    },
+    {
+      "title" : "Sci‑Fi & Fantasy Stack Exchange: Leaky Cauldron/MuggleNet interview (Grindelwald)",
+      "summary" : "\"Yeah, he is.\" — commenters point to the 2005 Leaky Cauldron/MuggleNet interview for the Grindelwald answer.",
+      "url" : "https://scifi.stackexchange.com/questions/10486/was-j-k-rowling-ever-incorrect-misleading-in-her-interviews-answers"
+    },
+    {
+      "title" : "Sci‑Fi & Fantasy Stack Exchange: GRRM on Tolkien in interviews",
+      "summary" : "\"Tolkien gave us all these histories...\" — answer links the interview clip as evidence of his Silmarillion talk.",
+      "url" : "https://scifi.stackexchange.com/questions/253152/has-george-r-r-martin-ever-mentioned-plot-elements-from-the-silmarillion-in-an"
+    },
+    {
       "title" : "ResetEra: George R.R. Martin talks Winds delays & House of the Dragon drama (interview thread)",
       "summary" : ""lengthy interview" — posters single out the longform quotes as the best recent GRRM sit‑down.",
       "url" : "https://www.resetera.com/threads/george-r-r-martin-talks-winds-of-winter-delays-ryan-condal-house-of-the-dragon-drama-in-lengthy-interview.1407145/"
@@ -1894,6 +1924,22 @@
     }
     ,
     {
+      "text" : "The YouTube upload titled "George R. R. Martin on the Inspiration for the Wall" is dated 2018-03-20.",
+      "source" : "YouTube (2018-03-20)",
+      "url" : "https://www.youtube.com/watch?v=bhpQwiz0Gq0"
+    },
+    {
+      "text" : "The YouTube upload titled "George RR Martin on the George Bush Head in Game of Thrones" is dated 2018-03-28.",
+      "source" : "YouTube (2018-03-28)",
+      "url" : "https://www.youtube.com/watch?v=qd9btOXKX3M"
+    },
+    {
+      "text" : "The YouTube upload title labels the Harry Potter premiere interview clip with Rowling as 2011-07-07.",
+      "source" : "Absolute Radio (YouTube) (2011-07-07)",
+      "url" : "https://www.youtube.com/watch?v=Uh0809-l8qs"
+    }
+    ,
+    {
       "text" : "The YouTube upload titled \"George R. R. Martin on Sothoryos\" is dated 2018-03-05.",
       "source" : "YouTube (2018-03-05)",
       "url" : "https://www.youtube.com/watch?v=DcfeygptQ2M"
@@ -3286,6 +3332,32 @@
     },
     {
       "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling interview — \"I bought my wedding dress in disguise\"",
+      "date" : "2012-09-24",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=Bzn7JWxq2s0",
+      "summary" : "Interview clip with Rowling reflecting on fame and personal anecdotes.",
+      "tags" : [
+        "interview",
+        "clip",
+        "archive"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George RR Martin Says he will Kill Many More Important Characters",
+      "date" : "2018-03-10",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=ZWnw5wqqEfE",
+      "summary" : "Short interview clip about keeping stakes high and killing major characters.",
+      "tags" : [
+        "clip",
+        "interview",
+        "writing"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
       "title" : "The Secret to Harry Potter (60 Minutes Australia)",
       "date" : "2000",
       "source" : "60 Minutes Australia (YouTube)",
@@ -4382,6 +4454,22 @@
       "summary" : "Short segment on the Lands of Ice and Fire atlas and his worldbuilding notes.",
       "tags" : ["interview", "clip", "worldbuilding"]
     },
+    ,
+    {
+      "text" : "The YouTube upload titled "George R. R. Martin on the Inspiration for the Wall" is dated 2018-03-20.",
+      "source" : "YouTube (2018-03-20)",
+      "url" : "https://www.youtube.com/watch?v=bhpQwiz0Gq0"
+    },
+    {
+      "text" : "The YouTube upload titled "George RR Martin on the George Bush Head in Game of Thrones" is dated 2018-03-28.",
+      "source" : "YouTube (2018-03-28)",
+      "url" : "https://www.youtube.com/watch?v=qd9btOXKX3M"
+    },
+    {
+      "text" : "The YouTube upload title labels the Harry Potter premiere interview clip with Rowling as 2011-07-07.",
+      "source" : "Absolute Radio (YouTube) (2011-07-07)",
+      "url" : "https://www.youtube.com/watch?v=Uh0809-l8qs"
+    }
     {
       "author" : "J.K. Rowling",
       "title" : "60 Minutes interview (archive upload)",
@@ -10108,6 +10196,22 @@
       "summary" : "Community playlist of GRRM interviews.",
       "title" : "George R.R. Martin Interviews (YouTube playlist)"
     },
+    ,
+    {
+      "text" : "The YouTube upload titled "George R. R. Martin on the Inspiration for the Wall" is dated 2018-03-20.",
+      "source" : "YouTube (2018-03-20)",
+      "url" : "https://www.youtube.com/watch?v=bhpQwiz0Gq0"
+    },
+    {
+      "text" : "The YouTube upload titled "George RR Martin on the George Bush Head in Game of Thrones" is dated 2018-03-28.",
+      "source" : "YouTube (2018-03-28)",
+      "url" : "https://www.youtube.com/watch?v=qd9btOXKX3M"
+    },
+    {
+      "text" : "The YouTube upload title labels the Harry Potter premiere interview clip with Rowling as 2011-07-07.",
+      "source" : "Absolute Radio (YouTube) (2011-07-07)",
+      "url" : "https://www.youtube.com/watch?v=Uh0809-l8qs"
+    }
     {
       "text" : "NBC's Late Night with Seth Meyers clip Game of Thrones Author George R.R. Martin Has Observant Fans is dated 2014-10-29.",
       "source" : "NBC / Late Night with Seth Meyers (2014-10-29)",
