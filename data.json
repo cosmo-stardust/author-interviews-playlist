@@ -4605,6 +4605,78 @@
       "url" : "https://www.youtube.com/watch?v=3qTKRZ9qilU",
       "summary" : "Short BBC documentary excerpt where Rowling discusses building the Harry Potter world.",
       "tags" : ["BBC", "interview", "archive", "clip"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Launch Day interview aboard the Hogwarts Express (Stephen Fry)",
+      "date" : "2000-07-08",
+      "source" : "HP Lexicon (transcript)",
+      "url" : "https://www.hp-lexicon.org/source/interviews/heb/",
+      "summary" : "Transcript of the launch-day Hogwarts Express interview with Stephen Fry during the Goblet of Fire tour.",
+      "tags" : ["transcript", "interview", "archive", "Harry Potter", "train tour"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Southwest News launch-day interview",
+      "date" : "2000-07-08",
+      "source" : "HP Lexicon (transcript)",
+      "url" : "https://www.hp-lexicon.org/source/interviews/sn/",
+      "summary" : "Southwest News interview transcript from the Goblet of Fire launch day.",
+      "tags" : ["transcript", "interview", "archive", "Harry Potter"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Washington Post: \"Charmed, I’m Sure.\"",
+      "date" : "1999-10-20",
+      "source" : "HP Lexicon (transcript)",
+      "url" : "https://www.hp-lexicon.org/source/interviews/WP1/",
+      "summary" : "Washington Post interview transcript from the U.S. press tour in October 1999.",
+      "tags" : ["transcript", "interview", "archive", "press"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Scholastic.com interview (Sch2)",
+      "date" : "2000-10-16",
+      "source" : "HP Lexicon (transcript)",
+      "url" : "https://www.hp-lexicon.org/source/interviews/sch2/",
+      "summary" : "Scholastic.com Q&A transcript about Goblet of Fire and early series plans.",
+      "tags" : ["transcript", "interview", "archive", "Harry Potter"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Barnes & Noble.com chat (2000)",
+      "date" : "2000-10-20",
+      "source" : "HP Lexicon (transcript)",
+      "url" : "https://www.hp-lexicon.org/source/interviews/bn/",
+      "summary" : "Barnes & Noble online chat transcript during the Goblet of Fire era.",
+      "tags" : ["transcript", "interview", "archive", "chat"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Rogers, Shelagh interview (CBC)",
+      "date" : "2000-10-23",
+      "source" : "HP Lexicon (transcript)",
+      "url" : "https://www.hp-lexicon.org/source/interviews/cbc/",
+      "summary" : "CBC interview transcript with Shelagh Rogers about the series’ success and writing life.",
+      "tags" : ["transcript", "interview", "archive", "radio"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "\"Geeks On\" interview at San Diego Comic-Con",
+      "date" : "2006-08",
+      "source" : "Geeks On",
+      "url" : "http://www.geekson.com/archives/archiveepisodes/2006/episode080406.htm",
+      "summary" : "Comic-Con podcast interview covering his writing process and fandom questions.",
+      "tags" : ["podcast", "interview", "archive", "Comic-Con"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "A Word with George R. R. Martin",
+      "date" : "2004-03",
+      "source" : "DragonSworn",
+      "url" : "http://www.dragonsworn.com/features/georgerrmartin/interview.html",
+      "summary" : "DragonSworn text interview focused on his career, influences, and approach to fantasy.",
+      "tags" : ["interview", "text", "archive"]
     }
 
   ],
