@@ -7,6 +7,11 @@
       "url" : "https://www.resetera.com/threads/george-r-r-martin-talks-winds-of-winter-delays-ryan-condal-house-of-the-dragon-drama-in-lengthy-interview.1407145/"
     },
     {
+      "title" : "YouTube comments: Robert Galbraith short Q&A on the next Strike novel",
+      "summary" : ""quick status check" — commenters point to the spoiler‑light update on the next Cormoran Strike book.",
+      "url" : "https://www.youtube.com/watch?v=szBY2vCKHyM"
+    },
+    {
       "title" : "SFF Chronicles: Rolling Stone Interview with Martin (forum thread)",
       "summary" : ""worth reading in full" — forum replies flag the longform Rolling Stone interview as the standout.",
       "url" : "https://www.sffchronicles.com/threads/548451/"
@@ -1928,10 +1933,30 @@
       "text" : "The Comic Relief interview clip with Rowling is labeled as a 2001 segment in the YouTube listing.",
       "source" : "Comic Relief (YouTube) (2001)",
       "url" : "https://www.youtube.com/watch?v=v6ymvBa7Gbc"
+    },
+    {
+      "text" : "The YouTube upload titled "George R.R. Martin Likes "Game of Thrones" Fans To Be Afraid" is labeled as a 2013 CONAN clip.",
+      "source" : "Team Coco / CONAN (YouTube) (2013)",
+      "url" : "https://www.youtube.com/watch?v=ulUBDu_97z8"
+    },
+    {
+      "text" : "The YouTube upload titled "J.K. Rowling unveils Pottermore website" is labeled as a 2011 announcement video.",
+      "source" : "YouTube (2011)",
+      "url" : "https://www.youtube.com/watch?v=r8UaAK3WkrY"
+    },
+    {
+      "text" : "IGN posted a Season 3 interview clip with George R. R. Martin as part of its Game of Thrones coverage in 2013.",
+      "source" : "IGN (YouTube) (2013)",
+      "url" : "https://www.youtube.com/watch?v=EHFOepy7rJw"
+    },
+    {
+      "text" : "CNN uploaded Christiane Amanpour's full interview with J.K. Rowling about her pen name and charity work as a standalone segment.",
+      "source" : "CNN (YouTube) (2017)",
+      "url" : "https://www.youtube.com/watch?v=iONIaaLLnC0"
     }
   ],
   "entries" : [
-    {
+    {\n      "author" : "George R. R. Martin",\n      "title" : "George R. R. Martin TV Interview (Australia)",\n      "date" : "2013",\n      "source" : "YouTube (Australia TV)",\n      "url" : "https://www.youtube.com/watch?v=R1RQIiiyXGw",\n      "summary" : "Australian TV interview covering Game of Thrones and his writing life.",\n      "tags" : [\n        "TV",\n        "interview",\n        "archive"\n      ]\n    },\n    {\n      "author" : "George R. R. Martin",\n      "title" : "George R.R. Martin Likes \"Game of Thrones\" Fans to Be Afraid (CONAN)",\n      "date" : "2013",\n      "source" : "Team Coco / CONAN (YouTube)",\n      "url" : "https://www.youtube.com/watch?v=ulUBDu_97z8",\n      "summary" : "CONAN clip where Martin jokes about keeping fans afraid and the series tone.",\n      "tags" : [\n        "TV",\n        "clip",\n        "interview",\n        "CONAN"\n      ]\n    },\n    {\n      "author" : "J.K. Rowling",\n      "title" : "J.K. Rowling unveils Pottermore website",\n      "date" : "2011",\n      "source" : "YouTube",\n      "url" : "https://www.youtube.com/watch?v=r8UaAK3WkrY",\n      "summary" : "Announcement clip introducing Pottermore and her direct-to-readers update.",\n      "tags" : [\n        "announcement",\n        "archive",\n        "video"\n      ]\n    },\n    {\n      "author" : "J.K. Rowling",\n      "title" : "Robert Galbraith Q&A on the next Strike novel",\n      "date" : "2021-08-21",\n      "source" : "Robert Galbraith (YouTube)",\n      "url" : "https://www.youtube.com/watch?v=szBY2vCKHyM",\n      "summary" : "Short Q&A update about the next Cormoran Strike novel.",\n      "tags" : [\n        "Q&A",\n        "Cormoran Strike",\n        "writing",\n        "short"\n      ]\n    },\n    {
       "author" : "George R. R. Martin",
       "title" : "Comic-Con Marvel Interview",
       "date" : "2014-07",
@@ -10553,6 +10578,62 @@
         "interview",
         "transcript",
         "BBC"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Game of Thrones - George R.R. Martin Season 3 Interview",
+      "date" : "2013",
+      "source" : "IGN (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=EHFOepy7rJw",
+      "summary" : "IGN Season 3 promo interview with Martin on the series and his writing.",
+      "tags" : [
+        "IGN",
+        "interview",
+        "TV",
+        "Game of Thrones"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "The Winds of Winter Twist Will Involve a Character Dead on Game of Thrones",
+      "date" : "2016",
+      "source" : "IGN (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=ILBsP-yDwXE",
+      "summary" : "IGN clip with Martin discussing a Winds of Winter twist and the adaptation.",
+      "tags" : [
+        "IGN",
+        "interview",
+        "clip",
+        "Winds of Winter"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "How J.K. Rowling's fear led her to charity (Amanpour full interview)",
+      "date" : "2017-07-10",
+      "source" : "CNN (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=iONIaaLLnC0",
+      "summary" : "Christiane Amanpour interview about the Robert Galbraith pen name, charity work, and her writing life.",
+      "tags" : [
+        "CNN",
+        "interview",
+        "Amanpour",
+        "Cormoran Strike"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling's alter-ego revealed",
+      "date" : "2013",
+      "source" : "CNN (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=fB5eQrZ3-hY",
+      "summary" : "CNN segment about the Robert Galbraith pseudonym reveal.",
+      "tags" : [
+        "CNN",
+        "clip",
+        "pseudonym",
+        "Cormoran Strike"
       ]
     }
   ]
