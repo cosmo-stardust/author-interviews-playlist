@@ -2,6 +2,31 @@
   "updated" : "2026-03-24",
   "bestOf": [
     {
+      "title" : "r/JKRowling: I wish she did more interviews",
+      "summary" : "Fans swap favorite sit-downs and links while wishing there were more longform Q&As.",
+      "url" : "https://www.reddit.com/r/JKRowling/comments/xppwsm/i_wish_she_did_more_interviews/"
+    },
+    {
+      "title" : "r/asoiaf: GRRM interview on The Hour with Strombo",
+      "summary" : "\"extended interview\" — thread highlights the longform Strombo sit-down and links the full video.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/qwf9k/grrm_interview_on_the_hour_with_strombo/"
+    },
+    {
+      "title" : "r/asoiaf: (Spoilers all) New interview with GRRM",
+      "summary" : "\"new interview\" — commenters trade highlights and point to the latest sit-down link.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/1a5hh9/spoilers_allnew_interview_with_grrm/"
+    },
+    {
+      "title" : "r/HouseOfTheDragon: GRRM interview about choosing which scene to start the series",
+      "summary" : "\"why this opening\" — thread shares the interview clip about how he picked the show’s opening scene.",
+      "url" : "https://www.reddit.com/r/HouseOfTheDragon/comments/yf75dd/grrm_interview_about_choosing_which_scene_to/"
+    },
+    {
+      "title" : "r/asoiaf: An interview with George R.R. Martin (Official Game of Thrones)",
+      "summary" : "Discussion thread reacting to the official interview and sharing other recommended clips.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/wqor98/an_interview_with_george_rr_martin_official_game/"
+    },
+    {
       "title" : "YouTube comments: George R.R. Martin on J.R.R. Tolkien and Clich00e9 Fantasy",
       "summary" : "\"tight Tolkien take\" 2014 commenters recommend it for the quick, direct fantasy-craft answer.",
       "url" : "https://www.youtube.com/watch?v=u18fCuUDLiI"
@@ -1397,6 +1422,16 @@
   ],
   "factoids": [
     {
+      "text" : "ITN Archive notes Rowling sat down at Nicolsons Cafe in Edinburgh on 1998-07-23 to discuss early Harry Potter success.",
+      "source" : "ITN Archive (1998-07-23)",
+      "url" : "https://archive.org/details/youtube-uTO9TUa797E"
+    },
+    {
+      "text" : "Collider published its Fevre Dream interview with George R.R. Martin on 2025-03-14.",
+      "source" : "Collider (2025-03-14)",
+      "url" : "https://collider.com/george-r-r-martin-dream-project-fevre-dream/"
+    },
+    {
       "text" : "The YouTube upload titled "George R.R. Martin on J.R.R. Tolkien and Clich00e9 Fantasy" is dated 2018-03-13.",
       "source" : "YouTube (2018-03-13)",
       "url" : "https://www.youtube.com/watch?v=u18fCuUDLiI"
@@ -2086,9 +2121,111 @@
       "text" : "CNN uploaded Christiane Amanpour's full interview with J.K. Rowling about her pen name and charity work as a standalone segment.",
       "source" : "CNN (YouTube) (2017)",
       "url" : "https://www.youtube.com/watch?v=iONIaaLLnC0"
+    },
+    {
+      "text" : "HP Lexicon lists The Star-Ledger school Q&A with Rowling on 1999-10-16.",
+      "source" : "HP Lexicon (1999-10-16)",
+      "url" : "https://www.hp-lexicon.org/source/interviews/slg/"
+    },
+    {
+      "text" : "HP Lexicon dates the San Francisco Chronicle interview with Rowling to 1999-10-30.",
+      "source" : "HP Lexicon (1999-10-30)",
+      "url" : "https://www.hp-lexicon.org/source/interviews/sfc/"
+    },
+    {
+      "text" : "HP Lexicon lists the Today Show post–Deathly Hallows interview part one on 2007-07-26 and part two on 2007-07-27.",
+      "source" : "HP Lexicon (2007-07-26 / 2007-07-27)",
+      "url" : "https://www.hp-lexicon.org/source/interviews/today1/"
+    },
+    {
+      "text" : "January Magazine’s profile interview with George R. R. Martin is dated January 2001.",
+      "source" : "January Magazine (2001-01)",
+      "url" : "http://www.januarymagazine.com/profiles/grrmartin.html"
+    },
+    {
+      "text" : "PBS SoCal’s The Great American Read clip features George R.R. Martin discussing The Great Gatsby.",
+      "source" : "PBS SoCal / The Great American Read (2018)",
+      "url" : "https://www.pbssocal.org/shows/great-american-read/clip/george-r-r-martin-discusses-great-gatsby-wdvj3s"
+    },
+    {
+      "text" : "Rutube hosts a copy of the Absolute Radio red-carpet interview with Rowling at the Deathly Hallows — Part 2 premiere, dated 2011-07-07 in the original upload.",
+      "source" : "Absolute Radio (2011-07-07) / Rutube",
+      "url" : "https://rutube.ru/video/d3986ef5b67fda41da585b5464b29164/"
     }
   ],
   "entries" : [
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Comic-Con Avatar Panel (SDCC 2014)",
+      "date" : "2014-07",
+      "source" : "Comic-Con International (YouTube)",
+      "url" : "https://youtu.be/IYTGSzeeb44",
+      "summary" : "San Diego Comic-Con panel appearance featuring Martin in a multi-guest Q&A on comics and fandom.",
+      "tags" : ["panel","Comic-Con","video","archive"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Comic-Con Marvel Interview (SDCC 2014)",
+      "date" : "2014-07",
+      "source" : "Comic-Con International (YouTube)",
+      "url" : "https://youtu.be/PJay1xPU71s",
+      "summary" : "Comic-Con interview clip focused on his Marvel work and fantasy storytelling.",
+      "tags" : ["Comic-Con","interview","video","archive"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "BBC News Scotland interview — Getting Harry Potter published",
+      "date" : "1997",
+      "source" : "BBC News Scotland (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=Do2jy90Q1SI",
+      "summary" : "Early TV interview about landing a publisher for Harry Potter and the first book arriving in shops.",
+      "tags" : ["BBC","TV","archive","interview"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "BBC Blue Peter interview (1997)",
+      "date" : "1997-12-17",
+      "source" : "BBC Blue Peter (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=kwLFm0uocCo",
+      "summary" : "Blue Peter clip featuring early Harry Potter success and a kid-focused Q&A segment.",
+      "tags" : ["BBC","TV","archive","interview"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R. R. Martin Discusses The Great Gatsby (The Great American Read)",
+      "date" : "2018",
+      "source" : "PBS SoCal",
+      "url" : "https://www.pbssocal.org/shows/great-american-read/clip/george-r-r-martin-discusses-great-gatsby-wdvj3s",
+      "summary" : "PBS SoCal clip from The Great American Read series with Martin on why The Great Gatsby matters to him.",
+      "tags" : ["PBS","clip","interview","Great American Read"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling interview at the last ever Harry Potter premiere (Absolute Radio)",
+      "date" : "2011-07-07",
+      "source" : "Absolute Radio (Rutube)",
+      "url" : "https://rutube.ru/video/d3986ef5b67fda41da585b5464b29164/",
+      "summary" : "Rutube copy of the Absolute Radio red-carpet interview at the Deathly Hallows — Part 2 premiere.",
+      "tags" : ["premiere","film","interview","archive"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin reveals his dream project (Fevre Dream)",
+      "date" : "2025-03-14",
+      "source" : "Collider / YouTube",
+      "url" : "https://www.youtube.com/watch?v=-UesIEv18N4",
+      "summary" : "Collider exclusive interview ahead of In the Lost Lands where Martin says Fevre Dream is his dream adaptation and that he wrote the screenplay.",
+      "tags" : ["interview","Collider","adaptation","Fevre Dream"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Unedited J.K. Rowling interview on the birth of Harry Potter (ITN Archive)",
+      "date" : "1998-07-23",
+      "source" : "ITN Archive (Internet Archive)",
+      "url" : "https://archive.org/details/youtube-uTO9TUa797E",
+      "summary" : "ITN interview at Nicolsons Cafe in Edinburgh during early Harry Potter success and work on book three.",
+      "tags" : ["TV","interview","archive","Harry Potter"]
+    },
     {
       "author" : "George R. R. Martin",
       "title" : "George R.R. Martin on J.R.R. Tolkien and Clich00e9 Fantasy",
@@ -4878,6 +5015,50 @@
     },
   ],
   "events": [
+
+      {
+         "id" : "evt-2101",
+         "host" : "Collider Interviews",
+         "author" : "George R. R. Martin",
+         "summary" : "Collider exclusive interview ahead of In the Lost Lands where Martin discusses Fevre Dream as his dream adaptation and notes he wrote the screenplay.",
+         "date" : "2025-03-14",
+         "format" : "interview",
+         "outlet" : "Collider",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://www.youtube.com/watch?v=-UesIEv18N4",
+               "source" : "YouTube"
+            },
+            {
+               "type" : "article",
+               "url" : "https://collider.com/george-r-r-martin-dream-project-fevre-dream/",
+               "source" : "Collider"
+            }
+         ],
+         "title" : "George R.R. Martin reveals his dream project (Fevre Dream)",
+         "tags" : ["adaptation","Fevre Dream","interview"],
+         "location" : ""
+      },
+      {
+         "id" : "evt-2102",
+         "host" : "ITN",
+         "author" : "J.K. Rowling",
+         "summary" : "ITN interview at Nicolsons Cafe in Edinburgh about early Harry Potter success and work on book three.",
+         "date" : "1998-07-23",
+         "format" : "interview",
+         "outlet" : "ITN Archive",
+         "links" : [
+            {
+               "type" : "video",
+               "url" : "https://archive.org/details/youtube-uTO9TUa797E",
+               "source" : "Internet Archive"
+            }
+         ],
+         "title" : "J.K. Rowling ITN interview at Nicolsons Cafe",
+         "tags" : ["Harry Potter","archive","TV"],
+         "location" : "Edinburgh, Scotland"
+      },
 
       {
          "id" : "evt-0999",
