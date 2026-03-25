@@ -7,6 +7,36 @@
       "url" : "https://www.youtube.com/watch?v=NJaEY02Vs6U"
     },
     {
+      "title" : "r/JKRowling: K. Rowling in conversation with Whoopi Goldberg - Lumos Gala 2018",
+      "summary" : "Thread shares the Lumos gala video and calls out the charity-focused answers.",
+      "url" : "https://www.reddit.com/r/JKRowling/comments/itxuzs/k_rowling_in_conversation_with_whoopi_goldberg/"
+    },
+    {
+      "title" : "r/asoiaf: [No Spoilers] GRRM at the Santa Fe Literary Festival",
+      "summary" : "Fans recap the festival Q&A and point to standout audience questions in the clip.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/uvkvrx/no_spoilers_grrm_at_the_santa_fe_literary_fest/"
+    },
+    {
+      "title" : "r/asoiaf: [Spoilers EXTENDED] George interview with national ...",
+      "summary" : "Discussion thread reacting to the Hollywood Reporter interview and its adaptation updates.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/1p3trdl/spoilers_extended_george_interview_with_national/"
+    },
+    {
+      "title" : "r/HarryPotterBooks: Amazing J.K. Rowling Interview 1998 (Must see!)",
+      "summary" : "Fans flag the early-era 1998 interview clip as a must-watch time capsule.",
+      "url" : "https://www.reddit.com/r/HarryPotterBooks/comments/1cvcqke/amazing_jk_rowling_interview_1998_must_see/"
+    },
+    {
+      "title" : "r/harrypotter: Can anyone post a link to an interview where JKR talked about good Slytherins?",
+      "summary" : "Thread hunts down the original interview source and shares link leads in the comments.",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/1rnm23k/can_anyone_post_a_link_to_an_interview_where_jkr/"
+    },
+    {
+      "title" : "r/books: George R.R. Martin interview in The Guardian",
+      "summary" : "Readers point to the Guardian Q&A and highlight their favorite interview lines.",
+      "url" : "https://www.reddit.com/r/books/comments/9vsd2z/george_rr_martin_interview_in_the_guardian/"
+    },
+    {
       "title" : "YouTube comments: George R.R. Martin talks Game of Thrones with Walt Mossberg (AllThingsD)",
       "summary" : "Craft + adaptation nuggets — viewers recommend it for the concise HBO adaptation talk.",
       "url" : "https://www.youtube.com/watch?v=Qsg7kKx-AGA"
@@ -35,6 +65,21 @@
       "title" : "r/JKRowling: I wish she did more interviews",
       "summary" : "Fans swap favorite sit-downs and links while wishing there were more longform Q&As.",
       "url" : "https://www.reddit.com/r/JKRowling/comments/xppwsm/i_wish_she_did_more_interviews/"
+    },
+    {
+      "title" : "r/harrypotter: Good JK Rowling interviews?",
+      "summary" : "Thread asks for writing-process interviews; commenters trade their best longform picks.",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/s2swfg/good_jk_rowling_interviews/"
+    },
+    {
+      "title" : "r/asoiaf: (Spoilers All) The Best Interview with George RR Martin",
+      "summary" : "Fans point to the long io9/Charlie Jane Anders sit-down and call it the best GRRM interview.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/2pl00l/spoilers_all_the_best_interview_with_george_rr/"
+    },
+    {
+      "title" : "r/asoiaf: [No spoilers] What is your favourite George R.R Martin interview?",
+      "summary" : "Readers swap favorites and shout out the Texas A&M lecture/interview as a standout.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/5cjswc/no_spoilers_what_is_your_favourite_george_rr/"
     },
     {
       "title" : "r/asoiaf: GRRM interview on The Hour with Strombo",
@@ -1472,6 +1517,11 @@
       "url" : "https://www.youtube.com/watch?v=NJaEY02Vs6U"
     },
     {
+      "text" : "PBS Wisconsin lists the Finding Your Roots clip \"George R. R. Martin | Italian Roots\" as published on 2019-01-08.",
+      "source" : "PBS Wisconsin (2019-01-08)",
+      "url" : "https://pbswisconsin.org/watch/finding-your-roots/george-r-r-martin-italian-roots-1u3usc/"
+    },
+    {
       "text" : "The AllThingsD interview with Walt Mossberg featuring George R.R. Martin is dated 2013-03-21 on YouTube.",
       "source" : "The Wall Street Journal / AllThingsD (YouTube) (2013-03-21)",
       "url" : "https://www.youtube.com/watch?v=Qsg7kKx-AGA"
@@ -2151,7 +2201,6 @@
       "source" : "YouTube (2018-03-12)",
       "url" : "https://www.youtube.com/watch?v=H_8kNvFcvEA"
     },
-    {
     {
       "text" : "The YouTube upload \"George RR Martin on the Lord of Light\" is dated 2018-03-15.",
       "source" : "YouTube (2018-03-15)",
@@ -11361,6 +11410,93 @@
         "clip",
         "pseudonym",
         "Cormoran Strike"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R. R. Martin on What Inspired Dunk & Egg Story in New Show A Knight of the Seven Kingdoms",
+      "date" : "2026-01-15",
+      "source" : "The Hollywood Reporter (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=bihKduhSOIc",
+      "summary" : "On-set interview about the Dunk & Egg adaptation, how the story came to be, and Martins writing path.",
+      "tags" : [
+        "interview",
+        "video",
+        "The Hollywood Reporter",
+        "Dunk and Egg",
+        "A Knight of the Seven Kingdoms",
+        "writing"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George RR Martin at NYCC 2025 - Talks HUGE Battle!",
+      "date" : "2025-10-16",
+      "source" : "Headless Ned Stark (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=P1687NRJTmo",
+      "summary" : "Short fan-captured clip from NYCC 2025 where Martin teases a massive jousting sequence in A Knight of the Seven Kingdoms.",
+      "tags" : [
+        "NYCC",
+        "short clip",
+        "panel",
+        "A Knight of the Seven Kingdoms"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "JK Rowling on stolen Harry Potter manuscripts (Friday Night With Jonathan Ross)",
+      "date" : "2019-08-03",
+      "source" : "Friday Night With Jonathan Ross (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=6t76yexCZCM",
+      "summary" : "Clip from the Jonathan Ross show where Rowling discusses the stolen manuscript incident and her attachment to the books.",
+      "tags" : [
+        "Jonathan Ross",
+        "interview",
+        "clip",
+        "Harry Potter",
+        "manuscripts"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Video: How George R. R. Martin Came to Kill His Characters",
+      "date" : "2020",
+      "source" : "Chicago Humanities Festival (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=2ITA0MGG9Rk",
+      "summary" : "Short interview with Eve L. Ewing on Tolkien’s influence and his approach to writing.",
+      "tags" : [
+        "clip",
+        "interview",
+        "Chicago Humanities",
+        "Tolkien"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "A Conversation with George R. R. Martin | A Celebration of the Targaryen Dynasty",
+      "date" : "2022",
+      "source" : "Penguin Random House (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=EXZE_KQnat4",
+      "summary" : "Longform Random House event on Targaryen history and The Rise of the Dragon, with audience Q&A.",
+      "tags" : [
+        "conversation",
+        "longform",
+        "Rise of the Dragon",
+        "publisher"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling in conversation with Whoopi Goldberg (Lumos Gala 2018)",
+      "date" : "2018-09-22",
+      "source" : "Lumos (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=ShslwLcd604",
+      "summary" : "Lumos gala conversation about the charity’s mission, writing, and life after Harry Potter.",
+      "tags" : [
+        "conversation",
+        "charity",
+        "Lumos",
+        "longform"
       ]
     }
   ]
