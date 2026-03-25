@@ -1,6 +1,21 @@
 {
-  "updated" : "2026-03-24",
+  "updated" : "2026-03-25",
   "bestOf": [
+    {
+      "title" : "YouTube comments: J.K. Rowling answers questions about The Christmas Pig",
+      "summary" : "Kid-friendly Q&A — commenters call out her origin-story answers and warm tone.",
+      "url" : "https://www.youtube.com/watch?v=NJaEY02Vs6U"
+    },
+    {
+      "title" : "YouTube comments: George R.R. Martin talks Game of Thrones with Walt Mossberg (AllThingsD)",
+      "summary" : "Craft + adaptation nuggets — viewers recommend it for the concise HBO adaptation talk.",
+      "url" : "https://www.youtube.com/watch?v=Qsg7kKx-AGA"
+    },
+    {
+      "title" : "YouTube comments: George R.R. Martin + Joe Abercrombie at the Kimo Theatre",
+      "summary" : "Fantasy duo chemistry — commenters highlight the two-author banter and audience Q&A.",
+      "url" : "https://www.youtube.com/watch?v=WxM9cbxciw0"
+    },
     {
       "title" : "r/asoiaf: Short promotional interview with GRRM for The Mad King",
       "summary" : "\"short promo\" — commenters highlight the clip as a rare fresh GRRM sit-down and link the video.",
@@ -1452,6 +1467,21 @@
   ],
   "factoids": [
     {
+      "text" : "J.K. Rowling posted the The Christmas Pig Q&A video on 2021-09-09.",
+      "source" : "J.K. Rowling Stories (YouTube) (2021-09-09)",
+      "url" : "https://www.youtube.com/watch?v=NJaEY02Vs6U"
+    },
+    {
+      "text" : "The AllThingsD interview with Walt Mossberg featuring George R.R. Martin is dated 2013-03-21 on YouTube.",
+      "source" : "The Wall Street Journal / AllThingsD (YouTube) (2013-03-21)",
+      "url" : "https://www.youtube.com/watch?v=Qsg7kKx-AGA"
+    },
+    {
+      "text" : "The Kimo Theatre upload of the George R.R. Martin + Joe Abercrombie conversation is dated 2025-05-20.",
+      "source" : "Kimo Theatre (YouTube) (2025-05-20)",
+      "url" : "https://www.youtube.com/watch?v=WxM9cbxciw0"
+    },
+    {
       "text" : "The YouTube upload of "J. K. Rowling - A Year in the Life (ITV, 2007) - HD" is dated 2016-11-27.",
       "source" : "YouTube (2016-11-27)",
       "url" : "https://www.youtube.com/watch?v=Ij97LWo0I7s"
@@ -2204,6 +2234,42 @@
     }
   ],
   "entries" : [
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin on Northwestern, writing, and Game of Thrones (Chicago Tonight)",
+      "date" : "2021-06-17",
+      "source" : "PBS / Chicago Tonight",
+      "url" : "https://www.pbs.org/video/george-rr-martin-on-northwestern-writing-game-of-thrones-lvu/",
+      "summary" : "Full Chicago Tonight interview tied to his Northwestern honorary doctorate and career reflections.",
+      "tags" : ["TV","interview","PBS","writing"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin on adapting Game of Thrones (AllThingsD)",
+      "date" : "2013-03-21",
+      "source" : "The Wall Street Journal / AllThingsD (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=Qsg7kKx-AGA",
+      "summary" : "AllThingsD interview with Walt Mossberg covering the HBO adaptation and his writing process.",
+      "tags" : ["TV","interview","adaptation","writing"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling answers questions about The Christmas Pig",
+      "date" : "2021-09-09",
+      "source" : "J.K. Rowling Stories (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=NJaEY02Vs6U",
+      "summary" : "Reader Q&A about The Christmas Pig, inspirations, and writing for younger readers.",
+      "tags" : ["Q&A","writing","children's","video"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling full interview on The Oprah Winfrey Show",
+      "date" : "2010",
+      "source" : "The Oprah Winfrey Show (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=51s9WTix4XM",
+      "summary" : "Full Oprah sit-down covering fame, writing, and life after Harry Potter.",
+      "tags" : ["TV","interview","Oprah"]
+    },
     {
       "author" : "George R. R. Martin",
       "title" : "Would You Rather... with George R. R. Martin",
