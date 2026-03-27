@@ -1,6 +1,36 @@
 {
-  "updated" : "2026-03-25",
+  "updated" : "2026-03-26",
   "bestOf": [
+    {
+      "title" : "r/gameofthrones: George R.R. Martin Being Interviewed by John Hodgman",
+      "summary" : "Thread highlights a timestamped segment on death in the books and recommends the full Hodgman sit-down.",
+      "url" : "https://www.reddit.com/r/gameofthrones/comments/klau5/george_rr_martin_being_interviewed_by_john_hodgman/"
+    },
+    {
+      "title" : "r/Fantasy: John Hodgman interviews George R.R. Martin (PRI)",
+      "summary" : "Fantasy readers point to the PRI/Hodgman interview as a craft-heavy, relaxed longform chat.",
+      "url" : "https://www.reddit.com/r/Fantasy/comments/kspil/john_hodgman_interviews_george_rr_martin_priorg/"
+    },
+    {
+      "title" : "r/jkrowlingarchive: J.K. Rowling in conversation with Eddie Redmayne at Carnegie Hall",
+      "summary" : "Archive thread sharing the full Carnegie Hall video and calling out the Fantastic Beasts discussion.",
+      "url" : "https://www.reddit.com/r/jkrowlingarchive/comments/1aya0j6/jk_rowling_in_conversation_with_eddie_redmayne_at/"
+    },
+    {
+      "title" : "YouTube comments: Facebook Live: J.K. Rowling in conversation with Lauren Laverne",
+      "summary" : "Commenters highlight the relaxed live format and her discussion of Lumos and writing life.",
+      "url" : "https://www.youtube.com/watch?v=4WScHeY6soI"
+    },
+    {
+      "title" : "YouTube comments: A Conversation with JK Rowling & Daniel Radcliffe (Extended Version)",
+      "summary" : "Fans call out the on-stage rapport and behind-the-scenes film anecdotes in the extended cut.",
+      "url" : "https://www.youtube.com/watch?v=btWuw1uO334"
+    },
+    {
+      "title" : "YouTube comments: George RR Martin on the Game of Thrones Prequels",
+      "summary" : "Viewers focus on his prequel hints and the tradeoffs of adapting Westeros for TV.",
+      "url" : "https://www.youtube.com/watch?v=FzHTbkPLWwU"
+    },
     {
       "title" : "YouTube comments: J.K. Rowling answers questions about The Christmas Pig",
       "summary" : "Kid-friendly Q&A — commenters call out her origin-story answers and warm tone.",
@@ -110,6 +140,11 @@
       "title" : "HN: George R. R. Martin, Fantasy’s Reigning King",
       "summary" : "Hacker News discussion thread reacting to the NYT T Magazine profile/interview.",
       "url" : "https://news.ycombinator.com/item?id=18230525"
+    },
+    {
+      "title" : "HN: The Witch Trials of J.K. Rowling",
+      "summary" : "HN thread on the longform podcast/interview series, with notes on the most revealing episodes.",
+      "url" : "https://news.ycombinator.com/item?id=34878531"
     },
     {
       "title" : "HN: How J.K. Rowling Plotted Harry Potter with a Hand-Drawn Spreadsheet",
@@ -749,6 +784,11 @@
       "title" : "r/harrypotter: Unedited JK Rowling Interview on the Birth of Harry Potter (1998)",
       "summary" : "Thread flags the long uncut clip as a rare early interview.",
       "url" : "https://www.reddit.com/r/harrypotter/comments/12l2wn5/unedited_jk_rowling_interview_on_the_birth_of/"
+    },
+    {
+      "title" : "r/harrypotter: I found a 1999 interview J.K. Rowling did on daytime TV to promote ...",
+      "summary" : "Fans surface a 1999 daytime-TV interview and trade context about the era.",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/9ce7ls/i_found_a_1999_interview_jk_rowling_did_on/"
     },
     {
       "title" : "YouTube comments: George R.R. Martin — Burke Medal Interview (Trinity College Dublin)",
@@ -1509,8 +1549,33 @@
       "summary" : "'favorite reread' — users call out the Observation Deck interview as the standout longform Q&A.",
       "url" : "https://www.reddit.com/r/asoiaf/comments/2pl00l/spoilers_all_the_best_interview_with_george_rr/"
     },
+    {
+      "title" : "r/HarryPotteronHBO: Trivia — Rowling & Steve Kloves 2011 interview clip",
+      "summary" : "Thread highlights the Rowling/Kloves conversation clip and calls out the adaptation talk in the Q&A.",
+      "url" : "https://www.reddit.com/r/HarryPotteronHBO/comments/1rvn18y/trivia_in_a_2011_interview_jk_rowling_commented/"
+    },
+    {
+      "title" : "r/grrm: [Interview] 'I don't like retcons' / 'I don't like reboots'",
+      "summary" : "Discussion thread reacting to the NYCC interview and sharing his strongest philosophy quotes.",
+      "url" : "https://www.reddit.com/r/grrm/comments/1ow4tbz/interview_dont_expect_grrm_to_change_what_has/"
+    },
+    {
+      "title" : "r/harrypotter: Facts Rowling let slip in interviews (19 years later)",
+      "summary" : "Fans compile interview tidbits and debate the post-series revelations they point to.",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/145jif/some_facts_that_jk_rowling_let_slip_in_numerous/"
+    },
   ],
   "factoids": [
+    {
+      "text" : "Lumos's Facebook Live conversation with J.K. Rowling and Lauren Laverne was uploaded on 2016-09-26.",
+      "source" : "Lumos (YouTube, 2016-09-26)",
+      "url" : "https://www.youtube.com/watch?v=4WScHeY6soI"
+    },
+    {
+      "text" : "Jean Cocteau Cinema uploaded the author-event conversation hosted by George R.R. Martin with Marlon James on 2019-04-18.",
+      "source" : "Jean Cocteau Cinema (YouTube, 2019-04-18)",
+      "url" : "https://www.youtube.com/watch?v=S9AxEjlj1Q8"
+    },
     {
       "text" : "J.K. Rowling posted the The Christmas Pig Q&A video on 2021-09-09.",
       "source" : "J.K. Rowling Stories (YouTube) (2021-09-09)",
@@ -2283,6 +2348,141 @@
     }
   ],
   "entries" : [
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin with Lena Headey & Michelle Fairley (Sydney Opera House)",
+      "date" : "2023-06-10",
+      "source" : "Sydney Opera House (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=k3-r4eKAQaw",
+      "summary" : "On-stage conversation with the Game of Thrones cast and Martin, covering adaptation talk and audience Q&A.",
+      "tags" : ["conversation","panel","video","Game of Thrones"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin with Michelle Fairley (The Wheeler Centre)",
+      "date" : "2013-11-13",
+      "source" : "The Wheeler Centre (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=vLkvLpPWWvI",
+      "summary" : "Longform interview in Melbourne with craft talk, adaptations, and audience questions.",
+      "tags" : ["conversation","festival","longform","video"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling in conversation with Eddie Redmayne (Carnegie Hall)",
+      "date" : "2016-11-15",
+      "source" : "Carnegie Hall (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=ca5HYNFuNQk",
+      "summary" : "Carnegie Hall conversation about Fantastic Beasts and the expanded wizarding world.",
+      "tags" : ["conversation","Fantastic Beasts","video","film"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "BBC Radio 4 Bookclub — J.K. Rowling (2015)",
+      "date" : "2015",
+      "source" : "BBC Radio 4 (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=HGnQbydfYXg",
+      "summary" : "Reader-question-led Bookclub session focused on the Harry Potter books.",
+      "tags" : ["radio","BBC","Q&A","video"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Second Life Appearance (virtual Q&A)",
+      "date" : "2007-05-31",
+      "source" : "Second Life (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=tYonVhBqh1Q",
+      "summary" : "Virtual-world fan Q&A session with Martin answering questions inside Second Life.",
+      "tags" : ["Q&A","virtual","fan-questions","video"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Dunk and Egg Story Inspiration (A Knight of the Seven Kingdoms)",
+      "date" : "2026-01-15",
+      "source" : "The Hollywood Reporter (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=bihKduhSOIc",
+      "summary" : "Short interview clip about the inspiration for the Dunk and Egg story in the upcoming series.",
+      "tags" : ["interview","video","clip","television"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Creating Dunk and Egg (Official Game of Thrones Podcast: AKOTSK)",
+      "date" : "2026-01-12",
+      "source" : "Game of Thrones (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=9vQ6XhuVo7o",
+      "summary" : "Podcast interview segment on creating Dunk and Egg and the A Knight of the Seven Kingdoms adaptation.",
+      "tags" : ["interview","podcast","video","adaptation"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "Discusses Dune and Frank Herbert",
+      "date" : "2025-03-17",
+      "source" : "Collider Interviews (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=rukRtvMiqN4",
+      "summary" : "Short sit-down clip about Dune, Frank Herbert, and genre influences.",
+      "tags" : ["interview","video","clip","influences"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "HarperCollins London Exclusive with Robin Hobb",
+      "date" : "2014-08",
+      "source" : "HarperCollins (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=tXLYSnMIrXM",
+      "summary" : "Publisher-hosted sit-down with Robin Hobb covering fantasy craft and readership.",
+      "tags" : ["interview","publishing","fantasy","video"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling on Desert Island Discs (BBC Radio 4)",
+      "date" : "2000",
+      "source" : "BBC Radio 4 (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=bM1AVXyqzTY",
+      "summary" : "Longform radio interview discussing early fame, writing life, and music picks.",
+      "tags" : ["interview","radio","longform","video"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling on Friday Night with Jonathan Ross",
+      "date" : "2007",
+      "source" : "Friday Night with Jonathan Ross (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=EiVp0Z4QwF0",
+      "summary" : "TV studio interview touching on the Potter series, fame, and upcoming projects.",
+      "tags" : ["interview","TV","Harry Potter","video"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin's Author Event Series: Featuring Marlon James",
+      "date" : "2019-04-18",
+      "source" : "Jean Cocteau Cinema (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=S9AxEjlj1Q8",
+      "summary" : "Longform author-event conversation where Martin hosts Marlon James, with audience Q&A.",
+      "tags" : ["conversation","author-event","video","literary"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George RR Martin on the Game of Thrones Prequels",
+      "date" : "2019-10-08",
+      "source" : "Aegon Targaryen (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=FzHTbkPLWwU",
+      "summary" : "Short interview clip on prequel plans and the future of Westeros on TV.",
+      "tags" : ["interview","Game of Thrones","prequel","video"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Facebook Live: J.K. Rowling in conversation with Lauren Laverne",
+      "date" : "2016-09-26",
+      "source" : "Lumos (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=4WScHeY6soI",
+      "summary" : "Facebook Live charity conversation covering Lumos, writing life, and recent work.",
+      "tags" : ["interview","Facebook Live","charity","video"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "A Conversation with JK Rowling & Daniel Radcliffe (Extended Version)",
+      "date" : "2014-11-15",
+      "source" : "misshef (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=btWuw1uO334",
+      "summary" : "Extended stage conversation about the films, collaboration, and the Potter legacy.",
+      "tags" : ["conversation","Harry Potter","film","video"]
+    },
     {
       "author" : "George R. R. Martin",
       "title" : "George R.R. Martin on Northwestern, writing, and Game of Thrones (Chicago Tonight)",
@@ -11497,6 +11697,90 @@
         "charity",
         "Lumos",
         "longform"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "A Dance with Dragons (Talks at Google)",
+      "date" : "2011-08-07",
+      "source" : "Talks at Google (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=QTTW8M_etko",
+      "summary" : "Longform Google talk covering A Dance with Dragons, writing process, and audience Q&A.",
+      "tags" : [
+        "talk",
+        "longform",
+        "Q&A",
+        "YouTube"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "In Conversation With... George R.R. Martin (TIFF Bell Lightbox)",
+      "date" : "2012-03-16",
+      "source" : "TIFF Bell Lightbox (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=nmDBgsMetno",
+      "summary" : "Extended TIFF conversation touching on A Song of Ice and Fire origins, TV adaptation, and audience questions.",
+      "tags" : [
+        "conversation",
+        "festival",
+        "Q&A",
+        "YouTube"
+      ]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "An Evening with George R.R. Martin and Michelle Fairley (The Wheeler Centre)",
+      "date" : "2013-11-13",
+      "source" : "The Wheeler Centre (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=vLkvLpPWWvI",
+      "summary" : "Festival conversation featuring Martin and Michelle Fairley on adaptation, characters, and audience Q&A.",
+      "tags" : [
+        "festival",
+        "conversation",
+        "Q&A",
+        "YouTube"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Harry Potter and Me (BBC documentary)",
+      "date" : "2001-12-28",
+      "source" : "BBC (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=SrJiAG8GmnQ",
+      "summary" : "BBC documentary-style interview covering Rowling’s life, writing path, and the early Potter phenomenon.",
+      "tags" : [
+        "documentary",
+        "interview",
+        "BBC",
+        "YouTube"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling - A Year in the Life (ITV)",
+      "date" : "2007-12-30",
+      "source" : "ITV (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=Ij97LWo0I7s",
+      "summary" : "Television documentary/interview tracking Rowling’s life and reflections around the final Potter releases.",
+      "tags" : [
+        "documentary",
+        "interview",
+        "ITV",
+        "YouTube"
+      ]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "A Conversation between J.K. Rowling and Steve Kloves",
+      "date" : "2011-07-09",
+      "source" : "HarryPotterAdmirer (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=LoBPOZznSvY",
+      "summary" : "On-stage conversation with the screenwriter on adaptations, writing choices, and film collaboration.",
+      "tags" : [
+        "conversation",
+        "adaptation",
+        "film",
+        "YouTube"
       ]
     }
   ]
