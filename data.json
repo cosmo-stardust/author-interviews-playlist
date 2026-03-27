@@ -2,6 +2,20 @@
   "updated" : "2026-03-27",
   "bestOf": [
     {
+      "title" : "YouTube comments: George R.R. Martin at the Oxford Union",
+      "summary" : "Commenters highlight the longform Q&A and his candid answers about the series and adaptations.",
+      "url" : "https://www.youtube.com/watch?v=YbU5imNyDaU"
+    },
+    {
+      "title" : "YouTube comments: 60 Minutes Australia — J.K. Rowling (2000 interview)",
+      "summary" : "Viewers call it a time‑capsule of early Potter‑era fame and origin‑story details.",
+      "url" : "https://www.youtube.com/watch?v=g46_o2gH7gE"
+    },
+    {
+      "title" : "YouTube comments: Living with Harry Potter (Stephen Fry interview)",
+      "summary" : "Listeners praise the candid tone and Stephen Fry’s rapport with Rowling.",
+      "url" : "https://www.youtube.com/watch?v=YXYQqoTxAyM"
+    },    {
       "title" : "YouTube comments: J.K. Rowling - The Casual Vacancy interview on GMA",
       "summary" : "Commenters highlight her reflections on writing for adults and the shift to The Casual Vacancy.",
       "url" : "https://www.youtube.com/watch?v=Jh9d-CTqnsY"
@@ -1613,6 +1627,15 @@
   ],
   "factoids": [
     {
+      "text" : "Oxford Union’s YouTube upload of the full George R.R. Martin interview is dated 2026-01-20.",
+      "source" : "Oxford Union (YouTube) (2026-01-20)",
+      "url" : "https://www.youtube.com/watch?v=YbU5imNyDaU"
+    },
+    {
+      "text" : "BBC Radio 4’s Living with Harry Potter special aired on 2005-12-10.",
+      "source" : "BBC Radio 4 (2005-12-10)",
+      "url" : "https://www.bbc.co.uk/programmes/b0076w0r"
+    },    {
       "text" : "The YouTube upload titled \"J. K. Rowling - 'The Casual Vacancy' Interview/ Reads Excerpt on 'GMA'\" is dated 2014-08-15.",
       "source" : "YouTube (2014-08-15)",
       "url" : "https://www.youtube.com/watch?v=Jh9d-CTqnsY"
@@ -2425,6 +2448,41 @@
   ],
   "entries" : [
     {
+      "author" : "George R. R. Martin",
+      "title" : "Author George RR Martin Interview at the Oxford Union",
+      "date" : "2026-01-20",
+      "source" : "Oxford Union (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=YbU5imNyDaU",
+      "summary" : "Longform Oxford Union conversation covering his career, ASOIAF, and adaptation questions.",
+      "tags" : ["interview","longform","university","video","best"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R. R. Martin Answers Fan Questions",
+      "date" : "2022-10-28",
+      "source" : "Penguin Random House (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=7R4c_2uaxT8",
+      "summary" : "Publisher Q&A clip with reader questions tied to The Rise of the Dragon livestream.",
+      "tags" : ["Q&A","publisher","video","fan-questions"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "The Secret to Harry Potter: 2000 Interview | 60 Minutes Australia",
+      "date" : "2000",
+      "source" : "60 Minutes Australia (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=g46_o2gH7gE",
+      "summary" : "Archive-era sit-down covering her early success and the origins of Harry Potter.",
+      "tags" : ["TV","interview","archive","Harry Potter"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "Living with Harry Potter (Stephen Fry interview)",
+      "date" : "2005-12-10",
+      "source" : "BBC Radio 4 (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=YXYQqoTxAyM",
+      "summary" : "BBC Radio 4 special with Stephen Fry reflecting on fame, writing, and the series impact.",
+      "tags" : ["radio","BBC","interview","archive","video"]
+    },    {
       "author" : "J.K. Rowling",
       "title" : "J. K. Rowling - 'The Casual Vacancy' Interview/ Reads Excerpt on 'GMA'",
       "date" : "2014-08-15",
