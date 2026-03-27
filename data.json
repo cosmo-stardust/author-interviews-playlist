@@ -1,6 +1,37 @@
 {
-  "updated" : "2026-03-26",
+  "updated" : "2026-03-27",
   "bestOf": [
+    {
+      "title" : "YouTube comments: J.K. Rowling - The Casual Vacancy interview on GMA",
+      "summary" : "Commenters highlight her reflections on writing for adults and the shift to The Casual Vacancy.",
+      "url" : "https://www.youtube.com/watch?v=Jh9d-CTqnsY"
+    },
+    {
+      "title" : "YouTube comments: J.K. Rowling - Friday Night with Jonathan Ross (2007)",
+      "summary" : "Fans call out her humor and the relaxed studio chat about the Potter era.",
+      "url" : "https://www.youtube.com/watch?v=bdMe4wGRElE"
+    },
+    {
+      "title" : "YouTube comments: George R.R. Martin + Joe Abercrombie at the Kimo Theatre (highlights)",
+      "summary" : "Viewers point to the author banter and quick craft talk as the best bits.",
+      "url" : "https://www.youtube.com/watch?v=yyez_PNUvWo"
+    },
+    {
+      "title" : "r/television: George RR Martin on the Best Portrayal in Game of Thrones",
+      "summary" : "Quote: \"I especially like when he addresses how he pictures characters after seeing books turned into movies.\"",
+      "url" : "https://www.reddit.com/r/television/comments/1drxu03/george_rr_martin_on_the_best_portrayal_in_game_of/"
+    },
+    {
+      "title" : "r/books: Podcast interview with George RR Martin (thought some folks might enjoy this)",
+      "summary" : "Quote: \"thought some folks here might enjoy this podcast interview.\"",
+      "url" : "https://www.reddit.com/r/books/comments/dnsfa/podcast_interview_with_george_rr_martin_thought/"
+    },
+    {
+      "title" : "r/harrypotter: Best interviews with JK where she talks about her writing process?",
+      "summary" : "Quote: \"writing process - early character development ...\"",
+      "url" : "https://www.reddit.com/r/harrypotter/comments/194ouaw/best_interviews_with_jk_where_she_talks_about_her/"
+    },
+
     {
       "title" : "r/asoiaf: (Spoilers Main) Newly released GRRM interview from a ...",
       "summary" : "Thread shares a newly surfaced GRRM interview and highlights a quote about his daily writing routine.",
@@ -1582,6 +1613,21 @@
   ],
   "factoids": [
     {
+      "text" : "The YouTube upload titled \"J. K. Rowling - 'The Casual Vacancy' Interview/ Reads Excerpt on 'GMA'\" is dated 2014-08-15.",
+      "source" : "YouTube (2014-08-15)",
+      "url" : "https://www.youtube.com/watch?v=Jh9d-CTqnsY"
+    },
+    {
+      "text" : "The YouTube upload titled \"J. K. Rowling - Friday Night With Jonathan Ross (2007)\" is dated 2014-08-15.",
+      "source" : "YouTube (2014-08-15)",
+      "url" : "https://www.youtube.com/watch?v=bdMe4wGRElE"
+    },
+    {
+      "text" : "The Kimo Theatre highlights upload of the George R.R. Martin + Joe Abercrombie conversation is dated 2025-05-16.",
+      "source" : "Kimo Theatre (YouTube, 2025-05-16)",
+      "url" : "https://www.youtube.com/watch?v=yyez_PNUvWo"
+    },
+    {
       "text" : "IGN Africa published the IGN Fan Fest 2025 video \"George R.R. Martin Teases Elden Ring Movie and In The Lost Lands\" on 2025-02-25.",
       "source" : "IGN Fan Fest (IGN Africa) (2025-02-25)",
       "url" : "https://za.ign.com/in-the-lost-lands/206250/video/george-rr-martin-teases-elden-ring-movie-and-in-the-lost-lands-ign-fan-fest-2025"
@@ -2365,9 +2411,92 @@
       "text" : "Rutube hosts a copy of the Absolute Radio red-carpet interview with Rowling at the Deathly Hallows — Part 2 premiere, dated 2011-07-07 in the original upload.",
       "source" : "Absolute Radio (2011-07-07) / Rutube",
       "url" : "https://rutube.ru/video/d3986ef5b67fda41da585b5464b29164/"
+    },
+    {
+      "text" : "TODAY's Matt Lauer sit-down with J.K. Rowling (Lumos focus) is preserved on the official TODAY YouTube channel.",
+      "source" : "TODAY (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=hGn5qrg8Ds4"
+    },
+    {
+      "text" : "Penguin Random House hosted a Rise of the Dragon livestream conversation with George R.R. Martin, Linda Antonsson, and Elio Garcia Jr.",
+      "source" : "Penguin Random House (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=7R4c_2uaxT8"
     }
   ],
   "entries" : [
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J. K. Rowling - 'The Casual Vacancy' Interview/ Reads Excerpt on 'GMA'",
+      "date" : "2014-08-15",
+      "source" : "GMA (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=Jh9d-CTqnsY",
+      "summary" : "Good Morning America clip featuring Rowling discussing The Casual Vacancy and reading an excerpt.",
+      "tags" : ["TV","interview","The Casual Vacancy","clip","YouTube"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J. K. Rowling - Friday Night With Jonathan Ross (2007)",
+      "date" : "2014-08-15",
+      "source" : "Friday Night With Jonathan Ross (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=bdMe4wGRElE",
+      "summary" : "TV studio interview from the Potter era, reuploaded with the 2007 sit-down.",
+      "tags" : ["TV","interview","archive","YouTube"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George RR Martin on his Differences with Tolkien",
+      "date" : "2021-03-08",
+      "source" : "YouTube",
+      "url" : "https://www.youtube.com/watch?v=NrHybzmNAdk",
+      "summary" : "Short clip where Martin contrasts his fantasy approach with Tolkien.",
+      "tags" : ["clip","interview","fantasy","YouTube"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin + Joe Abercrombie at the Kimo Theatre (highlights)",
+      "date" : "2025-05-16",
+      "source" : "Kimo Theatre (fan upload)",
+      "url" : "https://www.youtube.com/watch?v=yyez_PNUvWo",
+      "summary" : "Highlights reel from the Kimo Theatre conversation with Joe Abercrombie.",
+      "tags" : ["conversation","highlights","book-event","YouTube"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "A Dance with Dragons - Talks at Google",
+      "date" : "2011",
+      "source" : "Talks at Google (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=QTTW8M_etko",
+      "summary" : "Longform author talk and Q&A on A Dance with Dragons, writing routines, and series planning.",
+      "tags" : ["talk","Q&A","writing","YouTube"]
+    },
+    {
+      "author" : "George R. R. Martin",
+      "title" : "The Rise of the Dragon livestream (with Linda Antonsson & Elio Garcia Jr.)",
+      "date" : "2022-10-28",
+      "source" : "Penguin Random House (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=7R4c_2uaxT8",
+      "summary" : "Launch livestream discussing The Rise of the Dragon art book, canon details, and adaptation notes.",
+      "tags" : ["conversation","livestream","Targaryen","YouTube"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling Talks Harry Potter and More | TODAY",
+      "date" : "2016",
+      "source" : "TODAY (YouTube)",
+      "url" : "https://www.youtube.com/watch?v=hGn5qrg8Ds4",
+      "summary" : "Matt Lauer sit-down focused on Lumos, the future of Harry Potter, and her broader philanthropy.",
+      "tags" : ["TV","interview","Lumos","YouTube"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling interview with Christiane Amanpour (CNN)",
+      "date" : "2017-07-10",
+      "source" : "CNN / Amanpour",
+      "url" : "https://edition.cnn.com/videos/entertainment/2017/07/10/j-k-rowling-harry-potter-author-amanpour-full-intv.cnn",
+      "summary" : "Amanpour interview on the Harry Potter legacy, Fantastic Beasts, and her writing life.",
+      "tags" : ["TV","interview","CNN","video"]
+    },
+
     {
       "author" : "George R. R. Martin",
       "title" : "George R.R. Martin Teases Elden Ring Movie and In The Lost Lands (IGN Fan Fest 2025)",
