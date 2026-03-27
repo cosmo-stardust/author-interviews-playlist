@@ -2,6 +2,21 @@
   "updated" : "2026-03-26",
   "bestOf": [
     {
+      "title" : "r/asoiaf: (Spoilers Main) Newly released GRRM interview from a ...",
+      "summary" : "Thread shares a newly surfaced GRRM interview and highlights a quote about his daily writing routine.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/9hriat/spoilers_main_newly_released_grrm_interview_from/"
+    },
+    {
+      "title" : "r/asoiaf: Best interview with GRRM (Eastercon)",
+      "summary" : "Fans recommend the Eastercon Q&A and trade timestamps for the strongest answers.",
+      "url" : "https://www.reddit.com/r/asoiaf/comments/t77ns/best_interview_with_grrm_eastercon/"
+    },
+    {
+      "title" : "r/gameofthrones: [SPOILERS] Excellent GRRM Interview (spoilers only)",
+      "summary" : "Thread calls out a standout GRRM sit-down and debates his adaptation comments.",
+      "url" : "https://www.reddit.com/r/gameofthrones/comments/8iksrk/spoilers_excellent_grrm_interview_spoilers_only/"
+    },
+    {
       "title" : "r/gameofthrones: George R.R. Martin Being Interviewed by John Hodgman",
       "summary" : "Thread highlights a timestamped segment on death in the books and recommends the full Hodgman sit-down.",
       "url" : "https://www.reddit.com/r/gameofthrones/comments/klau5/george_rr_martin_being_interviewed_by_john_hodgman/"
@@ -1567,6 +1582,11 @@
   ],
   "factoids": [
     {
+      "text" : "IGN Africa published the IGN Fan Fest 2025 video \"George R.R. Martin Teases Elden Ring Movie and In The Lost Lands\" on 2025-02-25.",
+      "source" : "IGN Fan Fest (IGN Africa) (2025-02-25)",
+      "url" : "https://za.ign.com/in-the-lost-lands/206250/video/george-rr-martin-teases-elden-ring-movie-and-in-the-lost-lands-ign-fan-fest-2025"
+    },
+    {
       "text" : "Lumos's Facebook Live conversation with J.K. Rowling and Lauren Laverne was uploaded on 2016-09-26.",
       "source" : "Lumos (YouTube, 2016-09-26)",
       "url" : "https://www.youtube.com/watch?v=4WScHeY6soI"
@@ -2348,6 +2368,24 @@
     }
   ],
   "entries" : [
+    {
+      "author" : "George R. R. Martin",
+      "title" : "George R.R. Martin Teases Elden Ring Movie and In The Lost Lands (IGN Fan Fest 2025)",
+      "date" : "2025-02-25",
+      "source" : "IGN Fan Fest (IGN Africa)",
+      "url" : "https://za.ign.com/in-the-lost-lands/206250/video/george-rr-martin-teases-elden-ring-movie-and-in-the-lost-lands-ign-fan-fest-2025",
+      "summary" : "IGN Fan Fest video interview about the In the Lost Lands adaptation, Elden Ring mythology work, and other current projects.",
+      "tags" : ["interview","video","IGN","In the Lost Lands","Elden Ring"]
+    },
+    {
+      "author" : "J.K. Rowling",
+      "title" : "J.K. Rowling Rare Interview with Graham Norton (fan upload)",
+      "date" : "2024",
+      "source" : "YouTube (fan upload)",
+      "url" : "https://www.youtube.com/watch?v=tFqSvZQp9kk",
+      "summary" : "Fan-uploaded clip labeled as a rare Graham Norton sit-down with Rowling.",
+      "tags" : ["interview","TV","clip","archive"]
+    },
     {
       "author" : "George R. R. Martin",
       "title" : "George R.R. Martin with Lena Headey & Michelle Fairley (Sydney Opera House)",
